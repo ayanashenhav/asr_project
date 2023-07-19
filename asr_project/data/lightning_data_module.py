@@ -6,7 +6,6 @@ class ASRDataModule(pl.LightningDataModule):
     def __init__(self, config, wanted_inputs):
         super().__init__()
         self.config = config
-        # self.collate_fn = None
         self.train_batch_size = config['train.batch_size']
         self.wanted_inputs = wanted_inputs
 
@@ -29,12 +28,13 @@ class ASRDataModule(pl.LightningDataModule):
 
     def train_dataloader(self):
         return DataLoader(self.trainset, batch_size=self.train_batch_size, shuffle=True
-                          , num_workers=self.config['train.n_data_threads'],
+                          , num_workers=self.config['train.n_data_threads'], collate_fn=self.trainset.collate_fn,
                           worker_init_fn=worker_init_fn, pin_memory=True, drop_last=True)
 
     def val_dataloader(self):
         return DataLoader(self.validset, batch_size=self.config['train.validation.batch_size'], shuffle=False,
-                          num_workers=0, worker_init_fn=worker_init_fn, pin_memory=False)
+                          num_workers=0, worker_init_fn=worker_init_fn, pin_memory=False,
+                          collate_fn=self.validset.collate_fn)
 
     def test_dataloader(self):
         return None

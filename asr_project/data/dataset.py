@@ -1,13 +1,9 @@
-from functools import wraps
+import os.path
 import numpy as np
 import torch
-import torch.nn.functional as F
 import torchaudio
-from einops import rearrange
 from torch.utils.data import Dataset
-from torchaudio.functional import resample
 
-# dataset functions
 
 class ASRDataSet(Dataset):
     def __init__(self, config, dataset_args, wanted_inputs):
@@ -15,94 +11,62 @@ class ASRDataSet(Dataset):
         self.config = config
         self.dataset_args = dataset_args
         self.wanted_inputs = wanted_inputs
-        max_length_sec = self.dataset_args['max_length_data_sec']
-        target_sample_rate = config['train.target_sample_rate']
-        max_length = max_length_sec * target_sample_rate
-        seq_len_multiple_of = config.get('model.modules.codec.seq_len_multiple_of', None) # Todo: Fix this.
         self.filelist = self.dataset_args['filelist']
         self.validation = self.dataset_args['validation']
 
-        files = []
-        if not isinstance(self.filelist, list):
-            self.filelist = [self.filelist]
+        # Preparing samples in init.
+        # todo: consider reading the audio and normalize the text here, so i won't happen more than once.
+        samples = []
+        lines = list(open(self.filelist, 'r').read().split('\n'))
+        lines.remove("")
+        for line in lines:
+            path, text = line.split('|')
+            samples.append({'wav_path': os.path.abspath(path), 'text': text})
 
-        for file in self.filelist:
-            lst_wav = list(open(file, 'r').read().split('\n'))
-            lst_wav.remove("")
-            files.extend(lst_wav)
+        assert len(samples) > 0, 'no sound samples found'
 
-        assert len(files) > 0, 'no sound files found'
-
-        self.files = files
+        self.samples = samples
 
     def __len__(self):
-        return len(self.files)
+        return len(self.samples)
 
     def __getitem__(self, idx):
-        file = self.files[idx]
+        sample = self.samples[idx]
+        item_data = dict()
+        raw_wav, sample_hz = torchaudio.load(sample['wav_path'])
 
-        data, sample_hz = torchaudio.load(file)
-
-        assert data.numel() > 0, f'one of your audio file ({file}) is empty. please remove it from your folder'
-
-        if data.shape[0] > 1:
+        if raw_wav.shape[0] > 1:
             # the audio has more than 1 channel, convert to mono
-            data = torch.mean(data, dim=0).unsqueeze(0)
+            raw_wav = torch.mean(raw_wav, dim=0).unsqueeze(0)
 
-        num_outputs = len(self.target_sample_rate)
-        data = cast_tuple(data, num_outputs)
+        item_data['raw_wav'] = raw_wav
+        item_data['raw_text'] = sample['text']
 
-        # resample if target_sample_rate is not None in the tuple
+        # TODO: Add here some feature extration.
+        # TODO: Need to toknize the tex to labels (ids?) so it can be pad for the loss
+        # Extract Audio Features
+        if 'mel' in self.wanted_inputs:
+            pass
+        if 'mfcc' in self.wanted_inputs:
+            pass
 
-        data_tuple = tuple(
-            (resample(d, sample_hz, target_sample_rate) if exists(target_sample_rate) else d) for d, target_sample_rate
-            in zip(data, self.target_sample_rate))
+        # Extract Text Features
+        if 'phonemes' in self.wanted_inputs:
+            pass
 
-        output = []
+        return item_data
 
-        # process each of the data resample at different frequencies individually
-
-        for data, max_length, seq_len_multiple_of in zip(data_tuple, self.max_length, self.seq_len_multiple_of):
-            audio_length = data.size(1)
-
-            # pad or curtail
-
-            if audio_length > max_length:
-                max_start = int(audio_length - max_length)
-                start = torch.randint(0, max_start, (1,)) if not self.validation else 0
-                data = data[:, start:start + max_length]
-
-            else:
-                data = F.pad(data, (0, max_length - audio_length), 'constant')
-
-            data = rearrange(data, '1 ... -> ...')
-
-            if exists(max_length):
-                data = data[:max_length]
-
-            if exists(seq_len_multiple_of):
-                data = curtail_to_multiple(data, seq_len_multiple_of)
-
-            output.append(data.float())
-
-        # cast from list to tuple
-
-        output = tuple(output)
-
-        # return only one audio, if only one target resample freq
-
-        if num_outputs == 1:
-            return output[0]
-        return output
+    def collate_fn(self, batch):
+        pass
+        # TODO: Add padding to each relevant item.
 
     def print_logs(self, level: int = 0) -> None:
         indent = "\t" * level
         print(f"{indent}> Dataset initialization")
         print(f"{indent}| > Is validation dataset : {self.validation}")
         print(f"{indent}| > Numbe of samples : {self.__len__()}")
-        print(f"{indent}| > Wavs filelist : {self.filelist}")
-        print(f"{indent}| > Target Sample Rate : {self.target_sample_rate}")
-        print(f"{indent}| > Max length data : {self.max_length}")
+        print(f"{indent}| > Sampels filelist : {self.filelist}")
+        # print(f"{indent}| > Sample Rate : {self.target_sample_rate}")
 
 
 # dataloader functions
