@@ -1,0 +1,4 @@
+_target_: torch.nn.CTCLoss
+blank: 0
+reduction: mean
+zero_infinity: False

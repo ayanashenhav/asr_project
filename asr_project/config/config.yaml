@@ -1,0 +1,5 @@
+defaults:
+  - trainer: lightning
+  - model: naive_cnn
+  - loss: ctc
+  - data: an4
