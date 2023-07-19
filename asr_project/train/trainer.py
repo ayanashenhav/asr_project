@@ -1,11 +1,12 @@
 import os
+
 import pytorch_lightning as pl
-from pytorch_lightning.callbacks import ModelSummary
 from pytorch_lightning.callbacks import ModelCheckpoint
+from pytorch_lightning.callbacks import ModelSummary
 from pytorch_lightning.loggers import TensorBoardLogger
 
 from ..data.lightning_data_module import ASRDataModule
-from ..model.lightning_model import ASRLighteningModel
+from ..model.lightning_model import ASRModelLightening
 from ..utils.utils import get_config
 
 DEFAULT_CONFIG_PATH = os.path.expanduser('~/python3/languages/hear/audiolm/audiolm/default_configs')
@@ -13,7 +14,7 @@ DEFAULT_CONFIG_PATH = os.path.expanduser('~/python3/languages/hear/audiolm/audio
 
 def main_train(full_path):
     config = get_config(full_path, DEFAULT_CONFIG_PATH)
-    model = ASRLighteningModel(config)
+    model = ASRModelLightening(config)
     data_module = ASRDataModule(config, model.get_input_names())
 
     # TODO: Change to W&B

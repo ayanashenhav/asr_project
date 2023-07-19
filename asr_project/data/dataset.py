@@ -4,7 +4,6 @@ import torch
 import torch.nn.functional as F
 import torchaudio
 from einops import rearrange
-from torch.nn.utils.rnn import pad_sequence
 from torch.utils.data import Dataset
 from torchaudio.functional import resample
 
@@ -107,45 +106,6 @@ class ASRDataSet(Dataset):
 
 
 # dataloader functions
-
-def collate_one_or_multiple_tensors(fn):
-    @wraps(fn)
-    def inner(data):
-
-        is_one_data = not isinstance(data[0], tuple)
-
-        if is_one_data:
-            data = torch.stack(data)
-
-            return {'orig_audio': data[:, None, :]}
-
-        outputs = []
-        for datum in zip(*data):
-            if is_bearable(datum, Tuple[str, ...]):
-                output = list(datum)
-            else:
-                output = fn(datum)
-
-            outputs.append(output)
-
-        return {'orig_audio': tuple(outputs)}
-
-    return inner
-
-
-@collate_one_or_multiple_tensors
-def curtail_to_shortest_collate(data):
-    min_len = min(*[datum.shape[0] for datum in data])
-    data = [datum[:min_len] for datum in data]
-    return torch.stack(data)
-
-
-@collate_one_or_multiple_tensors
-def pad_to_longest_fn(data):
-
-    return {'orig_audio': pad_sequence(data, batch_first=True)}
-
-
 def worker_init_fn(worker_id):
     """
     Utility function to be used in dataloaders to allow working with indexed binaries in workers

@@ -28,14 +28,13 @@ class ASRDataModule(pl.LightningDataModule):
         self.print_logs()
 
     def train_dataloader(self):
-        return DataLoader(self.trainset, batch_size=self.train_batch_size, shuffle=True,
-                          collate_fn=self.collate_fn, num_workers=self.config['train.n_data_threads'],
+        return DataLoader(self.trainset, batch_size=self.train_batch_size, shuffle=True
+                          , num_workers=self.config['train.n_data_threads'],
                           worker_init_fn=worker_init_fn, pin_memory=True, drop_last=True)
 
     def val_dataloader(self):
         return DataLoader(self.validset, batch_size=self.config['train.validation.batch_size'], shuffle=False,
-                          collate_fn=self.collate_fn, num_workers=0, worker_init_fn=worker_init_fn,
-                          pin_memory=False)
+                          num_workers=0, worker_init_fn=worker_init_fn, pin_memory=False)
 
     def test_dataloader(self):
         return None
