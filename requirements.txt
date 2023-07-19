@@ -1,4 +1,7 @@
 torch
+torchaudio
 lightning
+pytorch_lightning
 wandb
-hydra
+hydra-core
+einops
