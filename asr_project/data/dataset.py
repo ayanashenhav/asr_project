@@ -7,9 +7,10 @@ from torch.utils.data import Dataset
 from .tokenizer import TextTokenizer
 
 
-dataset_files = dict(train='../resources/data_files/train.csv',
-                     validation='../resources/data_files/validation.csv',
-                     test='../resources/data_files/test.csv')
+base_path = os.path.dirname(os.path.dirname(os.path.dirname(__file__)))
+dataset_files = dict(train=os.path.join(base_path, 'resources/data_files/train.csv'),
+                     validation=os.path.join(base_path, 'resources/data_files/validation.csv'),
+                     test=os.path.join(base_path, 'resources/data_files/test.csv'))
 
 
 class ASRDataSet(Dataset):
