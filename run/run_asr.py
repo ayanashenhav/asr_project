@@ -6,13 +6,11 @@ from pytorch_lightning.loggers import WandbLogger
 from pytorch_lightning import Trainer
 from pytorch_lightning.callbacks import ModelCheckpoint
 import pytorch_lightning as pl
-from omegaconf import OmegaConf
+from omegaconf import OmegaConf, DictConfig
 
 
-if __name__ == '__main__':
-    hydra.initialize("../asr_project/config")
-    config = hydra.compose("config", overrides=["model_dir=/home/vpnuser/cs_huji/speech/asr_project/runs"])
-
+@hydra.main(config_path="../asr_project/config", config_name="config")
+def asr_pipe(config: DictConfig):
     model = ASRModelLightening(config)
     data_module = ASRDataModule(config.data)
 
@@ -33,3 +31,7 @@ if __name__ == '__main__':
                       **config['trainer'],
                       )
     trainer.fit(model=model, ckpt_path="last", datamodule=data_module)
+
+
+if __name__ == '__main__':
+    asr_pipe()
