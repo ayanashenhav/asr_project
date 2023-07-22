@@ -3,7 +3,7 @@ from .base_model import BaseModel
 
 def ModelsFactory(config) -> BaseModel:
     """ Return a Model object base on the model.name parameter in the config. """
-    requested_model = config['model.name']
+    requested_model = config['name']
 
     if requested_model == 'CNN':
         from .cnn_model import CNNModel

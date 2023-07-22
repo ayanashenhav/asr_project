@@ -1,0 +1,16 @@
+audio_base_path: /home/vpnuser/cs_huji/speech/asr_project/data
+prepare_data_on_init: true
+fs: 16000
+tokenizer:
+  method: char
+  tokens: '^ ABCDEFGHIJKLMNOPQRSTUVWXYZ'
+  n_tokens: 28
+feature_extractor:
+  _target_: torchaudio.transforms.MFCC
+  sample_rate: ${data.fs}
+  n_mfcc: 13
+n_features: 13
+dataloader:
+  train_batch_size: 32
+  validation_batch_size: 32
+  n_workers: 8

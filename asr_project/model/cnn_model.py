@@ -6,40 +6,41 @@ from torch import nn
 from .base_model import BaseModel
 from ..layers.res_conv_bn import Conv1dBNBlock
 
-class CNNModel(nn.Module, BaseModel):
+
+class CNNModel(BaseModel):
     def __init__(self, config):
         super().__init__()
         self.config = config
-        in_channels = config['model.in_channels']
-        hidden_channels = config['model.hidden_channels']
-        out_channels = config['model.out_channels']
-        kernel_size = config['model.kernel_size']
-        num_conv_blocks = config['model.num_conv_blocks']
+        in_channels = config.architecture.in_channels
+        hidden_channels = config.architecture.hidden_channels
+        out_channels = config.architecture.out_channels
+        kernel_size = config.architecture.kernel_size
+        num_conv_blocks = config.architecture.num_conv_blocks
 
         self.net = nn.Sequential(
             Conv1dBNBlock(in_channels, hidden_channels, hidden_channels, kernel_size, 1,
                           num_conv_blocks=num_conv_blocks),
             nn.Conv1d(hidden_channels, out_channels, 1), )
 
-    def get_input_names(self) -> List[str]:
-        if self.config['model.mel']:
-            return ['mel']
-        elif self.config['model.mfcc']:
-            return ['mfcc']
+    # def get_input_names(self) -> List[str]:
+    #     if self.config['model.mel']:
+    #         return ['mel']
+    #     elif self.config['model.mfcc']:
+    #         return ['mfcc']
 
-    def get_output_names(self) -> List[str]:
-        return ['preds', 'preds_len']
+    # def get_output_names(self) -> List[str]:
+    #     return ['preds', 'preds_len']
 
-    def get_inference_input_names(self) -> List[str]:
-        return self.get_input_names()
-
-    def get_inference_output_names(self) -> List[str]:
-        return self.get_output_names()
+    # def get_inference_input_names(self) -> List[str]:
+    #     return self.get_input_names()
+    #
+    # def get_inference_output_names(self) -> List[str]:
+    #     return self.get_output_names()
 
     def inference(self, batch: Dict) -> Dict:
         return self.forward(batch)
 
     def forward(self, batch: Dict) -> Dict:
-        preds = self.net(batch[self.feature])
-        lens = torch.ones(preds.shape[0]) * preds.shape[1]
-        return {'preds': preds, 'preds_len': lens}
+        return self.net(batch['input'].permute([1,2,0])).permute([2, 0, 1]), \
+            batch['input_lengths']
+

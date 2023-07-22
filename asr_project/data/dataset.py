@@ -1,70 +1,66 @@
 import os.path
 import numpy as np
+import hydra
 import torch
 import torchaudio
 from torch.utils.data import Dataset
+from .tokenizer import TextTokenizer
+
+
+dataset_files = dict(train='../resources/data_files/train.csv',
+                     validation='../resources/data_files/validation.csv',
+                     test='../resources/data_files/test.csv')
 
 
 class ASRDataSet(Dataset):
-    def __init__(self, config, dataset_args, wanted_inputs):
+    def __init__(self, config, mode, ):
         super().__init__()
         self.config = config
-        self.dataset_args = dataset_args
-        self.wanted_inputs = wanted_inputs
-        self.filelist = self.dataset_args['filelist']
-        self.validation = self.dataset_args['validation']
+        self.mode = mode
+        assert mode in dataset_files.keys(), f'unknown mode {mode}'
+        self.filelist = dataset_files[mode]
 
         # Preparing samples in init.
-        # todo: consider reading the audio and normalize the text here, so i won't happen more than once.
-        samples = []
-        lines = list(open(self.filelist, 'r').read().split('\n'))
-        lines.remove("")
-        for line in lines:
-            path, text = line.split('|')
-            samples.append({'wav_path': os.path.abspath(path), 'text': text})
-
-        assert len(samples) > 0, 'no sound samples found'
-
+        samples = self.read_samples()
         self.samples = samples
+
+        self.tokenizer = TextTokenizer(config.tokenizer)
+        self.feature_extractor = hydra.utils.instantiate(config.feature_extractor)
+
+        if self.config['prepare_data_on_init']:
+            for sample in self.samples:
+                sample.update({'input': self.feature_extractor(sample['raw_wav']).T,
+                                           'target': self.tokenizer(sample['raw_text'])})
+
+    def read_samples(self):
+        samples = []
+        lines = open(self.filelist, 'r').readlines()
+        for line in lines:
+            path, text = line.split(',')
+            audio, fs = torchaudio.load(os.path.join(self.config.audio_base_path, path))
+            assert fs == self.config.fs, f'expected sample rate of {self.config.fs} but got {fs}'
+            assert audio.shape[0] == 1
+            samples.append({'sample_id': path.split('/')[-1].split(".")[0],
+                            'raw_wav': audio[0],
+                            'raw_text': text.strip()})
+        assert len(samples) > 0, 'no sound samples found'
+        return samples
 
     def __len__(self):
         return len(self.samples)
 
     def __getitem__(self, idx):
         sample = self.samples[idx]
-        item_data = dict()
-        raw_wav, sample_hz = torchaudio.load(sample['wav_path'])
-
-        if raw_wav.shape[0] > 1:
-            # the audio has more than 1 channel, convert to mono
-            raw_wav = torch.mean(raw_wav, dim=0).unsqueeze(0)
-
-        item_data['raw_wav'] = raw_wav
-        item_data['raw_text'] = sample['text']
-
-        # TODO: Add here some feature extration.
-        # TODO: Need to toknize the tex to labels (ids?) so it can be pad for the loss
-        # Extract Audio Features
-        if 'mel' in self.wanted_inputs:
-            pass
-        if 'mfcc' in self.wanted_inputs:
-            pass
-
-        # Extract Text Features
-        if 'phonemes' in self.wanted_inputs:
-            pass
-
-        return item_data
-
-    def collate_fn(self, batch):
-        pass
-        # TODO: Add padding to each relevant item.
+        if not self.config['prepare_data_on_init']:
+            sample['input'] = self.feature_extractor(sample['raw_wav']).T
+            sample['target'] = self.tokenizer(sample['raw_text'])
+        return sample
 
     def print_logs(self, level: int = 0) -> None:
         indent = "\t" * level
         print(f"{indent}> Dataset initialization")
-        print(f"{indent}| > Is validation dataset : {self.validation}")
-        print(f"{indent}| > Numbe of samples : {self.__len__()}")
+        print(f"{indent}| > Dataset mode : {self.mode}")
+        print(f"{indent}| > Number of samples : {self.__len__()}")
         print(f"{indent}| > Sampels filelist : {self.filelist}")
         # print(f"{indent}| > Sample Rate : {self.target_sample_rate}")
 
@@ -76,3 +72,18 @@ def worker_init_fn(worker_id):
     For details, see https://pytorch.org/docs/stable/data.html#torch.utils.data.IterableDataset
     """
     np.random.seed(worker_id * 100)
+
+
+def collate_fn(samples):
+    # the collate function assumes that samples contain "input" and "target" keys only
+    # stack all inputs, pad to the longest sequence and product input_legnths contains the original lengths
+    inputs = [s['input'] for s in samples]
+    input_lengths = torch.LongTensor([len(s) for s in inputs])
+    inputs = torch.nn.utils.rnn.pad_sequence(inputs,)
+    # concatenate all targets, and create target_legnths contains the original lengths
+    targets = [s['target'] for s in samples]
+    target_lengths = torch.LongTensor([len(s) for s in targets])
+    targets = torch.cat(targets)
+
+    batch = {'input': inputs, 'target': targets, 'input_lengths': input_lengths, 'target_lengths': target_lengths}
+    return batch

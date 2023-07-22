@@ -1,22 +1,21 @@
 import pytorch_lightning as pl
 from torch.utils.data import DataLoader
-from .dataset import ASRDataSet, worker_init_fn
+from .dataset import ASRDataSet, worker_init_fn, collate_fn
+
 
 class ASRDataModule(pl.LightningDataModule):
-    def __init__(self, config, wanted_inputs):
+    def __init__(self, config, ):
         super().__init__()
         self.config = config
-        self.train_batch_size = config['train.batch_size']
-        self.wanted_inputs = wanted_inputs
+        self.train_batch_size = config['dataloader']['train_batch_size']
+        self.validation_batch_size = config['dataloader']['validation_batch_size']
 
     def setup(self, stage: str):
 
         # Assign train/val datasets for use in dataloaders
         if stage == "fit":
-            self.trainset = ASRDataSet(self.config, self.config['data.train_dataset'],
-                                         wanted_inputs=self.wanted_inputs)
-            self.validset = ASRDataSet(self.config, self.config['data.validation_dataset'],
-                                         wanted_inputs=self.wanted_inputs)
+            self.trainset = ASRDataSet(self.config, mode='train')
+            self.validset = ASRDataSet(self.config, mode='validation')
 
         # Assign test dataset for use in dataloader(s)
         if stage == "test":
@@ -27,14 +26,14 @@ class ASRDataModule(pl.LightningDataModule):
         self.print_logs()
 
     def train_dataloader(self):
-        return DataLoader(self.trainset, batch_size=self.train_batch_size, shuffle=True
-                          , num_workers=self.config['train.n_data_threads'], collate_fn=self.trainset.collate_fn,
-                          worker_init_fn=worker_init_fn, pin_memory=True, drop_last=True)
+        return DataLoader(self.trainset, batch_size=self.train_batch_size, shuffle=True,
+                          num_workers=self.config.dataloader.n_workers, collate_fn=collate_fn,
+                          worker_init_fn=worker_init_fn, pin_memory=True)
 
     def val_dataloader(self):
-        return DataLoader(self.validset, batch_size=self.config['train.validation.batch_size'], shuffle=False,
+        return DataLoader(self.validset, batch_size=self.validation_batch_size, shuffle=False,
                           num_workers=0, worker_init_fn=worker_init_fn, pin_memory=False,
-                          collate_fn=self.validset.collate_fn)
+                          collate_fn=collate_fn)
 
     def test_dataloader(self):
         return None
