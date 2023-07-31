@@ -8,6 +8,7 @@ class TextTokenizer:
         assert self.config.method == 'char', 'only char tokenization is supported'
         self.tokens = self.config.tokens
         self.labels = {t: i for i, t in enumerate(self.tokens)}
+        self.blank_label = self.labels['^']
 
     def __call__(self, text_or_labels):
         if isinstance(text_or_labels, str):
@@ -22,3 +23,15 @@ class TextTokenizer:
 
     def labels_to_text(self, labels) -> str:
         return "".join([self.tokens[c] for c in labels])
+
+    def collapse_labels(self, labels):
+        collapse_labels = torch.unique_consecutive(labels)
+        return collapse_labels[collapse_labels != self.blank_label]
+
+    def from_targets_to_texts(self, targets, lens):
+        i = 0
+        texts = []
+        for len in lens:
+            texts.append(self.labels_to_text(targets[i: i+len]))
+            i += len
+        return texts

@@ -1,6 +1,4 @@
 from typing import Dict, List
-
-import torch
 from torch import nn
 
 from .base_model import BaseModel
@@ -18,29 +16,25 @@ class CNNModel(BaseModel):
         num_conv_blocks = config.architecture.num_conv_blocks
 
         self.net = nn.Sequential(
-            Conv1dBNBlock(in_channels, hidden_channels, hidden_channels, kernel_size, 1,
-                          num_conv_blocks=num_conv_blocks),
-            nn.Conv1d(hidden_channels, out_channels, 1), )
+            Conv1dBNBlock(in_channels, hidden_channels, hidden_channels, kernel_size, 1, num_conv_blocks=num_conv_blocks),
+            nn.Conv1d(hidden_channels, out_channels, 1))
 
-    # def get_input_names(self) -> List[str]:
-    #     if self.config['model.mel']:
-    #         return ['mel']
-    #     elif self.config['model.mfcc']:
-    #         return ['mfcc']
+    def get_input_names(self) -> List[str]:
+        return ['input', 'input_lengths']
 
-    # def get_output_names(self) -> List[str]:
-    #     return ['preds', 'preds_len']
+    def get_output_names(self) -> List[str]:
+        return ['preds', 'preds_len']
 
-    # def get_inference_input_names(self) -> List[str]:
-    #     return self.get_input_names()
-    #
-    # def get_inference_output_names(self) -> List[str]:
-    #     return self.get_output_names()
+    def get_inference_input_names(self) -> List[str]:
+        return self.get_input_names()
+
+    def get_inference_output_names(self) -> List[str]:
+        return self.get_output_names()
 
     def inference(self, batch: Dict) -> Dict:
         return self.forward(batch)
 
     def forward(self, batch: Dict) -> Dict:
-        return self.net(batch['input'].permute([1,2,0])).permute([2, 0, 1]), \
-            batch['input_lengths']
+        return {'preds': self.net(batch['input'].permute([1, 2, 0])).permute([2, 0, 1]),
+                'preds_len': batch['input_lengths']}
 
