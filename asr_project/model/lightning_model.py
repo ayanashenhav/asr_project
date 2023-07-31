@@ -75,6 +75,7 @@ class ASRModelLightening(BaseModel, pl.LightningModule):
         gt_texts = self.tokenizer.from_targets_to_texts(batch['target'], batch['target_lengths'])
         batch_wer = wer(gt_texts, text_preds)
         if self.current_epoch > 0 and self.current_epoch % 50:
+            print(f"{self.current_epoch} HHHHHHHHHHHHH")
             self.logger.experiment.log_text(key="text_preds", columns=['GT text', 'Pred text'], data=[gt_texts, text_preds])
         self.log_dict({'val/loss': loss, 'val/wer': batch_wer})
         print(batch_wer)
