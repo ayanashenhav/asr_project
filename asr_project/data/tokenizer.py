@@ -33,7 +33,7 @@ letter_names = {'A': 'AY',
 
 letter_names_inv = {v: k for k, v in letter_names.items()}
 
-letters_handling = {'pass': lambda x: x,
+letters_handling = {'pass': lambda x: x.group(),
                     'separate_labels': lambda x: x.group().lower(),
                     'convert_to_names': lambda x: letter_names[x.group()]}
 
