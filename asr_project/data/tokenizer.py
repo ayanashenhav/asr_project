@@ -29,6 +29,8 @@ letter_names = {'A': 'AY',
                 'Y': 'WHY',
                 'Z': 'ZEE'}
 
+letter_names_inv = {v: k for k, v in letter_names.items()}
+
 letters_handling = {'pass': lambda x: x,
                     'separate_labels': lambda x: x.group().lower(),
                     'convert_to_names': lambda x: letter_names[x.group()]}
@@ -59,7 +61,17 @@ class TextTokenizer:
         return "".join([self.tokens[c] for c in labels])
 
     def labels_to_text_to_eval(self, labels) -> str:
-        return self.labels_to_text(labels).upper()
+        return self.post_process_letter_name(self.labels_to_text(labels))
+
+    def post_process_letter_name(self, text):
+        if self.config.letter_name_handling == 'pass':
+            return text
+        if self.config.letter_name_handling == 'separate_labels':
+            return text.upper()
+        if self.config.letter_name_handling == 'convert_to_names':
+            text = re.sub(r'\bDOUBLE YOU\b', 'W', text)
+            text = re.sub(r'\b\w+\b', lambda x: letter_names_inv[x.group()], text)
+            return text
 
     def collapse_labels(self, labels):
         collapse_labels = torch.unique_consecutive(labels)

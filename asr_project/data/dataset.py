@@ -59,7 +59,8 @@ class ASRDataSet(Dataset):
 
             if np.random.rand() < 0.2:
                 sample['input'] = torch.cat([sample['input'],
-                                             torch.zeros(np.random.randint(0, self.output_per_sec//2), sample['input'].shape[1])])
+                                             torch.zeros(np.random.randint(0, self.output_per_sec//2),
+                                                         sample['input'].shape[1])])
         return sample
 
     def print_logs(self, level: int = 0) -> None:
