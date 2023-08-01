@@ -1,0 +1,3 @@
+tokens: '^ ABCDEFGHIJKLMNOPQRSTUVWXYZ'
+n_tokens: 28
+letter_name_handling: pass

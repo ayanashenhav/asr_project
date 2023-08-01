@@ -1,4 +1,4 @@
-model_dir: C:\Users\amita\PycharmProjects\asr_project\experiments\debug_model
+model_dir: ???
 
 defaults:
   - trainer: lightning
@@ -7,3 +7,4 @@ defaults:
   - loss: ctc
   - data: an4
   - feature_extractor: mfcc
+  - tokenizer: naive

@@ -1,10 +1,6 @@
-audio_base_path: C:\Users\amita\PycharmProjects\asr_project\asr_project\data
+audio_base_path: /home/vpnuser/cs_huji/speech/asr_project/data
 prepare_data_on_init: true
 fs: 16000
-tokenizer:
-  method: char
-  tokens: '^ ABCDEFGHIJKLMNOPQRSTUVWXYZ'
-  n_tokens: 28
 n_features: ${feature_extractor.n_features}
 dataloader:
   train_batch_size: 32

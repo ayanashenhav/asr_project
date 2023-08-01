@@ -1,0 +1,3 @@
+tokens: '^ ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz'
+n_tokens: 54
+letter_name_handling: separate_labels
