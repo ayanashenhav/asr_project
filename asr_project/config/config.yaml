@@ -6,4 +6,4 @@ defaults:
   - model: naive_cnn
   - loss: ctc
   - data: an4
-  - feature_extractor: mfcc
+  - /feature_extractor@feature_extractor: mfcc
