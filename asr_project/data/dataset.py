@@ -18,6 +18,7 @@ class ASRDataSet(Dataset):
         super().__init__()
         self.config = config.data
         self.mode = mode
+        self.feature_extractor_name = config.feature_extractor.name
         assert mode in dataset_files.keys(), f'unknown mode {mode}'
         self.filelist = dataset_files[mode]
 
@@ -68,6 +69,8 @@ class ASRDataSet(Dataset):
         print(f"{indent}| > Dataset mode : {self.mode}")
         print(f"{indent}| > Number of samples : {self.__len__()}")
         print(f"{indent}| > Sampels filelist : {self.filelist}")
+        print(f"{indent}| > Feature Extractor : {self.feature_extractor_name}")
+
         # print(f"{indent}| > Sample Rate : {self.target_sample_rate}")
 
 
