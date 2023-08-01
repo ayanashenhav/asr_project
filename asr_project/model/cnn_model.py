@@ -15,14 +15,15 @@ class CNNModel(BaseModel):
         kernel_size = config.architecture.kernel_size
         num_conv_blocks = config.architecture.num_conv_blocks
         num_res_blocks = config.architecture.num_res_blocks
+        p = config.architecture.p
         if num_res_blocks is None:
             self.net = nn.Sequential(
-                Conv1dBNBlock(in_channels, hidden_channels, hidden_channels, kernel_size, 1, num_conv_blocks=num_conv_blocks),
+                Conv1dBNBlock(in_channels, hidden_channels, hidden_channels, kernel_size, 1, num_conv_blocks=num_conv_blocks, p=p),
                 nn.Conv1d(hidden_channels, out_channels, 1))
         else:
             self.net = nn.Sequential(
                 Conv1dBNBlock(in_channels, hidden_channels, hidden_channels, kernel_size, 1, num_conv_blocks=1),
-                ResidualConv1dBNBlock(hidden_channels, hidden_channels, hidden_channels, kernel_size, num_res_blocks*[1], num_conv_blocks=num_conv_blocks, num_res_blocks=num_res_blocks),
+                ResidualConv1dBNBlock(hidden_channels, hidden_channels, hidden_channels, kernel_size, num_res_blocks*[1], num_conv_blocks=num_conv_blocks, num_res_blocks=num_res_blocks, p=p),
                 nn.Conv1d(hidden_channels, out_channels, 1))
         t=1
 
