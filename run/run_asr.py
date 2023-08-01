@@ -12,7 +12,7 @@ from omegaconf import OmegaConf, DictConfig
 @hydra.main(config_path="../asr_project/config", config_name="config", version_base=None)
 def asr_pipe(config: DictConfig):
     model = ASRModelLightening(config)
-    data_module = ASRDataModule(config.data)
+    data_module = ASRDataModule(config)
     # wandb.login(key = '599e3f8046b44d0d6d7fe5168ad43a34d81a9b20')
     logger = WandbLogger(name='asr_project', save_dir=config.model_dir, entity='huji_ayanas')
     logger.experiment.config.update(OmegaConf.to_container(config, resolve=True))
