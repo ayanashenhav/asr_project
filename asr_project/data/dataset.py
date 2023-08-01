@@ -26,7 +26,7 @@ class ASRDataSet(Dataset):
         self.samples = samples
 
         self.tokenizer = TextTokenizer(config.tokenizer)
-        self.feature_extractor = hydra.utils.instantiate(config.feature_extractor)
+        self.feature_extractor = hydra.utils.instantiate(config.feature_extractor.cls)
 
         if self.config['prepare_data_on_init']:
             for sample in self.samples:
