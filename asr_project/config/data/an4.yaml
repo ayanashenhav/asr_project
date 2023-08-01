@@ -10,3 +10,5 @@ dataloader:
   train_batch_size: 32
   validation_batch_size: 32
   n_workers: 8
+augmentations:
+  add_random_silence: true
