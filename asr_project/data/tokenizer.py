@@ -49,7 +49,7 @@ class TextTokenizer:
         self._g2p, self._p2g = {}, {}
         if self.config.processing == 'phonemizer':
             base_path = os.path.dirname(os.path.dirname(os.path.dirname(__file__)))
-            df = pd.read_csv(os.path.join(base_path, 'resources', self.config.g2p_fname), 'r')
+            df = pd.read_csv(os.path.join(base_path, 'resources', self.config.g2p_fname))
             self._g2p, self._p2g = {}, {}
             for _, row in df.iterrows():
                 self._g2p[row['graphemes']] = row['phonemes']

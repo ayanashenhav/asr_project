@@ -2,4 +2,4 @@ tokens: '^ abdefhijklmnopstuvwzæɐɑɔəɚɛɜɡɪɹɾʃʊʌʒːθᵻ'
 n_tokens: 41
 letter_name_handling: pass
 processing: phonemizer
-g2p_fname: phoenemes_lexicon.csv
+g2p_fname: phonemes_lexicon.csv
