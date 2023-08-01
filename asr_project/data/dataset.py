@@ -55,7 +55,7 @@ class ASRDataSet(Dataset):
         if not self.config['prepare_data_on_init']:
             sample['input'] = self.feature_extractor(sample['raw_wav']).T
             sample['target'] = self.tokenizer(sample['raw_text'])
-        if self.config['augmentations']['add_random_silence']:
+        if self.config['augmentations']['add_random_silence'] and self.mode == 'train':
             if np.random.rand() < 0.2:
                 sample['input'] = torch.cat([sample['input'],
                                              torch.zeros(np.random.randint(0, 32), sample['input'].shape[1])])
