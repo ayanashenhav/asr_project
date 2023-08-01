@@ -11,6 +11,7 @@ from omegaconf import OmegaConf, DictConfig
 
 @hydra.main(config_path="../asr_project/config", config_name="config", version_base=None)
 def asr_pipe(config: DictConfig):
+
     model = ASRModelLightening(config)
     data_module = ASRDataModule(config.data)
     # wandb.login(key = '599e3f8046b44d0d6d7fe5168ad43a34d81a9b20')

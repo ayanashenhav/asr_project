@@ -1,6 +1,5 @@
-feature_extractor:
-  cls:
-    _target_: torchaudio.transforms.MFCC
-    sample_rate: ${data.fs}
-    n_mfcc: 13
-  n_features: 13
+cls:
+  _target_: torchaudio.transforms.MFCC
+  sample_rate: ${data.fs}
+  n_mfcc: 13
+n_features: 13
