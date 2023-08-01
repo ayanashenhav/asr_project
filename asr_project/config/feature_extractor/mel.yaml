@@ -1,0 +1,5 @@
+cls:
+  _target_: torch.transforms.MelSpectrogram
+  sample_rate: ${data.fs}
+  n_mels: 40
+n_features: 40
