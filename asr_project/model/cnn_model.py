@@ -9,7 +9,7 @@ class CNNModel(BaseModel):
     def __init__(self, config):
         super().__init__()
         self.config = config
-        in_channels = config.architecture.in_channels
+        in_channels = config.architecture['in_channels']
         hidden_channels = config.architecture.hidden_channels
         out_channels = config.architecture.out_channels
         kernel_size = config.architecture.kernel_size
