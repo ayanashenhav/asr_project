@@ -1,0 +1,4 @@
+tokens: '^ ABCDEFGHIJKLMNOPQRSTUVWXYZ'
+n_tokens: 28
+letter_name_handling: convert_to_names
+processing: pass
