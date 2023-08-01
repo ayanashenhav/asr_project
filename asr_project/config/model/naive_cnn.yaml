@@ -1,6 +1,6 @@
 name: CNN
 architecture:
-  in_channels: ${data.n_features}
+  in_channels: ${feature_extractor.n_features}
   hidden_channels: 28
   out_channels: ${data.tokenizer.n_tokens}
   kernel_size: 5
