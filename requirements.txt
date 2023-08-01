@@ -8,5 +8,4 @@ omegaconf
 einops
 numpy
 jiwer
-phonemizer
 pandas
