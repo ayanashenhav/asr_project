@@ -30,8 +30,8 @@ letter_names = {'A': 'AY',
                 'Z': 'ZEE'}
 
 letters_handling = {'pass': lambda x: x,
-                    'separate_labels': lambda x: x.lower(),
-                    'convert_to_names': lambda x: letter_names[x]}
+                    'separate_labels': lambda x: x.group().lower(),
+                    'convert_to_names': lambda x: letter_names[x.group()]}
 
 
 class TextTokenizer:
