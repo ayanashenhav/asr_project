@@ -21,9 +21,6 @@ class ASRDataSet(Dataset):
         self.feature_extractor_name = config.feature_extractor.name
         assert mode in dataset_files.keys(), f'unknown mode {mode}'
         self.filelist = dataset_files[mode]
-        # strech = torchaudio.transforms.TimeStretch()
-        # time_masking = torchaudio.transforms.TimeMasking()
-        # Freq_masking = torchaudio.transforms.FrequencyMasking()
 
 
         # Preparing samples in init.
@@ -37,6 +34,15 @@ class ASRDataSet(Dataset):
             for sample in self.samples:
                 sample.update({'input': self.feature_extractor(sample['raw_wav']).T,
                                            'target': self.tokenizer(sample['raw_text'])})
+
+        # if self.config.augmentations.stretch > 0:
+        #     self.stretch = torchaudio.transforms.TimeStretch(hop_length=config.feature_extractor.cls.melkwargs.n_fft//2,
+        #                                                      n_freq=config.feature_extractor.cls.melkwargs.n_fft)
+        #     self.stretch_options = [0.8,0.9,1.1,1.2]
+        if self.config.augmentations.time_mask > 0:
+            self.time_masking = torchaudio.transforms.TimeMasking(self.output_per_sec//8)
+        if self.config.augmentations.freq_mask > 0:
+            self.freq_masking = torchaudio.transforms.FrequencyMasking(freq_mask_param=self.config.n_features//5)
 
     def read_samples(self):
         samples = []
@@ -61,6 +67,12 @@ class ASRDataSet(Dataset):
             sample['input'] = self.feature_extractor(sample['raw_wav']).T
             sample['target'] = self.tokenizer(sample['raw_text'])
         if self.config['augmentations']['add_random_silence'] and self.mode == 'train':
+            # if np.random.rand() < self.config.augmentations.stretch:
+            #     sample['input'] = self.stretch(sample['input'], overriding_rate=self.stretch_options[torch.randint(len(self.stretch_options),  (1,)).item()])
+            if np.random.rand() < self.config.augmentations.time_mask:
+                sample['input'] = self.time_masking(sample['input'].T[None]).squeeze(0).T
+            if np.random.rand() < self.config.augmentations.freq_mask:
+                sample['input'] = self.freq_masking(sample['input'].T[None]).squeeze(0).T
 
             if np.random.rand() < 0.2:
                 sample['input'] = torch.cat([sample['input'],

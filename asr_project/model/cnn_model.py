@@ -25,7 +25,6 @@ class CNNModel(BaseModel):
                 Conv1dBNBlock(in_channels, hidden_channels, hidden_channels, kernel_size, 1, num_conv_blocks=1),
                 ResidualConv1dBNBlock(hidden_channels, hidden_channels, hidden_channels, kernel_size, num_res_blocks*[1], num_conv_blocks=num_conv_blocks, num_res_blocks=num_res_blocks, p=p),
                 nn.Conv1d(hidden_channels, out_channels, 1))
-        t=1
 
 
     def get_input_names(self) -> List[str]:
