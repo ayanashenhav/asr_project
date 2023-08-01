@@ -16,7 +16,7 @@ class ASRModelLightening(BaseModel, pl.LightningModule):
         self.config = config
         self.model = ModelsFactory(config.model)
         self.loss = hydra.utils.instantiate(config.loss)
-        self.tokenizer = TextTokenizer(config.data.tokenizer)
+        self.tokenizer = TextTokenizer(config.tokenizer)
 
     # def get_input_names(self) -> List[str]:
     #     return self.model.get_input_names()
