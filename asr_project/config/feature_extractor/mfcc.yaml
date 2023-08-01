@@ -1,10 +1,10 @@
 cls:
   _target_: asr_project.data.feature_extractor.FeatureExtractor
   sample_rate: ${data.fs}
-  n_mfcc: 40
+  n_mfcc: 13
   compute_deltas: True
   melkwargs:
     n_fft: 1000
     n_mels: 128
-n_features: 120
+n_features: 39
 name: MFCC

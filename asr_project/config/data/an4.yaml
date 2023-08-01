@@ -13,5 +13,5 @@ dataloader:
 augmentations:
   add_random_silence: true
   stretch: 0.0
-  time_mask: 0.3
-  freq_mask: 0.3
+  time_mask: 0.7
+  freq_mask: 0.7
