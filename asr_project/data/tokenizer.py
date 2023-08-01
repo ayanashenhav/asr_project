@@ -1,5 +1,7 @@
 import torch
 import re
+import os
+import pandas as pd
 
 # This is not generic implementation - I don't know what we will need in the future
 letter_names = {'A': 'AY',
@@ -44,6 +46,14 @@ class TextTokenizer:
         self.tokens = self.config.tokens
         self.labels = {t: i for i, t in enumerate(self.tokens)}
         self.blank_label = self.labels['^']
+        self._g2p, self._p2g = {}, {}
+        if self.config.processing == 'phonemes':
+            base_path = os.path.dirname(os.path.dirname(os.path.dirname(__file__)))
+            df = pd.read_csv(os.path.join(base_path, 'resources', self.config.g2p_fname), 'r')
+            self._g2p, self._p2g = {}, {}
+            for _, row in df.iterrows():
+                self._g2p[row['graphemes']] = row['phonemes']
+                self._p2g[row['phonemes']] = row['graphemes']
 
     def __call__(self, text_or_labels):
         if isinstance(text_or_labels, str):
@@ -54,14 +64,26 @@ class TextTokenizer:
             raise ValueError("Expected either text or labels as input")
 
     def text_to_labels(self, text) -> torch.Tensor:
-        text = re.sub(r'\b\w\b', letters_handling[self.config.letter_name_handling], text)
+        text = self.pre_process(text)
         return torch.tensor([self.labels[c] for c in text], dtype=int)
 
     def labels_to_text(self, labels) -> str:
         return "".join([self.tokens[c] for c in labels])
 
     def labels_to_text_to_eval(self, labels) -> str:
-        return self.post_process_letter_name(self.labels_to_text(labels))
+        return self.post_process(self.labels_to_text(labels))
+
+    def post_process(self, text):
+        text = self.post_process_letter_name(text)
+        if self.config.processing == 'phonemizer':
+            text = self.phonemes_to_graphemes(text)
+        return text
+
+    def pre_process(self, text):
+        text = re.sub(r'\b\w\b', letters_handling[self.config.letter_name_handling], text)
+        if self.config.processing == 'phonemizer':
+            text = self.graphemes_to_phonemes(text)
+        return text
 
     def post_process_letter_name(self, text):
         if self.config.letter_name_handling == 'pass':
@@ -85,3 +107,12 @@ class TextTokenizer:
             texts.append(self.labels_to_text_to_eval(targets[i: i+len]))
             i += len
         return texts
+
+    def phonemes_to_graphemes(self, text):
+        text = re.sub(r'\b\w+\b', lambda x: self._p2g[x.group()] if x.group() in self._p2g else x.group(), text)
+        return text
+
+    def graphemes_to_phonemes(self, text):
+        text = re.sub(r'\b\w+\b',
+                      lambda x: self._g2p[x.group()] if x.group() in self._g2p else x.group(), text)
+        return text
