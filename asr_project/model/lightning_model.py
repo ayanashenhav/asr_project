@@ -72,13 +72,16 @@ class ASRModelLightening(BaseModel, pl.LightningModule):
 
         pred_labels = torch.argmax(log_probs, dim=2)
         timed_preds = [self.tokenizer.labels_to_text(label) for label in pred_labels.T]
-        text_preds = [self.tokenizer.labels_to_text(self.tokenizer.collapse_labels(label)) for label in pred_labels.T]
+        text_preds = [self.tokenizer.labels_to_text_to_eval(self.tokenizer.collapse_labels(label)) for label in pred_labels.T]
+        raw_text_preds = [self.tokenizer.labels_to_text(self.tokenizer.collapse_labels(label)) for label in
+                      pred_labels.T]
         gt_texts = self.tokenizer.from_targets_to_texts(batch['target'], batch['target_lengths'])
         batch_wer = wer(gt_texts, text_preds)
         if self.current_epoch > 0 and (self.current_epoch % 50 == 0):
             self.logger.log_text(key=f"Preds_{self.current_epoch}_epoch_{batch_wer}_wer",
-                                 columns=['GT text', 'Pred text', 'Timed Argmax text'],
-                                 data=[(g, t, timed) for g, t, timed in zip(gt_texts, text_preds, timed_preds)])
+                                 columns=['GT text', 'Pred text', 'Pred text (raw)', 'Timed Argmax text'],
+                                 data=[(g, t, r, timed) for g, t, r, timed in
+                                       zip(gt_texts, text_preds, raw_text_preds, timed_preds)])
         # self.log_dict({'val/loss': loss, 'val/wer': batch_wer})
         self.log('val/loss', loss, prog_bar=True)
         self.log('val/wer', batch_wer)

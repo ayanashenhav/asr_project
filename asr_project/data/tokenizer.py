@@ -56,7 +56,10 @@ class TextTokenizer:
         return torch.tensor([self.labels[c] for c in text], dtype=int)
 
     def labels_to_text(self, labels) -> str:
-        return "".join([self.tokens[c] for c in labels]).upper()
+        return "".join([self.tokens[c] for c in labels])
+
+    def labels_to_text_to_eval(self, labels) -> str:
+        return self.labels_to_text(labels).upper()
 
     def collapse_labels(self, labels):
         collapse_labels = torch.unique_consecutive(labels)
@@ -66,6 +69,6 @@ class TextTokenizer:
         i = 0
         texts = []
         for len in lens:
-            texts.append(self.labels_to_text(targets[i: i+len]))
+            texts.append(self.labels_to_text_to_eval(targets[i: i+len]))
             i += len
         return texts
