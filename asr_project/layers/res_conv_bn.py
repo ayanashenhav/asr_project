@@ -29,7 +29,7 @@ class Conv1dBN(nn.Module):
         dilation (int): dilation for convolution layers.
     """
 
-    def __init__(self, in_channels, out_channels, kernel_size, dilation):
+    def __init__(self, in_channels, out_channels, kernel_size, dilation, p=0):
         super().__init__()
         padding = dilation * (kernel_size - 1)
         pad_s = padding // 2
@@ -37,12 +37,16 @@ class Conv1dBN(nn.Module):
         self.conv1d = nn.Conv1d(in_channels, out_channels, kernel_size, dilation=dilation)
         self.pad = nn.ZeroPad2d((pad_s, pad_e, 0, 0))  # uneven left and right padding
         self.norm = nn.BatchNorm1d(out_channels)
+        self.p = p
+        self.dropout = nn.Dropout1d(p=p)
 
     def forward(self, x):
         o = self.conv1d(x)
         o = self.pad(o)
         o = nn.functional.relu(o)
         o = self.norm(o)
+        if self.p:
+            o = self.dropout(o)
         return o
 
 
@@ -58,7 +62,7 @@ class Conv1dBNBlock(nn.Module):
         num_conv_blocks (int, optional): number of convolutional blocks. Defaults to 2.
     """
 
-    def __init__(self, in_channels, out_channels, hidden_channels, kernel_size, dilation, num_conv_blocks=2):
+    def __init__(self, in_channels, out_channels, hidden_channels, kernel_size, dilation, num_conv_blocks=2, p=0):
         super().__init__()
         self.conv_bn_blocks = []
         for idx in range(num_conv_blocks):
@@ -67,6 +71,7 @@ class Conv1dBNBlock(nn.Module):
                 out_channels if idx == (num_conv_blocks - 1) else hidden_channels,
                 kernel_size,
                 dilation,
+                p=p
             )
             self.conv_bn_blocks.append(layer)
         self.conv_bn_blocks = nn.Sequential(*self.conv_bn_blocks)
@@ -99,7 +104,7 @@ class ResidualConv1dBNBlock(nn.Module):
 
     def __init__(
             self, in_channels, out_channels, hidden_channels, kernel_size, dilations, num_res_blocks=13,
-            num_conv_blocks=2
+            num_conv_blocks=2, p=0
     ):
         super().__init__()
         assert len(dilations) == num_res_blocks
@@ -112,6 +117,7 @@ class ResidualConv1dBNBlock(nn.Module):
                 kernel_size,
                 dilation,
                 num_conv_blocks,
+                p=p
             )
             self.res_blocks.append(block)
 

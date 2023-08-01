@@ -21,6 +21,10 @@ class ASRDataSet(Dataset):
         self.feature_extractor_name = config.feature_extractor.name
         assert mode in dataset_files.keys(), f'unknown mode {mode}'
         self.filelist = dataset_files[mode]
+        # strech = torchaudio.transforms.TimeStretch()
+        # time_masking = torchaudio.transforms.TimeMasking()
+        # Freq_masking = torchaudio.transforms.FrequencyMasking()
+
 
         # Preparing samples in init.
         samples = self.read_samples()
