@@ -89,7 +89,7 @@ def collate_fn(samples):
     # stack all inputs, pad to the longest sequence and product input_legnths contains the original lengths
     inputs = [s['input'] for s in samples]
     input_lengths = torch.LongTensor([len(s) for s in inputs])
-    inputs = torch.nn.utils.rnn.pad_sequence(inputs,)
+    inputs = torch.nn.utils.rnn.pad_sequence(inputs,) # T,B,C
     # concatenate all targets, and create target_legnths contains the original lengths
     targets = [s['target'] for s in samples]
     target_lengths = torch.LongTensor([len(s) for s in targets])

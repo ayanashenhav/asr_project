@@ -11,5 +11,8 @@ def ModelsFactory(config) -> BaseModel:
     elif requested_model == 'FastSpeech2':
         from .cnn_model import CNNModel
         return CNNModel(config)  # FastSpeech2(config)
+    elif requested_model == 'Conformer':
+        from .conformer_model import ConformerWrapper
+        return ConformerWrapper(config)
     else:
         raise ValueError(f" [!] Unknown model name: {requested_model}")
