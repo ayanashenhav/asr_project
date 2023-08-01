@@ -7,8 +7,8 @@ class ASRDataModule(pl.LightningDataModule):
     def __init__(self, config, ):
         super().__init__()
         self.config = config
-        self.train_batch_size = config.dataloader.train_batch_size
-        self.validation_batch_size = config.dataloader.validation_batch_size
+        self.train_batch_size = config.data.dataloader.train_batch_size
+        self.validation_batch_size = config.data.dataloader.validation_batch_size
 
     def setup(self, stage: str):
 
@@ -27,7 +27,7 @@ class ASRDataModule(pl.LightningDataModule):
 
     def train_dataloader(self):
         return DataLoader(self.trainset, batch_size=self.train_batch_size, shuffle=True,
-                          num_workers=self.config.dataloader.n_workers, collate_fn=collate_fn,
+                          num_workers=self.config.data.dataloader.n_workers, collate_fn=collate_fn,
                           worker_init_fn=worker_init_fn, pin_memory=True)
 
     def val_dataloader(self):
