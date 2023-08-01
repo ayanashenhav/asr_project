@@ -37,8 +37,8 @@ letters_handling = {'pass': lambda x: x,
 class TextTokenizer:
     def __init__(self, config):
         self.config = config
-        assert self.config.letters_handling in letters_handling.keys(), \
-            f'unknown letters_handling {self.config.letters_handling}'
+        assert self.config.letter_name_handling in letters_handling.keys(), \
+            f'unknown letters_handling {self.config.letter_name_handling}'
         self.tokens = self.config.tokens
         self.labels = {t: i for i, t in enumerate(self.tokens)}
         self.blank_label = self.labels['^']
@@ -52,7 +52,7 @@ class TextTokenizer:
             raise ValueError("Expected either text or labels as input")
 
     def text_to_labels(self, text) -> torch.Tensor:
-        text = re.sub(r'\b\w\b', letters_handling[self.config.letters_handling], text)
+        text = re.sub(r'\b\w\b', letters_handling[self.config.letter_name_handling], text)
         return torch.tensor([self.labels[c] for c in text], dtype=int)
 
     def labels_to_text(self, labels) -> str:
