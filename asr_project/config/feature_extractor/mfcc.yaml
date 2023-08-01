@@ -4,7 +4,7 @@ cls:
   n_mfcc: 13
   compute_deltas: False
   melkwargs:
-    n_fft: 400
+    n_fft: 1000
     n_mels: 128
 n_features: 13
 name: MFCC
