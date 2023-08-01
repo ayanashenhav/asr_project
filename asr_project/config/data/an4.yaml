@@ -9,6 +9,6 @@ n_features: ${feature_extractor.n_features}
 dataloader:
   train_batch_size: 32
   validation_batch_size: 32
-  n_workers: 8
+  n_workers: 2
 augmentations:
   add_random_silence: true
