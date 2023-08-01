@@ -2,6 +2,7 @@ import torch
 import re
 import os
 import pandas as pd
+from phonemizer import phonemize
 
 # This is not generic implementation - I don't know what we will need in the future
 letter_names = {'A': 'AY',
@@ -114,5 +115,5 @@ class TextTokenizer:
 
     def graphemes_to_phonemes(self, text):
         text = re.sub(r'\b\w+\b',
-                      lambda x: self._g2p[x.group()] if x.group() in self._g2p else x.group(), text)
+                      lambda x: self._g2p[x.group()] if x.group() in self._g2p else phonemize(x.group()), text)
         return text
