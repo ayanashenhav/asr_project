@@ -47,7 +47,7 @@ class TextTokenizer:
         self.labels = {t: i for i, t in enumerate(self.tokens)}
         self.blank_label = self.labels['^']
         self._g2p, self._p2g = {}, {}
-        if self.config.processing == 'phonemes':
+        if self.config.processing == 'phonemizer':
             base_path = os.path.dirname(os.path.dirname(os.path.dirname(__file__)))
             df = pd.read_csv(os.path.join(base_path, 'resources', self.config.g2p_fname), 'r')
             self._g2p, self._p2g = {}, {}
