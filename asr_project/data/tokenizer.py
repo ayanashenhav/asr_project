@@ -70,7 +70,8 @@ class TextTokenizer:
             return text.upper()
         if self.config.letter_name_handling == 'convert_to_names':
             text = re.sub(r'\bDOUBLE YOU\b', 'W', text)
-            text = re.sub(r'\b\w+\b', lambda x: letter_names_inv[x.group()], text)
+            text = re.sub(r'\b\w+\b',
+                          lambda x: letter_names_inv[x.group()] if x.group() in letter_names_inv else x.group(), text)
             return text
 
     def collapse_labels(self, labels):
