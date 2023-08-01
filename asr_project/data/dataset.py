@@ -16,7 +16,7 @@ dataset_files = dict(train=os.path.join(base_path, 'resources/data_files/train.c
 class ASRDataSet(Dataset):
     def __init__(self, config, mode, ):
         super().__init__()
-        self.config = config
+        self.config = config.data
         self.mode = mode
         assert mode in dataset_files.keys(), f'unknown mode {mode}'
         self.filelist = dataset_files[mode]
@@ -25,7 +25,7 @@ class ASRDataSet(Dataset):
         samples = self.read_samples()
         self.samples = samples
 
-        self.tokenizer = TextTokenizer(config.tokenizer)
+        self.tokenizer = TextTokenizer(self.config.tokenizer)
         self.feature_extractor = hydra.utils.instantiate(config.feature_extractor.cls)
 
         if self.config['prepare_data_on_init']:
