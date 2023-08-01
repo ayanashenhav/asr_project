@@ -1,7 +1,8 @@
 cls:
-  _target_: torchaudio.transforms.MFCC
+  _target_: asr_project.data.feature_extractor.FeatureExtractor
   sample_rate: ${data.fs}
   n_mfcc: 13
+  compute_deltas: False
   melkwargs:
     n_fft: 400
     n_mels: 128
