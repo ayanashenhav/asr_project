@@ -15,8 +15,8 @@ def asr_predict(ckpt_dir):
     data_module = ASRDataModule(config)
     data_module.setup("predict")
     for batch in data_module.val_dataloader():
-        print(batch.keys())
-        print(batch['input'].shape)
+        break
+    print(model.validation_step(batch, 0))
 
 
 
