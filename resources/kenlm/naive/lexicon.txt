@@ -1,0 +1,4882 @@
+X	X |
+I	I |
+SIXTY	S I X T Y |
+ONE	O N E |
+G	G |
+TWO	T W O |
+EIGHTY	E I G H T Y |
+NINE	N I N E |
+YES	Y E S |
+R	R |
+E	E |
+W	W |
+Y	Y |
+EIGHT	E I G H T |
+FIVE	F I V E |
+SIX	S I X |
+NO	N O |
+ERASE	E R A S E |
+G	G |
+H	H |
+X	X |
+W	W |
+FIVE	F I V E |
+ZERO	Z E R O |
+FOUR	F O U R |
+EIGHT	E I G H T |
+TWO	T W O |
+START	S T A R T |
+ENTER	E N T E R |
+EIGHT	E I G H T |
+FOUR	F O U R |
+ENTER	E N T E R |
+ZERO	Z E R O |
+T	T |
+V	V |
+A	A |
+H	H |
+FIFTY	F I F T Y |
+TWO	T W O |
+FIFTY	F I F T Y |
+THREE	T H R E E |
+ENTER	E N T E R |
+FORTY	F O R T Y |
+ONE	O N E |
+B	B |
+V	V |
+I	I |
+Q	Q |
+G	G |
+EIGHTY	E I G H T Y |
+SIX	S I X |
+ENTER	E N T E R |
+SIXTY	S I X T Y |
+TWO	T W O |
+THIRTY	T H I R T Y |
+ONE	O N E |
+P	P |
+U	U |
+X	X |
+P	P |
+I	I |
+FIVE	F I V E |
+F	F |
+Y	Y |
+Z	Z |
+O	O |
+TWO	T W O |
+TWO	T W O |
+TWO	T W O |
+RUBOUT	R U B O U T |
+H	H |
+A	A |
+X	X |
+X	X |
+N	N |
+SIX	S I X |
+SEVEN	S E V E N |
+NINE	N I N E |
+ONE	O N E |
+L	L |
+R	R |
+L	L |
+Y	Y |
+U	U |
+SEVEN	S E V E N |
+THREE	T H R E E |
+RUBOUT	R U B O U T |
+O	O |
+K	K |
+T	T |
+L	L |
+E	E |
+TWO	T W O |
+EIGHT	E I G H T |
+ONE	O N E |
+O	O |
+A	A |
+M	M |
+J	J |
+ONE	O N E |
+FIVE	F I V E |
+THREE	T H R E E |
+RUBOUT	R U B O U T |
+M	M |
+N	N |
+Z	Z |
+L	L |
+THREE	T H R E E |
+SEVEN	S E V E N |
+SEVEN	S E V E N |
+RUBOUT	R U B O U T |
+J	J |
+L	L |
+Y	Y |
+Z	Z |
+TWO	T W O |
+ENTER	E N T E R |
+THIRTY	T H I R T Y |
+FIVE	F I V E |
+RUBOUT	R U B O U T |
+Y	Y |
+Y	Y |
+F	F |
+X	X |
+ZERO	Z E R O |
+HELP	H E L P |
+ENTER	E N T E R |
+EIGHT	E I G H T |
+TWO	T W O |
+FOUR	F O U R |
+TWO	T W O |
+ENTER	E N T E R |
+FIFTY	F I F T Y |
+FOUR	F O U R |
+RUBOUT	R U B O U T |
+O	O |
+Q	Q |
+I	I |
+M	M |
+I	I |
+THIRTY	T H I R T Y |
+TWO	T W O |
+ENTER	E N T E R |
+FIFTEEN	F I F T E E N |
+START	S T A R T |
+REPEAT	R E P E A T |
+RUBOUT	R U B O U T |
+I	I |
+T	T |
+D	D |
+K	K |
+M	M |
+FOUR	F O U R |
+SEVENTY	S E V E N T Y |
+ONE	O N E |
+ENTER	E N T E R |
+SIXTY	S I X T Y |
+HELP	H E L P |
+RUBOUT	R U B O U T |
+W	W |
+L	L |
+F	F |
+X	X |
+Y	Y |
+SEVEN	S E V E N |
+OH	O H |
+SIX	S I X |
+NINE	N I N E |
+GO	G O |
+REPEAT	R E P E A T |
+STOP	S T O P |
+RUBOUT	R U B O U T |
+U	U |
+T	T |
+F	F |
+F	F |
+EIGHT	E I G H T |
+ERASE	E R A S E |
+W	W |
+E	E |
+S	S |
+F	F |
+TWENTY	T W E N T Y |
+FOUR	F O U R |
+OH	O H |
+THREE	T H R E E |
+RUBOUT	R U B O U T |
+G	G |
+U	U |
+K	K |
+E	E |
+V	V |
+NINE	N I N E |
+J	J |
+Z	Z |
+A	A |
+P	P |
+SEVENTEEN	S E V E N T E E N |
+ENTER	E N T E R |
+EIGHT	E I G H T |
+THIRTY	T H I R T Y |
+TWO	T W O |
+RUBOUT	R U B O U T |
+R	R |
+E	E |
+F	F |
+V	V |
+S	S |
+ONE	O N E |
+FIVE	F I V E |
+THREE	T H R E E |
+THREE	T H R E E |
+NO	N O |
+ENTER	E N T E R |
+NINETY	N I N E T Y |
+FOUR	F O U R |
+HELP	H E L P |
+RUBOUT	R U B O U T |
+F	F |
+B	B |
+M	M |
+J	J |
+SEVEN	S E V E N |
+TEN	T E N |
+ENTER	E N T E R |
+SIX	S I X |
+Q	Q |
+E	E |
+E	E |
+A	A |
+SIX	S I X |
+ERASE	E R A S E |
+O	O |
+J	J |
+T	T |
+K	K |
+S	S |
+THIRTY	T H I R T Y |
+FIVE	F I V E |
+ENTER	E N T E R |
+NINE	N I N E |
+EIGHTY	E I G H T Y |
+NINE	N I N E |
+ERASE	E R A S E |
+C	C |
+K	K |
+C	C |
+W	W |
+FOURTEEN	F O U R T E E N |
+EIGHTY	E I G H T Y |
+FIVE	F I V E |
+H	H |
+A	A |
+H	H |
+L	L |
+E	E |
+FOUR	F O U R |
+NINETY	N I N E T Y |
+ONE	O N E |
+START	S T A R T |
+Y	Y |
+D	D |
+N	N |
+E	E |
+D	D |
+FORTY	F O R T Y |
+SEVEN	S E V E N |
+RUBOUT	R U B O U T |
+P	P |
+O	O |
+O	O |
+B	B |
+EIGHT	E I G H T |
+ENTER	E N T E R |
+SIXTY	S I X T Y |
+ERASE	E R A S E |
+Q	Q |
+K	K |
+X	X |
+Y	Y |
+U	U |
+ONE	O N E |
+SIXTY	S I X T Y |
+TWO	T W O |
+ENTER	E N T E R |
+THIRTY	T H I R T Y |
+SEVEN	S E V E N |
+RUBOUT	R U B O U T |
+V	V |
+E	E |
+W	W |
+Z	Z |
+SEVEN	S E V E N |
+SEVENTY	S E V E N T Y |
+TWO	T W O |
+STOP	S T O P |
+E	E |
+M	M |
+B	B |
+Z	Z |
+SIX	S I X |
+EIGHT	E I G H T |
+SIX	S I X |
+J	J |
+C	C |
+H	H |
+E	E |
+Q	Q |
+FIFTY	F I F T Y |
+EIGHT	E I G H T |
+THOUSAND	T H O U S A N D |
+NINE	N I N E |
+THIRTY	T H I R T Y |
+NINE	N I N E |
+H	H |
+P	P |
+D	D |
+F	F |
+T	T |
+SIXTY	S I X T Y |
+THREE	T H R E E |
+Y	Y |
+F	F |
+J	J |
+K	K |
+TWO	T W O |
+EIGHT	E I G H T |
+A	A |
+A	A |
+I	I |
+L	L |
+ZERO	Z E R O |
+ENTER	E N T E R |
+FORTY	F O R T Y |
+SEVEN	S E V E N |
+FORTY	F O R T Y |
+SEVEN	S E V E N |
+RUBOUT	R U B O U T |
+L	L |
+D	D |
+R	R |
+W	W |
+TWENTY	T W E N T Y |
+SIX	S I X |
+ENTER	E N T E R |
+SIXTY	S I X T Y |
+ONE	O N E |
+ENTER	E N T E R |
+FOUR	F O U R |
+FIFTY	F I F T Y |
+SIX	S I X |
+RUBOUT	R U B O U T |
+U	U |
+G	G |
+A	A |
+M	M |
+THIRTY	T H I R T Y |
+NINE	N I N E |
+ENTER	E N T E R |
+EIGHT	E I G H T |
+SEVENTY	S E V E N T Y |
+ONE	O N E |
+RUBOUT	R U B O U T |
+C	C |
+T	T |
+L	L |
+E	E |
+SEVENTY	S E V E N T Y |
+SIX	S I X |
+TWELVE	T W E L V E |
+HELP	H E L P |
+START	S T A R T |
+NO	N O |
+ERASE	E R A S E |
+Q	Q |
+E	E |
+J	J |
+Q	Q |
+T	T |
+SEVENTY	S E V E N T Y |
+SEVEN	S E V E N |
+YES	Y E S |
+A	A |
+V	V |
+M	M |
+U	U |
+FOUR	F O U R |
+FORTY	F O R T Y |
+TWO	T W O |
+REPEAT	R E P E A T |
+O	O |
+L	L |
+K	K |
+F	F |
+FIVE	F I V E |
+FORTY	F O R T Y |
+FIVE	F I V E |
+NO	N O |
+HELP	H E L P |
+ERASE	E R A S E |
+V	V |
+R	R |
+F	F |
+O	O |
+FIVE	F I V E |
+ENTER	E N T E R |
+ONE	O N E |
+THIRTY	T H I R T Y |
+ONE	O N E |
+U	U |
+S	S |
+I	I |
+Q	Q |
+N	N |
+SEVENTY	S E V E N T Y |
+ONE	O N E |
+STOP	S T O P |
+RUBOUT	R U B O U T |
+O	O |
+H	H |
+G	G |
+P	P |
+D	D |
+TWO	T W O |
+NINE	N I N E |
+SEVEN	S E V E N |
+SIX	S I X |
+RUBOUT	R U B O U T |
+U	U |
+J	J |
+M	M |
+K	K |
+NINE	N I N E |
+NO	N O |
+ERASE	E R A S E |
+E	E |
+O	O |
+A	A |
+C	C |
+U	U |
+THREE	T H R E E |
+ERASE	E R A S E |
+Y	Y |
+B	B |
+E	E |
+J	J |
+Q	Q |
+FIVE	F I V E |
+OH	O H |
+SEVEN	S E V E N |
+P	P |
+T	T |
+Q	Q |
+D	D |
+Q	Q |
+ONE	O N E |
+I	I |
+D	D |
+M	M |
+H	H |
+SEVEN	S E V E N |
+EIGHT	E I G H T |
+FIVE	F I V E |
+ENTER	E N T E R |
+SEVENTY	S E V E N T Y |
+ONE	O N E |
+ENTER	E N T E R |
+FOUR	F O U R |
+TWENTY	T W E N T Y |
+ONE	O N E |
+ENTER	E N T E R |
+ONE	O N E |
+NINETY	N I N E T Y |
+SIX	S I X |
+NO	N O |
+A	A |
+T	T |
+T	T |
+G	G |
+K	K |
+EIGHTY	E I G H T Y |
+FOUR	F O U R |
+START	S T A R T |
+STOP	S T O P |
+ENTER	E N T E R |
+EIGHT	E I G H T |
+ONE	O N E |
+NINE	N I N E |
+SIX	S I X |
+START	S T A R T |
+RUBOUT	R U B O U T |
+F	F |
+Y	Y |
+N	N |
+P	P |
+NINETY	N I N E T Y |
+SEVEN	S E V E N |
+RUBOUT	R U B O U T |
+Z	Z |
+O	O |
+T	T |
+F	F |
+TWO	T W O |
+RUBOUT	R U B O U T |
+H	H |
+F	F |
+D	D |
+W	W |
+Q	Q |
+SIX	S I X |
+TWO	T W O |
+TWO	T W O |
+RUBOUT	R U B O U T |
+N	N |
+B	B |
+A	A |
+K	K |
+NINETY	N I N E T Y |
+SIX	S I X |
+R	R |
+G	G |
+C	C |
+S	S |
+SEVEN	S E V E N |
+SIXTY	S I X T Y |
+SEVEN	S E V E N |
+S	S |
+Z	Z |
+K	K |
+W	W |
+W	W |
+TWO	T W O |
+THIRTY	T H I R T Y |
+SEVEN	S E V E N |
+RUBOUT	R U B O U T |
+Z	Z |
+G	G |
+D	D |
+R	R |
+G	G |
+NINE	N I N E |
+NINE	N I N E |
+FOUR	F O U R |
+SIX	S I X |
+ENTER	E N T E R |
+SIXTY	S I X T Y |
+SIX	S I X |
+L	L |
+Z	Z |
+R	R |
+V	V |
+FIFTY	F I F T Y |
+FIVE	F I V E |
+THIRTY	T H I R T Y |
+FIVE	F I V E |
+Z	Z |
+C	C |
+B	B |
+E	E |
+G	G |
+SEVENTY	S E V E N T Y |
+NINE	N I N E |
+RUBOUT	R U B O U T |
+P	P |
+N	N |
+A	A |
+M	M |
+X	X |
+SEVENTY	S E V E N T Y |
+TWO	T W O |
+ENTER	E N T E R |
+SEVEN	S E V E N |
+YES	Y E S |
+V	V |
+E	E |
+R	R |
+K	K |
+E	E |
+THIRTY	T H I R T Y |
+FIVE	F I V E |
+THIRTY	T H I R T Y |
+STOP	S T O P |
+GO	G O |
+YES	Y E S |
+ENTER	E N T E R |
+THREE	T H R E E |
+EIGHTY	E I G H T Y |
+SIX	S I X |
+G	G |
+L	L |
+L	L |
+K	K |
+H	H |
+ONE	O N E |
+HELP	H E L P |
+HELP	H E L P |
+J	J |
+V	V |
+P	P |
+E	E |
+EIGHT	E I G H T |
+SEVEN	S E V E N |
+ZERO	Z E R O |
+YES	Y E S |
+REPEAT	R E P E A T |
+F	F |
+I	I |
+Y	Y |
+Q	Q |
+FIFTY	F I F T Y |
+SIX	S I X |
+ERASE	E R A S E |
+G	G |
+W	W |
+D	D |
+K	K |
+F	F |
+SIX	S I X |
+EIGHTY	E I G H T Y |
+EIGHT	E I G H T |
+REPEAT	R E P E A T |
+STOP	S T O P |
+HELP	H E L P |
+REPEAT	R E P E A T |
+NO	N O |
+ENTER	E N T E R |
+SEVEN	S E V E N |
+STOP	S T O P |
+D	D |
+Y	Y |
+M	M |
+H	H |
+R	R |
+SIXTY	S I X T Y |
+ONE	O N E |
+REPEAT	R E P E A T |
+ENTER	E N T E R |
+NINE	N I N E |
+SEVENTY	S E V E N T Y |
+TWO	T W O |
+ENTER	E N T E R |
+FIFTY	F I F T Y |
+SIXTY	S I X T Y |
+THREE	T H R E E |
+REPEAT	R E P E A T |
+L	L |
+R	R |
+R	R |
+K	K |
+I	I |
+FOUR	F O U R |
+RUBOUT	R U B O U T |
+U	U |
+F	F |
+Z	Z |
+Z	Z |
+SIXTY	S I X T Y |
+NINE	N I N E |
+HELP	H E L P |
+X	X |
+Z	Z |
+I	I |
+V	V |
+Y	Y |
+ONE	O N E |
+STOP	S T O P |
+RUBOUT	R U B O U T |
+O	O |
+G	G |
+D	D |
+E	E |
+FOUR	F O U R |
+SEVEN	S E V E N |
+FIVE	F I V E |
+SEVEN	S E V E N |
+YES	Y E S |
+YES	Y E S |
+GO	G O |
+YES	Y E S |
+NO	N O |
+RUBOUT	R U B O U T |
+H	H |
+W	W |
+O	O |
+N	N |
+J	J |
+FOUR	F O U R |
+THOUSAND	T H O U S A N D |
+SEVEN	S E V E N |
+HUNDRED	H U N D R E D |
+TWENTY	T W E N T Y |
+THREE	T H R E E |
+ENTER	E N T E R |
+FOURTEEN	F O U R T E E N |
+REPEAT	R E P E A T |
+YES	Y E S |
+B	B |
+A	A |
+I	I |
+Q	Q |
+W	W |
+EIGHT	E I G H T |
+I	I |
+P	P |
+A	A |
+C	C |
+F	F |
+TWO	T W O |
+FIVE	F I V E |
+EIGHT	E I G H T |
+RUBOUT	R U B O U T |
+I	I |
+R	R |
+D	D |
+D	D |
+J	J |
+ONE	O N E |
+YES	Y E S |
+ENTER	E N T E R |
+FIFTY	F I F T Y |
+FOUR	F O U R |
+S	S |
+U	U |
+O	O |
+U	U |
+EIGHTY	E I G H T Y |
+SIX	S I X |
+ERASE	E R A S E |
+S	S |
+V	V |
+N	N |
+Y	Y |
+TEN	T E N |
+TEN	T E N |
+RUBOUT	R U B O U T |
+C	C |
+H	H |
+Y	Y |
+D	D |
+D	D |
+OH	O H |
+X	X |
+H	H |
+B	B |
+A	A |
+C	C |
+FIVE	F I V E |
+THREE	T H R E E |
+FOUR	F O U R |
+FOUR	F O U R |
+G	G |
+W	W |
+N	N |
+L	L |
+L	L |
+NINE	N I N E |
+FOUR	F O U R |
+NO	N O |
+RUBOUT	R U B O U T |
+Q	Q |
+N	N |
+R	R |
+A	A |
+J	J |
+SEVEN	S E V E N |
+FOUR	F O U R |
+EIGHT	E I G H T |
+Q	Q |
+C	C |
+J	J |
+K	K |
+EIGHT	E I G H T |
+FIVE	F I V E |
+EIGHT	E I G H T |
+START	S T A R T |
+ENTER	E N T E R |
+TWO	T W O |
+GO	G O |
+RUBOUT	R U B O U T |
+M	M |
+D	D |
+M	M |
+T	T |
+G	G |
+NINE	N I N E |
+SIX	S I X |
+SEVEN	S E V E N |
+OH	O H |
+ENTER	E N T E R |
+SIX	S I X |
+RUBOUT	R U B O U T |
+N	N |
+A	A |
+F	F |
+K	K |
+V	V |
+THIRTY	T H I R T Y |
+REPEAT	R E P E A T |
+R	R |
+H	H |
+H	H |
+U	U |
+F	F |
+TWO	T W O |
+STOP	S T O P |
+ENTER	E N T E R |
+NINE	N I N E |
+EIGHT	E I G H T |
+NINE	N I N E |
+REPEAT	R E P E A T |
+N	N |
+G	G |
+N	N |
+N	N |
+THREE	T H R E E |
+NINE	N I N E |
+NINE	N I N E |
+ENTER	E N T E R |
+FIVE	F I V E |
+ENTER	E N T E R |
+SEVENTY	S E V E N T Y |
+EIGHT	E I G H T |
+K	K |
+L	L |
+M	M |
+U	U |
+FIVE	F I V E |
+TWO	T W O |
+SEVEN	S E V E N |
+FOUR	F O U R |
+H	H |
+B	B |
+G	G |
+L	L |
+SEVENTY	S E V E N T Y |
+SEVEN	S E V E N |
+V	V |
+A	A |
+D	D |
+R	R |
+THIRTY	T H I R T Y |
+ONE	O N E |
+OH	O H |
+SEVEN	S E V E N |
+V	V |
+Q	Q |
+D	D |
+B	B |
+FORTY	F O R T Y |
+NINE	N I N E |
+HUNDRED	H U N D R E D |
+REPEAT	R E P E A T |
+ENTER	E N T E R |
+SIXTY	S I X T Y |
+NO	N O |
+RUBOUT	R U B O U T |
+U	U |
+T	T |
+D	D |
+A	A |
+TWO	T W O |
+RUBOUT	R U B O U T |
+M	M |
+V	V |
+O	O |
+O	O |
+FORTY	F O R T Y |
+SIX	S I X |
+STOP	S T O P |
+ENTER	E N T E R |
+EIGHT	E I G H T |
+ZERO	Z E R O |
+SIX	S I X |
+ERASE	E R A S E |
+I	I |
+S	S |
+L	L |
+F	F |
+THIRTY	T H I R T Y |
+EIGHT	E I G H T |
+ERASE	E R A S E |
+Z	Z |
+Y	Y |
+G	G |
+N	N |
+P	P |
+EIGHT	E I G H T |
+HUNDRED	H U N D R E D |
+AND	A N D |
+TWENTY	T W E N T Y |
+THREE	T H R E E |
+A	A |
+M	M |
+S	S |
+J	J |
+SEVEN	S E V E N |
+THOUSAND	T H O U S A N D |
+ONE	O N E |
+HUNDRED	H U N D R E D |
+AND	A N D |
+EIGHTY	E I G H T Y |
+SIX	S I X |
+ENTER	E N T E R |
+FIFTY	F I F T Y |
+ONE	O N E |
+D	D |
+S	S |
+K	K |
+U	U |
+FOUR	F O U R |
+FIVE	F I V E |
+OH	O H |
+FIVE	F I V E |
+ENTER	E N T E R |
+SEVEN	S E V E N |
+ENTER	E N T E R |
+FOUR	F O U R |
+RUBOUT	R U B O U T |
+R	R |
+Z	Z |
+R	R |
+V	V |
+Z	Z |
+NINETY	N I N E T Y |
+EIGHT	E I G H T |
+YES	Y E S |
+E	E |
+Z	Z |
+A	A |
+K	K |
+O	O |
+EIGHT	E I G H T |
+M	M |
+M	M |
+V	V |
+Q	Q |
+D	D |
+ONE	O N E |
+EIGHT	E I G H T |
+SEVEN	S E V E N |
+RUBOUT	R U B O U T |
+T	T |
+B	B |
+P	P |
+B	B |
+SIX	S I X |
+ENTER	E N T E R |
+TWO	T W O |
+OH	O H |
+FIVE	F I V E |
+YES	Y E S |
+GO	G O |
+STOP	S T O P |
+ENTER	E N T E R |
+SEVEN	S E V E N |
+SEVEN	S E V E N |
+B	B |
+Y	Y |
+V	V |
+M	M |
+EIGHT	E I G H T |
+FOUR	F O U R |
+ERASE	E R A S E |
+F	F |
+H	H |
+B	B |
+K	K |
+Z	Z |
+SIXTY	S I X T Y |
+NINE	N I N E |
+ENTER	E N T E R |
+TWO	T W O |
+SIX	S I X |
+ENTER	E N T E R |
+NINE	N I N E |
+RUBOUT	R U B O U T |
+G	G |
+J	J |
+H	H |
+G	G |
+V	V |
+SEVEN	S E V E N |
+YES	Y E S |
+N	N |
+N	N |
+P	P |
+U	U |
+FIVE	F I V E |
+ENTER	E N T E R |
+SEVEN	S E V E N |
+G	G |
+A	A |
+B	B |
+H	H |
+TWO	T W O |
+HELP	H E L P |
+ENTER	E N T E R |
+SIX	S I X |
+ONE	O N E |
+TWO	T W O |
+FIVE	F I V E |
+ENTER	E N T E R |
+TWO	T W O |
+FIVE	F I V E |
+FOUR	F O U R |
+SIX	S I X |
+YES	Y E S |
+YES	Y E S |
+YES	Y E S |
+ENTER	E N T E R |
+TWENTY	T W E N T Y |
+NINE	N I N E |
+ERASE	E R A S E |
+A	A |
+L	L |
+H	H |
+N	N |
+C	C |
+THIRTY	T H I R T Y |
+FIVE	F I V E |
+ERASE	E R A S E |
+V	V |
+Y	Y |
+W	W |
+L	L |
+R	R |
+SEVEN	S E V E N |
+ZERO	Z E R O |
+ONE	O N E |
+ONE	O N E |
+ERASE	E R A S E |
+O	O |
+T	T |
+E	E |
+B	B |
+SEVENTY	S E V E N T Y |
+NINE	N I N E |
+HELP	H E L P |
+ENTER	E N T E R |
+EIGHT	E I G H T |
+TWENTY	T W E N T Y |
+SEVEN	S E V E N |
+RUBOUT	R U B O U T |
+R	R |
+R	R |
+N	N |
+A	A |
+A	A |
+NINETY	N I N E T Y |
+FOUR	F O U R |
+H	H |
+Z	Z |
+A	A |
+E	E |
+THREE	T H R E E |
+SEVEN	S E V E N |
+FIVE	F I V E |
+ONE	O N E |
+ENTER	E N T E R |
+THREE	T H R E E |
+J	J |
+H	H |
+B	B |
+X	X |
+THREE	T H R E E |
+ZERO	Z E R O |
+ENTER	E N T E R |
+TWO	T W O |
+NO	N O |
+RUBOUT	R U B O U T |
+W	W |
+P	P |
+F	F |
+J	J |
+D	D |
+TWO	T W O |
+SIX	S I X |
+ENTER	E N T E R |
+SIX	S I X |
+SEVEN	S E V E N |
+ENTER	E N T E R |
+FIFTY	F I F T Y |
+FIVE	F I V E |
+YES	Y E S |
+RUBOUT	R U B O U T |
+V	V |
+A	A |
+N	N |
+B	B |
+X	X |
+NINE	N I N E |
+P	P |
+O	O |
+U	U |
+N	N |
+B	B |
+FIVE	F I V E |
+RUBOUT	R U B O U T |
+C	C |
+Y	Y |
+R	R |
+B	B |
+SEVEN	S E V E N |
+EIGHT	E I G H T |
+REPEAT	R E P E A T |
+O	O |
+A	A |
+W	W |
+F	F |
+FIVE	F I V E |
+NINE	N I N E |
+V	V |
+K	K |
+Z	Z |
+O	O |
+SIXTY	S I X T Y |
+TWO	T W O |
+RUBOUT	R U B O U T |
+D	D |
+Q	Q |
+T	T |
+W	W |
+X	X |
+FIVE	F I V E |
+HUNDRED	H U N D R E D |
+EIGHTY	E I G H T Y |
+SEVEN	S E V E N |
+B	B |
+J	J |
+X	X |
+K	K |
+TWENTY	T W E N T Y |
+THREE	T H R E E |
+M	M |
+F	F |
+G	G |
+I	I |
+K	K |
+TWO	T W O |
+SIXTY	S I X T Y |
+S	S |
+F	F |
+Q	Q |
+Q	Q |
+K	K |
+SIX	S I X |
+THOUSAND	T H O U S A N D |
+EIGHT	E I G H T |
+HUNDRED	H U N D R E D |
+AND	A N D |
+EIGHTY	E I G H T Y |
+ONE	O N E |
+H	H |
+Q	Q |
+F	F |
+X	X |
+FOUR	F O U R |
+THOUSAND	T H O U S A N D |
+THREE	T H R E E |
+HUNDRED	H U N D R E D |
+AND	A N D |
+EIGHTY	E I G H T Y |
+SIX	S I X |
+YES	Y E S |
+ERASE	E R A S E |
+J	J |
+G	G |
+Q	Q |
+Y	Y |
+EIGHT	E I G H T |
+SIX	S I X |
+ONE	O N E |
+RUBOUT	R U B O U T |
+N	N |
+A	A |
+G	G |
+K	K |
+K	K |
+THREE	T H R E E |
+THIRTY	T H I R T Y |
+SIX	S I X |
+ERASE	E R A S E |
+I	I |
+G	G |
+N	N |
+M	M |
+FORTY	F O R T Y |
+THREE	T H R E E |
+SEVENTEEN	S E V E N T E E N |
+RUBOUT	R U B O U T |
+E	E |
+U	U |
+J	J |
+O	O |
+NINETY	N I N E T Y |
+FIVE	F I V E |
+K	K |
+W	W |
+Z	Z |
+A	A |
+G	G |
+TWO	T W O |
+HUNDRED	H U N D R E D |
+AND	A N D |
+SIXTY	S I X T Y |
+SIX	S I X |
+ENTER	E N T E R |
+FORTY	F O R T Y |
+THREE	T H R E E |
+FORTY	F O R T Y |
+FIVE	F I V E |
+ENTER	E N T E R |
+FIVE	F I V E |
+TWO	T W O |
+FOUR	F O U R |
+RUBOUT	R U B O U T |
+J	J |
+B	B |
+X	X |
+R	R |
+Z	Z |
+NINE	N I N E |
+TWENTY	T W E N T Y |
+ENTER	E N T E R |
+SIXTY	S I X T Y |
+FOUR	F O U R |
+GO	G O |
+ENTER	E N T E R |
+SIX	S I X |
+OH	O H |
+EIGHT	E I G H T |
+OH	O H |
+RUBOUT	R U B O U T |
+E	E |
+Z	Z |
+U	U |
+A	A |
+I	I |
+FIFTEEN	F I F T E E N |
+ENTER	E N T E R |
+SIXTY	S I X T Y |
+ONE	O N E |
+RUBOUT	R U B O U T |
+N	N |
+Z	Z |
+X	X |
+L	L |
+THIRTY	T H I R T Y |
+ONE	O N E |
+GO	G O |
+ENTER	E N T E R |
+SIX	S I X |
+FOUR	F O U R |
+FIVE	F I V E |
+ONE	O N E |
+Y	Y |
+W	W |
+A	A |
+A	A |
+M	M |
+TWO	T W O |
+START	S T A R T |
+RUBOUT	R U B O U T |
+X	X |
+C	C |
+Z	Z |
+T	T |
+P	P |
+FOUR	F O U R |
+G	G |
+C	C |
+D	D |
+O	O |
+FOUR	F O U R |
+REPEAT	R E P E A T |
+ENTER	E N T E R |
+SEVENTY	S E V E N T Y |
+TWO	T W O |
+Z	Z |
+I	I |
+R	R |
+K	K |
+SIX	S I X |
+FOUR	F O U R |
+FOUR	F O U R |
+STOP	S T O P |
+ENTER	E N T E R |
+SEVEN	S E V E N |
+TWO	T W O |
+ONE	O N E |
+SIX	S I X |
+ENTER	E N T E R |
+ONE	O N E |
+NINE	N I N E |
+N	N |
+H	H |
+O	O |
+T	T |
+Q	Q |
+TWO	T W O |
+EIGHT	E I G H T |
+THREE	T H R E E |
+REPEAT	R E P E A T |
+P	P |
+T	T |
+K	K |
+X	X |
+ZERO	Z E R O |
+V	V |
+F	F |
+O	O |
+F	F |
+H	H |
+NINE	N I N E |
+FOUR	F O U R |
+ENTER	E N T E R |
+SEVEN	S E V E N |
+ERASE	E R A S E |
+B	B |
+M	M |
+E	E |
+E	E |
+THREE	T H R E E |
+FIVE	F I V E |
+TWO	T W O |
+START	S T A R T |
+ERASE	E R A S E |
+X	X |
+B	B |
+M	M |
+N	N |
+T	T |
+FOUR	F O U R |
+ONE	O N E |
+OH	O H |
+NINE	N I N E |
+F	F |
+K	K |
+A	A |
+U	U |
+TWO	T W O |
+FOUR	F O U R |
+ERASE	E R A S E |
+E	E |
+X	X |
+X	X |
+S	S |
+ZERO	Z E R O |
+A	A |
+G	G |
+L	L |
+G	G |
+A	A |
+SIX	S I X |
+FOUR	F O U R |
+NINE	N I N E |
+A	A |
+G	G |
+L	L |
+G	G |
+A	A |
+SIX	S I X |
+HUNDRED	H U N D R E D |
+FORTY	F O R T Y |
+NINE	N I N E |
+NO	N O |
+NO	N O |
+ENTER	E N T E R |
+SEVEN	S E V E N |
+OH	O H |
+THREE	T H R E E |
+EIGHT	E I G H T |
+ENTER	E N T E R |
+FIVE	F I V E |
+ZERO	Z E R O |
+ENTER	E N T E R |
+FIVE	F I V E |
+THREE	T H R E E |
+FOUR	F O U R |
+THREE	T H R E E |
+ENTER	E N T E R |
+FOUR	F O U R |
+X	X |
+G	G |
+I	I |
+C	C |
+TWO	T W O |
+ENTER	E N T E R |
+FOUR	F O U R |
+THOUSAND	T H O U S A N D |
+EIGHT	E I G H T |
+HUNDRED	H U N D R E D |
+EIGHTY	E I G H T Y |
+THREE	T H R E E |
+NO	N O |
+F	F |
+E	E |
+G	G |
+B	B |
+FORTY	F O R T Y |
+EIGHT	E I G H T |
+REPEAT	R E P E A T |
+O	O |
+U	U |
+FOUR	F O U R |
+SEVEN	S E V E N |
+TWENTY	T W E N T Y |
+NINE	N I N E |
+NO	N O |
+G	G |
+E	E |
+E	E |
+P	P |
+C	C |
+SEVEN	S E V E N |
+ONE	O N E |
+OH	O H |
+SEVEN	S E V E N |
+STOP	S T O P |
+ENTER	E N T E R |
+TWO	T W O |
+OH	O H |
+SEVEN	S E V E N |
+RUBOUT	R U B O U T |
+Q	Q |
+Q	Q |
+Q	Q |
+P	P |
+FORTY	F O R T Y |
+FIVE	F I V E |
+YES	Y E S |
+ERASE	E R A S E |
+V	V |
+X	X |
+S	S |
+X	X |
+TWO	T W O |
+FOUR	F O U R |
+NINE	N I N E |
+NINE	N I N E |
+R	R |
+Q	Q |
+Z	Z |
+H	H |
+FOUR	F O U R |
+RUBOUT	R U B O U T |
+J	J |
+U	U |
+I	I |
+P	P |
+THREE	T H R E E |
+TWO	T W O |
+EIGHT	E I G H T |
+B	B |
+SEVEN	S E V E N |
+TWENTY	T W E N T Y |
+FIVE	F I V E |
+STOP	S T O P |
+ENTER	E N T E R |
+EIGHTY	E I G H T Y |
+NINE	N I N E |
+FORTY	F O R T Y |
+THREE	T H R E E |
+RUBOUT	R U B O U T |
+T	T |
+J	J |
+J	J |
+C	C |
+L	L |
+TWO	T W O |
+ENTER	E N T E R |
+SIX	S I X |
+ENTER	E N T E R |
+SEVEN	S E V E N |
+THIRTY	T H I R T Y |
+EIGHT	E I G H T |
+RUBOUT	R U B O U T |
+A	A |
+D	D |
+E	E |
+U	U |
+Y	Y |
+THREE	T H R E E |
+SIXTY	S I X T Y |
+FOUR	F O U R |
+C	C |
+Z	Z |
+D	D |
+Z	Z |
+W	W |
+EIGHT	E I G H T |
+ENTER	E N T E R |
+SIX	S I X |
+TWO	T W O |
+FOUR	F O U R |
+RUBOUT	R U B O U T |
+T	T |
+G	G |
+J	J |
+W	W |
+B	B |
+SEVENTY	S E V E N T Y |
+NINE	N I N E |
+FIFTY	F I F T Y |
+NINE	N I N E |
+J	J |
+FOUR	F O U R |
+THIRTY	T H I R T Y |
+THREE	T H R E E |
+NO	N O |
+ERASE	E R A S E |
+M	M |
+Y	Y |
+A	A |
+M	M |
+SEVEN	S E V E N |
+RUBOUT	R U B O U T |
+N	N |
+X	X |
+F	F |
+E	E |
+EIGHT	E I G H T |
+NINE	N I N E |
+SIX	S I X |
+STOP	S T O P |
+ERASE	E R A S E |
+R	R |
+B	B |
+D	D |
+K	K |
+T	T |
+FIFTY	F I F T Y |
+RUBOUT	R U B O U T |
+F	F |
+M	M |
+Q	Q |
+N	N |
+H	H |
+THREE	T H R E E |
+SEVENTY	S E V E N T Y |
+ENTER	E N T E R |
+SEVENTY	S E V E N T Y |
+ONE	O N E |
+START	S T A R T |
+H	H |
+K	K |
+T	T |
+E	E |
+D	D |
+ONE	O N E |
+SEVENTY	S E V E N T Y |
+H	H |
+I	I |
+N	N |
+I	I |
+C	C |
+H	H |
+H	H |
+O	O |
+W	W |
+E	E |
+L	L |
+L	L |
+C	C |
+O	O |
+N	N |
+N	N |
+E	E |
+L	L |
+L	L |
+Y	Y |
+S	S |
+C	C |
+A	A |
+V	V |
+I	I |
+N	N |
+C	C |
+K	K |
+Y	Y |
+M	M |
+O	O |
+D	D |
+U	U |
+G	G |
+N	N |
+O	O |
+N	N |
+E	E |
+L	L |
+S	S |
+O	O |
+N	N |
+D	D |
+R	R |
+A	A |
+V	V |
+K	K |
+I	I |
+V	V |
+A	A |
+R	R |
+S	S |
+O	O |
+N	N |
+M	M |
+A	A |
+C	C |
+A	A |
+L	L |
+U	U |
+S	S |
+O	O |
+P	P |
+O	O |
+M	M |
+E	E |
+R	R |
+A	A |
+N	N |
+T	T |
+Z	Z |
+C	C |
+E	E |
+L	L |
+L	L |
+I	I |
+O	O |
+D	D |
+O	O |
+W	W |
+L	L |
+I	I |
+N	N |
+G	G |
+V	V |
+E	E |
+C	C |
+C	C |
+H	H |
+I	I |
+P	P |
+O	O |
+M	M |
+E	E |
+R	R |
+A	A |
+N	N |
+T	T |
+Z	Z |
+F	F |
+A	A |
+R	R |
+R	R |
+E	E |
+L	L |
+L	L |
+Y	Y |
+B	B |
+U	U |
+R	R |
+K	K |
+S	S |
+L	L |
+E	E |
+W	W |
+I	I |
+S	S |
+J	J |
+E	E |
+T	T |
+T	T |
+S	S |
+A	A |
+T	T |
+T	T |
+E	E |
+R	R |
+F	F |
+I	I |
+E	E |
+L	L |
+D	D |
+B	B |
+R	R |
+U	U |
+M	M |
+I	I |
+T	T |
+T	T |
+W	W |
+E	E |
+I	I |
+D	D |
+E	E |
+G	G |
+O	O |
+T	T |
+T	T |
+I	I |
+E	E |
+R	R |
+L	L |
+A	A |
+M	M |
+P	P |
+S	S |
+O	O |
+N	N |
+T	T |
+A	A |
+Y	Y |
+L	L |
+O	O |
+R	R |
+C	C |
+A	A |
+L	L |
+I	I |
+G	G |
+I	I |
+U	U |
+R	R |
+I	I |
+S	S |
+T	T |
+E	E |
+E	E |
+R	R |
+E	E |
+S	S |
+N	N |
+O	O |
+W	W |
+C	C |
+A	A |
+R	R |
+R	R |
+E	E |
+L	L |
+N	N |
+O	O |
+O	O |
+N	N |
+B	B |
+U	U |
+R	R |
+G	G |
+S	S |
+T	T |
+O	O |
+D	D |
+O	O |
+L	L |
+S	S |
+K	K |
+Y	Y |
+B	B |
+L	L |
+A	A |
+C	C |
+K	K |
+W	W |
+O	O |
+O	O |
+D	D |
+T	T |
+H	H |
+A	A |
+Y	Y |
+E	E |
+R	R |
+A	A |
+L	L |
+T	T |
+M	M |
+A	A |
+N	N |
+N	N |
+L	L |
+E	E |
+U	U |
+L	L |
+I	I |
+E	E |
+T	T |
+T	T |
+E	E |
+A	A |
+L	L |
+L	L |
+E	E |
+V	V |
+A	A |
+H	H |
+O	O |
+Y	Y |
+A	A |
+S	S |
+P	P |
+N	N |
+E	E |
+S	S |
+R	R |
+O	O |
+S	S |
+E	E |
+N	N |
+F	F |
+E	E |
+L	L |
+D	D |
+K	K |
+E	E |
+A	A |
+N	N |
+E	E |
+S	S |
+K	K |
+E	E |
+E	E |
+S	S |
+B	B |
+E	E |
+C	C |
+H	H |
+T	T |
+E	E |
+L	L |
+M	M |
+O	O |
+H	H |
+N	N |
+K	K |
+E	E |
+R	R |
+N	N |
+L	L |
+U	U |
+B	B |
+I	I |
+N	N |
+S	S |
+K	K |
+I	I |
+W	W |
+I	I |
+L	L |
+L	L |
+I	I |
+A	A |
+M	M |
+S	S |
+H	H |
+O	O |
+F	F |
+F	F |
+R	R |
+I	I |
+C	C |
+H	H |
+T	T |
+E	E |
+R	R |
+M	M |
+A	A |
+S	S |
+O	O |
+N	N |
+E	E |
+F	F |
+R	R |
+O	O |
+M	M |
+L	L |
+O	O |
+O	O |
+F	F |
+B	B |
+O	O |
+U	U |
+R	R |
+R	R |
+O	O |
+W	W |
+B	B |
+R	R |
+E	E |
+N	N |
+N	N |
+A	A |
+N	N |
+B	B |
+R	R |
+O	O |
+S	S |
+T	T |
+C	C |
+L	L |
+O	O |
+U	U |
+T	T |
+I	I |
+E	E |
+R	R |
+G	G |
+R	R |
+E	E |
+E	E |
+N	N |
+G	G |
+I	I |
+B	B |
+B	B |
+S	S |
+T	T |
+I	I |
+M	M |
+M	M |
+M	M |
+A	A |
+H	H |
+O	O |
+N	N |
+E	E |
+Y	Y |
+R	R |
+O	O |
+Z	Z |
+E	E |
+V	V |
+E	E |
+L	L |
+D	D |
+B	B |
+R	R |
+O	O |
+W	W |
+N	N |
+V	V |
+A	A |
+N	N |
+D	D |
+E	E |
+R	R |
+L	L |
+A	A |
+A	A |
+N	N |
+E	E |
+W	W |
+A	A |
+L	L |
+D	D |
+S	S |
+M	M |
+I	I |
+T	T |
+H	H |
+J	J |
+O	O |
+H	H |
+N	N |
+S	S |
+O	O |
+N	N |
+W	W |
+A	A |
+R	R |
+D	D |
+A	A |
+M	M |
+Y	Y |
+B	B |
+E	E |
+V	V |
+E	E |
+R	R |
+L	L |
+Y	Y |
+C	C |
+I	I |
+N	N |
+D	D |
+Y	Y |
+J	J |
+E	E |
+A	A |
+N	N |
+F	F |
+R	R |
+A	A |
+N	N |
+C	C |
+E	E |
+S	S |
+M	M |
+A	A |
+R	R |
+Y	Y |
+J	J |
+U	U |
+L	L |
+I	I |
+E	E |
+J	J |
+E	E |
+N	N |
+N	N |
+I	I |
+F	F |
+E	E |
+R	R |
+J	J |
+E	E |
+A	A |
+N	N |
+E	E |
+T	T |
+T	T |
+E	E |
+K	K |
+A	A |
+R	R |
+L	L |
+A	A |
+K	K |
+A	A |
+R	R |
+E	E |
+N	N |
+L	L |
+I	I |
+N	N |
+D	D |
+A	A |
+L	L |
+I	I |
+N	N |
+D	D |
+A	A |
+M	M |
+O	O |
+N	N |
+I	I |
+C	C |
+A	A |
+M	M |
+A	A |
+R	R |
+Y	Y |
+J	J |
+O	O |
+N	N |
+I	I |
+C	C |
+O	O |
+L	L |
+E	E |
+P	P |
+H	H |
+Y	Y |
+L	L |
+L	L |
+I	I |
+S	S |
+S	S |
+H	H |
+E	E |
+I	I |
+L	L |
+A	A |
+T	T |
+R	R |
+A	A |
+C	C |
+Y	Y |
+T	T |
+E	E |
+R	R |
+I	I |
+N	N |
+A	A |
+W	W |
+H	H |
+I	I |
+T	T |
+N	N |
+E	E |
+Y	Y |
+R	R |
+O	O |
+B	B |
+E	E |
+R	R |
+T	T |
+B	B |
+R	R |
+I	I |
+A	A |
+N	N |
+C	C |
+L	L |
+A	A |
+R	R |
+K	K |
+C	C |
+H	H |
+R	R |
+I	I |
+S	S |
+C	C |
+H	H |
+R	R |
+I	I |
+S	S |
+T	T |
+O	O |
+P	P |
+H	H |
+E	E |
+R	R |
+C	C |
+H	H |
+A	A |
+R	R |
+L	L |
+E	E |
+S	S |
+D	D |
+A	A |
+V	V |
+I	I |
+D	D |
+D	D |
+O	O |
+N	N |
+A	A |
+L	L |
+D	D |
+D	D |
+A	A |
+V	V |
+I	I |
+D	D |
+D	D |
+E	E |
+R	R |
+E	E |
+K	K |
+D	D |
+A	A |
+N	N |
+I	I |
+E	E |
+L	L |
+E	E |
+D	D |
+W	W |
+I	I |
+N	N |
+E	E |
+R	R |
+I	I |
+C	C |
+E	E |
+R	R |
+I	I |
+K	K |
+E	E |
+R	R |
+I	I |
+C	C |
+G	G |
+L	L |
+E	E |
+N	N |
+N	N |
+J	J |
+A	A |
+M	M |
+E	E |
+S	S |
+J	J |
+E	E |
+F	F |
+F	F |
+J	J |
+O	O |
+N	N |
+A	A |
+T	T |
+H	H |
+A	A |
+N	N |
+J	J |
+O	O |
+S	S |
+E	E |
+P	P |
+H	H |
+J	J |
+O	O |
+S	S |
+E	E |
+P	P |
+H	H |
+J	J |
+A	A |
+M	M |
+E	E |
+S	S |
+K	K |
+A	A |
+R	R |
+L	L |
+K	K |
+E	E |
+N	N |
+M	M |
+I	I |
+C	C |
+H	H |
+A	A |
+E	E |
+L	L |
+M	M |
+A	A |
+R	R |
+K	K |
+M	M |
+A	A |
+R	R |
+K	K |
+M	M |
+I	I |
+C	C |
+H	H |
+A	A |
+E	E |
+L	L |
+M	M |
+A	A |
+T	T |
+T	T |
+H	H |
+E	E |
+W	W |
+N	N |
+E	E |
+I	I |
+L	L |
+N	N |
+A	A |
+T	T |
+H	H |
+A	A |
+N	N |
+R	R |
+O	O |
+B	B |
+E	E |
+R	R |
+T	T |
+R	R |
+A	A |
+N	N |
+D	D |
+Y	Y |
+R	R |
+I	I |
+C	C |
+H	H |
+A	A |
+R	R |
+D	D |
+R	R |
+I	I |
+C	C |
+H	H |
+A	A |
+R	R |
+D	D |
+S	S |
+T	T |
+E	E |
+V	V |
+E	E |
+N	N |
+S	S |
+T	T |
+E	E |
+V	V |
+E	E |
+N	N |
+S	S |
+T	T |
+E	E |
+V	V |
+E	E |
+N	N |
+S	S |
+T	T |
+E	E |
+V	V |
+E	E |
+N	N |
+S	S |
+T	T |
+E	E |
+V	V |
+E	E |
+T	T |
+O	O |
+M	M |
+T	T |
+I	I |
+M	M |
+O	O |
+T	T |
+H	H |
+Y	Y |
+T	T |
+H	H |
+O	O |
+M	M |
+A	A |
+S	S |
+T	T |
+H	H |
+A	A |
+D	D |
+W	W |
+A	A |
+Y	Y |
+N	N |
+E	E |
+FIFTY	F I F T Y |
+ONE	O N E |
+FIFTY	F I F T Y |
+SIX	S I X |
+ONE	O N E |
+ZERO	Z E R O |
+SIX	S I X |
+FIVE	F I V E |
+FIFTY	F I F T Y |
+SIX	S I X |
+THIRTY	T H I R T Y |
+TWO	T W O |
+SEVEN	S E V E N |
+FIFTY	F I F T Y |
+FIVE	F I V E |
+THIRTY	T H I R T Y |
+THREE	T H R E E |
+ONE	O N E |
+TEN	T E N |
+ONE	O N E |
+THOUSAND	T H O U S A N D |
+TWO	T W O |
+TWO	T W O |
+NINE	N I N E |
+THREE	T H R E E |
+THREE	T H R E E |
+FOUR	F O U R |
+EIGHT	E I G H T |
+ZERO	Z E R O |
+FIFTY	F I F T Y |
+ONE	O N E |
+FIFTEEN	F I F T E E N |
+FIVE	F I V E |
+SIX	S I X |
+ONE	O N E |
+FIVE	F I V E |
+SIX	S I X |
+FIVE	F I V E |
+THREE	T H R E E |
+FOUR	F O U R |
+FIFTY	F I F T Y |
+SIX	S I X |
+OH	O H |
+FIVE	F I V E |
+ONE	O N E |
+TWO	T W O |
+FOUR	F O U R |
+ONE	O N E |
+THIRTY	T H I R T Y |
+TWO	T W O |
+THIRTY	T H I R T Y |
+ONE	O N E |
+FOUR	F O U R |
+OH	O H |
+THREE	T H R E E |
+TWENTY	T W E N T Y |
+TWO	T W O |
+TWENTY	T W E N T Y |
+SIX	S I X |
+TWO	T W O |
+TEN	T E N |
+ONE	O N E |
+TEN	T E N |
+FORTY	F O R T Y |
+THREE	T H R E E |
+TWENTY	T W E N T Y |
+THREE	T H R E E |
+THREE	T H R E E |
+OH	O H |
+ONE	O N E |
+SIX	S I X |
+THREE	T H R E E |
+EIGHT	E I G H T |
+FIFTY	F I F T Y |
+EIGHT	E I G H T |
+OH	O H |
+NINE	N I N E |
+AND	A N D |
+A	A |
+HALF	H A L F |
+ONE	O N E |
+FOUR	F O U R |
+EIGHT	E I G H T |
+TWO	T W O |
+THREE	T H R E E |
+THREE	T H R E E |
+OH	O H |
+SIX	S I X |
+ONE	O N E |
+ZERO	Z E R O |
+ZERO	Z E R O |
+SIX	S I X |
+SIXTY	S I X T Y |
+THREE	T H R E E |
+SIXTY	S I X T Y |
+FOUR	F O U R |
+AND	A N D |
+A	A |
+HALF	H A L F |
+FOURTEEN	F O U R T E E N |
+FOURTEEN	F O U R T E E N |
+FIVE	F I V E |
+TEN	T E N |
+THREE	T H R E E |
+SEVENTY	S E V E N T Y |
+ONE	O N E |
+THREE	T H R E E |
+ONE	O N E |
+TWO	T W O |
+FIFTY	F I F T Y |
+SIX	S I X |
+SIXTY	S I X T Y |
+NINE	N I N E |
+FIVE	F I V E |
+SIX	S I X |
+THREE	T H R E E |
+ONE	O N E |
+FIVE	F I V E |
+SIX	S I X |
+FOUR	F O U R |
+ZERO	Z E R O |
+SEVEN	S E V E N |
+THIRTY	T H I R T Y |
+FOUR	F O U R |
+SEVEN	S E V E N |
+TWO	T W O |
+ZERO	Z E R O |
+THIRTY	T H I R T Y |
+ONE	O N E |
+FIVE	F I V E |
+THREE	T H R E E |
+TWO	T W O |
+FIFTY	F I F T Y |
+SEVEN	S E V E N |
+FOURTEEN	F O U R T E E N |
+A	A |
+FIVE	F I V E |
+TWO	T W O |
+SEVEN	S E V E N |
+FIFTY	F I F T Y |
+THREE	T H R E E |
+FORTY	F O R T Y |
+TWO	T W O |
+SIX	S I X |
+THIRTY	T H I R T Y |
+SIX	S I X |
+THREE	T H R E E |
+TWO	T W O |
+THREE	T H R E E |
+THREE	T H R E E |
+FOUR	F O U R |
+FOUR	F O U R |
+ONE	O N E |
+ELEVEN	E L E V E N |
+TEN	T E N |
+SEVENTY	S E V E N T Y |
+ONE	O N E |
+ONE	O N E |
+THOUSAND	T H O U S A N D |
+ONE	O N E |
+TWENTY	T W E N T Y |
+TWO	T W O |
+ONE	O N E |
+TWO	T W O |
+FIVE	F I V E |
+TWO	T W O |
+SIXTY	S I X T Y |
+SEVEN	S E V E N |
+TEN	T E N |
+ONE	O N E |
+OH	O H |
+TWO	T W O |
+FIVE	F I V E |
+ONE	O N E |
+ONE	O N E |
+FIVE	F I V E |
+FIVE	F I V E |
+ONE	O N E |
+NINE	N I N E |
+EIGHT	E I G H T |
+FORTY	F O R T Y |
+ONE	O N E |
+SIX	S I X |
+ZERO	Z E R O |
+ONE	O N E |
+FIVE	F I V E |
+EIGHT	E I G H T |
+FOUR	F O U R |
+SIX	S I X |
+SEVEN	S E V E N |
+FOUR	F O U R |
+OH	O H |
+ONE	O N E |
+M	M |
+G	G |
+E	E |
+FOUR	F O U R |
+OH	O H |
+TWO	T W O |
+ONE	O N E |
+HUNDRED	H U N D R E D |
+ONE	O N E |
+FIFTY	F I F T Y |
+M	M |
+O	O |
+R	R |
+E	E |
+W	W |
+O	O |
+O	O |
+D	D |
+A	A |
+Y	Y |
+L	L |
+E	E |
+S	S |
+B	B |
+O	O |
+R	R |
+O	O |
+F	F |
+I	I |
+N	N |
+D	D |
+L	L |
+E	E |
+Y	Y |
+D	D |
+R	R |
+I	I |
+V	V |
+E	E |
+P	P |
+H	H |
+I	I |
+L	L |
+L	L |
+I	I |
+P	P |
+S	S |
+M	M |
+E	E |
+M	M |
+O	O |
+R	R |
+Y	Y |
+L	L |
+A	A |
+N	N |
+E	E |
+K	K |
+U	U |
+N	N |
+T	T |
+Z	Z |
+S	S |
+P	P |
+R	R |
+I	I |
+N	N |
+G	G |
+H	H |
+O	O |
+U	U |
+S	S |
+E	E |
+A	A |
+L	L |
+M	M |
+O	O |
+N	N |
+T	T |
+M	M |
+E	E |
+A	A |
+D	D |
+O	O |
+W	W |
+G	G |
+A	A |
+T	T |
+E	E |
+D	D |
+R	R |
+I	I |
+V	V |
+E	E |
+M	M |
+A	A |
+R	R |
+G	G |
+A	A |
+R	R |
+E	E |
+T	T |
+H	H |
+O	O |
+B	B |
+A	A |
+R	R |
+T	T |
+D	D |
+A	A |
+L	L |
+Z	Z |
+E	E |
+L	L |
+L	L |
+E	E |
+L	L |
+L	L |
+S	S |
+W	W |
+O	O |
+R	R |
+T	T |
+H	H |
+E	E |
+A	A |
+R	R |
+L	L |
+F	F |
+O	O |
+R	R |
+D	D |
+T	T |
+A	A |
+N	N |
+G	G |
+L	L |
+E	E |
+W	W |
+Y	Y |
+L	L |
+D	D |
+E	E |
+A	A |
+R	R |
+A	A |
+P	P |
+A	A |
+H	H |
+O	O |
+E	E |
+V	V |
+A	A |
+L	L |
+E	E |
+H	H |
+A	A |
+W	W |
+T	T |
+H	H |
+O	O |
+R	R |
+N	N |
+E	E |
+O	O |
+R	R |
+C	C |
+H	H |
+A	A |
+R	R |
+D	D |
+P	P |
+L	L |
+A	A |
+C	C |
+E	E |
+M	M |
+I	I |
+D	D |
+W	W |
+O	O |
+O	O |
+D	D |
+L	L |
+U	U |
+D	D |
+W	W |
+I	I |
+C	C |
+K	K |
+P	P |
+A	A |
+R	R |
+K	K |
+R	R |
+O	O |
+A	A |
+D	D |
+G	G |
+A	A |
+R	R |
+L	L |
+A	A |
+N	N |
+D	D |
+L	L |
+O	O |
+N	N |
+G	G |
+V	V |
+I	I |
+E	E |
+W	W |
+H	H |
+A	A |
+S	S |
+T	T |
+I	I |
+N	N |
+G	G |
+S	S |
+T	T |
+R	R |
+E	E |
+N	N |
+T	T |
+O	O |
+N	N |
+F	F |
+O	O |
+R	R |
+W	W |
+A	A |
+R	R |
+D	D |
+S	S |
+O	O |
+U	U |
+T	T |
+H	H |
+H	H |
+I	I |
+G	G |
+H	H |
+L	L |
+A	A |
+N	N |
+D	D |
+C	C |
+O	O |
+N	N |
+C	C |
+O	O |
+R	R |
+D	D |
+B	B |
+O	O |
+U	U |
+Q	Q |
+U	U |
+E	E |
+T	T |
+B	B |
+R	R |
+A	A |
+D	D |
+D	D |
+O	O |
+C	C |
+K	K |
+B	B |
+E	E |
+A	A |
+C	C |
+O	O |
+N	N |
+E	E |
+A	A |
+S	S |
+T	T |
+E	E |
+N	N |
+D	D |
+A	A |
+V	V |
+E	E |
+FIVE	F I V E |
+ONE	O N E |
+ONE	O N E |
+FIVE	F I V E |
+M	M |
+A	A |
+R	R |
+G	G |
+A	A |
+R	R |
+E	E |
+T	T |
+W	W |
+I	I |
+L	L |
+K	K |
+I	I |
+N	N |
+S	S |
+R	R |
+U	U |
+S	S |
+K	K |
+I	I |
+N	N |
+E	E |
+L	L |
+G	G |
+I	I |
+N	N |
+E	E |
+A	A |
+S	S |
+T	T |
+E	E |
+N	N |
+D	D |
+A	A |
+V	V |
+E	E |
+N	N |
+U	U |
+E	E |
+C	C |
+E	E |
+N	N |
+T	T |
+R	R |
+E	E |
+A	A |
+V	V |
+E	E |
+N	N |
+U	U |
+E	E |
+E	E |
+A	A |
+S	S |
+T	T |
+EIGHTY	E I G H T Y |
+FIFTH	F I F T H |
+S	S |
+T	T |
+R	R |
+E	E |
+E	E |
+T	T |
+A	A |
+S	S |
+B	B |
+U	U |
+R	R |
+Y	Y |
+P	P |
+L	L |
+A	A |
+C	C |
+E	E |
+A	A |
+M	M |
+P	P |
+E	E |
+R	R |
+E	E |
+B	B |
+E	E |
+A	A |
+C	C |
+O	O |
+N	N |
+C	C |
+M	M |
+U	U |
+S	S |
+U	U |
+M	M |
+M	M |
+E	E |
+R	R |
+L	L |
+E	E |
+A	A |
+B	B |
+E	E |
+E	E |
+L	L |
+E	E |
+R	R |
+B	B |
+R	R |
+O	O |
+A	A |
+D	D |
+H	H |
+E	E |
+A	A |
+D	D |
+R	R |
+O	O |
+A	A |
+D	D |
+D	D |
+O	O |
+U	U |
+G	G |
+L	L |
+A	A |
+S	S |
+P	P |
+I	I |
+N	N |
+E	E |
+H	H |
+U	U |
+R	R |
+S	S |
+T	T |
+F	F |
+I	I |
+F	F |
+T	T |
+H	H |
+A	A |
+V	V |
+E	E |
+N	N |
+U	U |
+E	E |
+O	O |
+L	L |
+D	D |
+B	B |
+A	A |
+R	R |
+N	N |
+D	D |
+R	R |
+I	I |
+V	V |
+E	E |
+M	M |
+O	O |
+R	R |
+E	E |
+W	W |
+O	O |
+O	O |
+D	D |
+O	O |
+A	A |
+K	K |
+D	D |
+A	A |
+L	L |
+E	E |
+D	D |
+R	R |
+I	I |
+V	V |
+E	E |
+N	N |
+E	E |
+G	G |
+L	L |
+E	E |
+Y	Y |
+F	F |
+E	E |
+N	N |
+N	N |
+I	I |
+M	M |
+O	O |
+R	R |
+E	E |
+M	M |
+A	A |
+R	R |
+G	G |
+A	A |
+R	R |
+E	E |
+T	T |
+S	S |
+E	E |
+M	M |
+P	P |
+L	L |
+E	E |
+M	M |
+A	A |
+P	P |
+L	L |
+E	E |
+FIVE	F I V E |
+T	T |
+H	H |
+A	A |
+V	V |
+E	E |
+N	N |
+U	U |
+E	E |
+B	B |
+U	U |
+R	R |
+C	C |
+H	H |
+F	F |
+E	E |
+I	I |
+L	L |
+D	D |
+A	A |
+V	V |
+E	E |
+P	P |
+A	A |
+T	T |
+T	T |
+E	E |
+R	R |
+S	S |
+O	O |
+N	N |
+S	S |
+L	L |
+E	E |
+E	E |
+P	P |
+Y	Y |
+H	H |
+O	O |
+L	L |
+L	L |
+O	O |
+W	W |
+C	C |
+E	E |
+N	N |
+T	T |
+R	R |
+E	E |
+A	A |
+V	V |
+E	E |
+M	M |
+O	O |
+R	R |
+E	E |
+W	W |
+O	O |
+O	O |
+D	D |
+S	S |
+A	A |
+Y	Y |
+B	B |
+R	R |
+O	O |
+O	O |
+K	K |
+H	H |
+A	A |
+R	R |
+B	B |
+O	O |
+R	R |
+B	B |
+U	U |
+C	C |
+K	K |
+W	W |
+H	H |
+E	E |
+A	A |
+T	T |
+P	P |
+I	I |
+T	T |
+T	T |
+S	S |
+B	B |
+U	U |
+R	R |
+G	G |
+H	H |
+G	G |
+I	I |
+B	B |
+S	S |
+O	O |
+N	N |
+I	I |
+A	A |
+P	P |
+I	I |
+T	T |
+T	T |
+S	S |
+B	B |
+U	U |
+R	R |
+G	G |
+H	H |
+P	P |
+I	I |
+T	T |
+T	T |
+S	S |
+B	B |
+U	U |
+R	R |
+G	G |
+H	H |
+P	P |
+I	I |
+T	T |
+T	T |
+S	S |
+B	B |
+U	U |
+R	R |
+G	G |
+H	H |
+M	M |
+C	C |
+K	K |
+E	E |
+E	E |
+S	S |
+P	P |
+O	O |
+R	R |
+T	T |
+B	B |
+E	E |
+R	R |
+K	K |
+E	E |
+L	L |
+E	E |
+Y	Y |
+W	W |
+R	R |
+I	I |
+G	G |
+H	H |
+T	T |
+S	S |
+V	V |
+I	I |
+L	L |
+L	L |
+E	E |
+P	P |
+I	I |
+T	T |
+T	T |
+S	S |
+B	B |
+U	U |
+R	R |
+G	G |
+H	H |
+P	P |
+I	I |
+T	T |
+T	T |
+S	S |
+B	B |
+U	U |
+R	R |
+G	G |
+H	H |
+P	P |
+I	I |
+T	T |
+T	T |
+S	S |
+B	B |
+U	U |
+R	R |
+G	G |
+H	H |
+P	P |
+I	I |
+T	T |
+T	T |
+S	S |
+B	B |
+U	U |
+R	R |
+G	G |
+H	H |
+P	P |
+I	I |
+T	T |
+T	T |
+S	S |
+B	B |
+U	U |
+R	R |
+G	G |
+H	H |
+P	P |
+I	I |
+T	T |
+T	T |
+S	S |
+B	B |
+U	U |
+R	R |
+G	G |
+H	H |
+B	B |
+R	R |
+O	O |
+N	N |
+X	X |
+V	V |
+I	I |
+L	L |
+L	L |
+E	E |
+P	P |
+I	I |
+T	T |
+T	T |
+S	S |
+B	B |
+U	U |
+R	R |
+G	G |
+H	H |
+P	P |
+I	I |
+T	T |
+T	T |
+S	S |
+B	B |
+U	U |
+R	R |
+G	G |
+H	H |
+S	S |
+W	W |
+I	I |
+S	S |
+S	S |
+V	V |
+A	A |
+L	L |
+E	E |
+W	W |
+A	A |
+T	T |
+E	E |
+R	R |
+B	B |
+U	U |
+R	R |
+Y	Y |
+P	P |
+G	G |
+H	H |
+D	D |
+O	O |
+W	W |
+N	N |
+I	I |
+N	N |
+G	G |
+T	T |
+O	O |
+W	W |
+N	N |
+P	P |
+I	I |
+T	T |
+T	T |
+S	S |
+B	B |
+U	U |
+R	R |
+G	G |
+H	H |
+N	N |
+E	E |
+W	W |
+B	B |
+U	U |
+R	R |
+Y	Y |
+P	P |
+I	I |
+T	T |
+T	T |
+S	S |
+B	B |
+U	U |
+R	R |
+G	G |
+H	H |
+P	P |
+G	G |
+H	H |
+P	P |
+I	I |
+T	T |
+T	T |
+S	S |
+B	B |
+U	U |
+R	R |
+G	G |
+H	H |
+P	P |
+I	I |
+T	T |
+T	T |
+S	S |
+B	B |
+U	U |
+R	R |
+G	G |
+I	I |
+T	T |
+H	H |
+A	A |
+C	C |
+A	A |
+P	P |
+I	I |
+T	T |
+T	T |
+S	S |
+B	B |
+U	U |
+R	R |
+G	G |
+H	H |
+P	P |
+I	I |
+T	T |
+T	T |
+S	S |
+B	B |
+U	U |
+R	R |
+G	G |
+H	H |
+P	P |
+I	I |
+T	T |
+T	T |
+S	S |
+B	B |
+U	U |
+R	R |
+G	G |
+H	H |
+P	P |
+G	G |
+H	H |
+P	P |
+I	I |
+T	T |
+T	T |
+S	S |
+B	B |
+U	U |
+R	R |
+G	G |
+H	H |
+P	P |
+I	I |
+T	T |
+T	T |
+S	S |
+B	B |
+U	U |
+R	R |
+G	G |
+H	H |
+P	P |
+I	I |
+T	T |
+T	T |
+S	S |
+B	B |
+U	U |
+R	R |
+G	G |
+H	H |
+P	P |
+I	I |
+T	T |
+T	T |
+S	S |
+B	B |
+U	U |
+R	R |
+G	G |
+H	H |
+P	P |
+I	I |
+T	T |
+T	T |
+S	S |
+B	B |
+U	U |
+R	R |
+G	G |
+H	H |
+N	N |
+E	E |
+W	W |
+Y	Y |
+O	O |
+R	R |
+K	K |
+O	O |
+APOSTROPHE	A P O S T R O P H E |
+H	H |
+A	A |
+R	R |
+A	A |
+P	P |
+I	I |
+T	T |
+T	T |
+S	S |
+B	B |
+U	U |
+R	R |
+G	G |
+H	H |
+P	P |
+I	I |
+T	T |
+T	T |
+S	S |
+B	B |
+U	U |
+R	R |
+G	G |
+H	H |
+P	P |
+I	I |
+T	T |
+T	T |
+S	S |
+B	B |
+U	U |
+R	R |
+G	G |
+H	H |
+P	P |
+I	I |
+T	T |
+T	T |
+S	S |
+B	B |
+U	U |
+R	R |
+G	G |
+H	H |
+C	C |
+R	R |
+A	A |
+F	F |
+T	T |
+O	O |
+N	N |
+P	P |
+I	I |
+T	T |
+T	T |
+S	S |
+B	B |
+U	U |
+R	R |
+G	G |
+H	H |
+M	M |
+A	A |
+U	U |
+L	L |
+D	D |
+I	I |
+N	N |
+B	B |
+R	R |
+O	O |
+O	O |
+M	M |
+A	A |
+L	L |
+L	L |
+V	V |
+E	E |
+R	R |
+O	O |
+N	N |
+A	A |
+P	P |
+I	I |
+T	T |
+T	T |
+S	S |
+B	B |
+U	U |
+R	R |
+G	G |
+H	H |
+P	P |
+I	I |
+T	T |
+T	T |
+S	S |
+B	B |
+U	U |
+R	R |
+G	G |
+H	H |
+Z	Z |
+E	E |
+L	L |
+I	I |
+E	E |
+N	N |
+O	O |
+P	P |
+L	L |
+E	E |
+P	P |
+I	I |
+T	T |
+T	T |
+S	S |
+B	B |
+U	U |
+R	R |
+G	G |
+H	H |
+P	P |
+I	I |
+T	T |
+T	T |
+S	S |
+B	B |
+U	U |
+R	R |
+G	G |
+H	H |
+P	P |
+I	I |
+T	T |
+T	T |
+S	S |
+B	B |
+U	U |
+R	R |
+G	G |
+H	H |
+P	P |
+I	I |
+T	T |
+T	T |
+S	S |
+B	B |
+U	U |
+R	R |
+G	G |
+H	H |
+G	G |
+L	L |
+E	E |
+N	N |
+S	S |
+H	H |
+A	A |
+W	W |
+V	V |
+E	E |
+R	R |
+O	O |
+N	N |
+A	A |
+P	P |
+I	I |
+T	T |
+T	T |
+S	S |
+B	B |
+U	U |
+R	R |
+G	G |
+H	H |
+P	P |
+I	I |
+T	T |
+T	T |
+S	S |
+B	B |
+U	U |
+R	R |
+G	G |
+H	H |
+C	C |
+A	A |
+R	R |
+N	N |
+E	E |
+G	G |
+I	I |
+E	E |
+W	W |
+A	A |
+R	R |
+R	R |
+E	E |
+N	N |
+P	P |
+I	I |
+T	T |
+T	T |
+S	S |
+B	B |
+U	U |
+R	R |
+G	G |
+H	H |
+B	B |
+R	R |
+A	A |
+D	D |
+F	F |
+O	O |
+R	R |
+D	D |
+W	W |
+O	O |
+O	O |
+D	D |
+S	S |
+G	G |
+I	I |
+B	B |
+S	S |
+O	O |
+N	N |
+I	I |
+A	A |
+ONE	O N E |
+FIVE	F I V E |
+OH	O H |
+FOUR	F O U R |
+FOUR	F O U R |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+ONE	O N E |
+SEVEN	S E V E N |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+TWO	T W O |
+ONE	O N E |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+ONE	O N E |
+SEVEN	S E V E N |
+ONE	O N E |
+FIVE	F I V E |
+ONE	O N E |
+THREE	T H R E E |
+THREE	T H R E E |
+ONE	O N E |
+SEVEN	S E V E N |
+THREE	T H R E E |
+SIX	S I X |
+EIGHT	E I G H T |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+ONE	O N E |
+SEVEN	S E V E N |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+ONE	O N E |
+OH	O H |
+ONE	O N E |
+FIVE	F I V E |
+SIX	S I X |
+SIX	S I X |
+EIGHT	E I G H T |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+ONE	O N E |
+THREE	T H R E E |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+ONE	O N E |
+SEVEN	S E V E N |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+ONE	O N E |
+SEVEN	S E V E N |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+THREE	T H R E E |
+TWO	T W O |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+TWO	T W O |
+SEVEN	S E V E N |
+ONE	O N E |
+OH	O H |
+SEVEN	S E V E N |
+OH	O H |
+EIGHT	E I G H T |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+FOUR	F O U R |
+ONE	O N E |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+THREE	T H R E E |
+NINE	N I N E |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+ONE	O N E |
+EIGHT	E I G H T |
+ONE	O N E |
+FIVE	F I V E |
+ONE	O N E |
+FOUR	F O U R |
+THREE	T H R E E |
+OH	O H |
+SIX	S I X |
+SEVEN	S E V E N |
+OH	O H |
+EIGHT	E I G H T |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+ONE	O N E |
+SEVEN	S E V E N |
+ONE	O N E |
+NINE	N I N E |
+THREE	T H R E E |
+THREE	T H R E E |
+FIVE	F I V E |
+NINE	N I N E |
+FOUR	F O U R |
+OH	O H |
+EIGHT	E I G H T |
+SIX	S I X |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+THREE	T H R E E |
+TWO	T W O |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+OH	O H |
+SIX	S I X |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+TWO	T W O |
+ONE	O N E |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+ONE	O N E |
+SEVEN	S E V E N |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+ONE	O N E |
+SEVEN	S E V E N |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+OH	O H |
+SIX	S I X |
+ONE	O N E |
+FOUR	F O U R |
+EIGHT	E I G H T |
+FIVE	F I V E |
+OH	O H |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+ONE	O N E |
+THREE	T H R E E |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+TWO	T W O |
+ONE	O N E |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+ONE	O N E |
+SEVEN	S E V E N |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+TWO	T W O |
+ONE	O N E |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+ONE	O N E |
+THREE	T H R E E |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+ONE	O N E |
+SEVEN	S E V E N |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+ONE	O N E |
+THREE	T H R E E |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+ZERO	Z E R O |
+SIX	S I X |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+TWO	T W O |
+ONE	O N E |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+ONE	O N E |
+THREE	T H R E E |
+ONE	O N E |
+OH	O H |
+OH	O H |
+TWO	T W O |
+EIGHT	E I G H T |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+THREE	T H R E E |
+EIGHT	E I G H T |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+ZERO	Z E R O |
+SEVEN	S E V E N |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+ONE	O N E |
+SEVEN	S E V E N |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+ONE	O N E |
+THREE	T H R E E |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+THREE	T H R E E |
+TWO	T W O |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+ONE	O N E |
+SEVEN	S E V E N |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+OH	O H |
+FIVE	F I V E |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+ONE	O N E |
+SEVEN	S E V E N |
+TWO	T W O |
+NINE	N I N E |
+SIX	S I X |
+SIX	S I X |
+TWO	T W O |
+ONE	O N E |
+FIVE	F I V E |
+ONE	O N E |
+FOUR	F O U R |
+SEVEN	S E V E N |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+ONE	O N E |
+THREE	T H R E E |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+ONE	O N E |
+THREE	T H R E E |
+ONE	O N E |
+SIX	S I X |
+OH	O H |
+SIX	S I X |
+THREE	T H R E E |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+ONE	O N E |
+SEVEN	S E V E N |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+OH	O H |
+SIX	S I X |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+TWO	T W O |
+ONE	O N E |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+TWO	T W O |
+SIX	S I X |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+ONE	O N E |
+THREE	T H R E E |
+ONE	O N E |
+FIVE	F I V E |
+ONE	O N E |
+ONE	O N E |
+SIX	S I X |
+ONE	O N E |
+FIVE	F I V E |
+ONE	O N E |
+FOUR	F O U R |
+SEVEN	S E V E N |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+THREE	T H R E E |
+TWO	T W O |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+ONE	O N E |
+SEVEN	S E V E N |
+ONE	O N E |
+FIVE	F I V E |
+ONE	O N E |
+OH	O H |
+SIX	S I X |
+FOUR	F O U R |
+FOUR	F O U R |
+FOUR	F O U R |
+EIGHT	E I G H T |
+FOUR	F O U R |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+THREE	T H R E E |
+TWO	T W O |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+ONE	O N E |
+THREE	T H R E E |
+ONE	O N E |
+FIVE	F I V E |
+OH	O H |
+ONE	O N E |
+FIVE	F I V E |
+ONE	O N E |
+FIVE	F I V E |
+OH	O H |
+FOUR	F O U R |
+FOUR	F O U R |
+TWO	T W O |
+SIX	S I X |
+EIGHT	E I G H T |
+FOUR	F O U R |
+FOUR	F O U R |
+ONE	O N E |
+EIGHT	E I G H T |
+FOUR	F O U R |
+FOUR	F O U R |
+THREE	T H R E E |
+SIX	S I X |
+THREE	T H R E E |
+ONE	O N E |
+TWO	T W O |
+SIX	S I X |
+EIGHT	E I G H T |
+SEVEN	S E V E N |
+FIVE	F I V E |
+EIGHT	E I G H T |
+OH	O H |
+EIGHT	E I G H T |
+TWO	T W O |
+SIX	S I X |
+EIGHT	E I G H T |
+THREE	T H R E E |
+EIGHT	E I G H T |
+ZERO	Z E R O |
+TWO	T W O |
+FOUR	F O U R |
+ONE	O N E |
+TWO	T W O |
+FOUR	F O U R |
+TWO	T W O |
+ONE	O N E |
+EIGHT	E I G H T |
+EIGHT	E I G H T |
+NINE	N I N E |
+SIX	S I X |
+SIX	S I X |
+SIX	S I X |
+FOUR	F O U R |
+SEVEN	S E V E N |
+TWO	T W O |
+NINE	N I N E |
+THREE	T H R E E |
+TWO	T W O |
+OH	O H |
+ONE	O N E |
+FOUR	F O U R |
+SIX	S I X |
+FOUR	F O U R |
+SIX	S I X |
+OH	O H |
+EIGHT	E I G H T |
+THREE	T H R E E |
+TWO	T W O |
+FIVE	F I V E |
+TWO	T W O |
+TWO	T W O |
+OH	O H |
+TWO	T W O |
+NINE	N I N E |
+FOUR	F O U R |
+FOUR	F O U R |
+FOUR	F O U R |
+SEVEN	S E V E N |
+EIGHT	E I G H T |
+EIGHT	E I G H T |
+TWO	T W O |
+EIGHT	E I G H T |
+ONE	O N E |
+OH	O H |
+TWO	T W O |
+THREE	T H R E E |
+TWO	T W O |
+SEVEN	S E V E N |
+ONE	O N E |
+SIX	S I X |
+NINE	N I N E |
+FIVE	F I V E |
+TWO	T W O |
+SIX	S I X |
+EIGHT	E I G H T |
+FIVE	F I V E |
+NINE	N I N E |
+FIVE	F I V E |
+TWO	T W O |
+FOUR	F O U R |
+TWO	T W O |
+ONE	O N E |
+OH	O H |
+FOUR	F O U R |
+FIVE	F I V E |
+ONE	O N E |
+FOUR	F O U R |
+TWO	T W O |
+ONE	O N E |
+OH	O H |
+ONE	O N E |
+NINE	N I N E |
+SIX	S I X |
+SIX	S I X |
+SIX	S I X |
+ONE	O N E |
+FIVE	F I V E |
+ZERO	Z E R O |
+SIX	S I X |
+FOUR	F O U R |
+EIGHT	E I G H T |
+EIGHT	E I G H T |
+FOUR	F O U R |
+ONE	O N E |
+ZERO	Z E R O |
+FIVE	F I V E |
+SEVEN	S E V E N |
+NINE	N I N E |
+ONE	O N E |
+FOUR	F O U R |
+THREE	T H R E E |
+THREE	T H R E E |
+SEVEN	S E V E N |
+ONE	O N E |
+EIGHT	E I G H T |
+SIX	S I X |
+NINE	N I N E |
+FOUR	F O U R |
+ONE	O N E |
+TWO	T W O |
+EIGHT	E I G H T |
+THREE	T H R E E |
+ONE	O N E |
+NINE	N I N E |
+FIVE	F I V E |
+ONE	O N E |
+THREE	T H R E E |
+TWO	T W O |
+SIX	S I X |
+EIGHT	E I G H T |
+THREE	T H R E E |
+ZERO	Z E R O |
+TWO	T W O |
+SEVEN	S E V E N |
+TWO	T W O |
+SEVEN	S E V E N |
+ONE	O N E |
+ZERO	Z E R O |
+EIGHT	E I G H T |
+TWO	T W O |
+SIX	S I X |
+SEVEN	S E V E N |
+FOUR	F O U R |
+ONE	O N E |
+OH	O H |
+FIVE	F I V E |
+NINE	N I N E |
+TWO	T W O |
+TWO	T W O |
+OH	O H |
+THREE	T H R E E |
+SEVEN	S E V E N |
+FIVE	F I V E |
+SEVEN	S E V E N |
+EIGHT	E I G H T |
+EIGHT	E I G H T |
+NINE	N I N E |
+NINE	N I N E |
+FOUR	F O U R |
+TWO	T W O |
+TWO	T W O |
+OH	O H |
+EIGHT	E I G H T |
+ONE	O N E |
+SIX	S I X |
+TWO	T W O |
+ONE	O N E |
+FIVE	F I V E |
+FOUR	F O U R |
+FIVE	F I V E |
+EIGHT	E I G H T |
+FIVE	F I V E |
+FOUR	F O U R |
+SIX	S I X |
+NINE	N I N E |
+FIVE	F I V E |
+TWO	T W O |
+ONE	O N E |
+SIXTY	S I X T Y |
+FIFTY	F I F T Y |
+FIVE	F I V E |
+SIX	S I X |
+FOUR	F O U R |
+FIVE	F I V E |
+THREE	T H R E E |
+THREE	T H R E E |
+SIX	S I X |
+FOUR	F O U R |
+THREE	T H R E E |
+SIX	S I X |
+THREE	T H R E E |
+OH	O H |
+NINE	N I N E |
+SIX	S I X |
+TWO	T W O |
+SEVEN	S E V E N |
+THREE	T H R E E |
+ONE	O N E |
+ONE	O N E |
+THREE	T H R E E |
+THREE	T H R E E |
+EIGHT	E I G H T |
+FOUR	F O U R |
+ONE	O N E |
+TWO	T W O |
+FOUR	F O U R |
+TWO	T W O |
+TWO	T W O |
+THREE	T H R E E |
+FIVE	F I V E |
+SEVEN	S E V E N |
+EIGHT	E I G H T |
+FOUR	F O U R |
+TWO	T W O |
+ONE	O N E |
+SIX	S I X |
+TWO	T W O |
+EIGHT	E I G H T |
+THREE	T H R E E |
+THREE	T H R E E |
+SIX	S I X |
+ONE	O N E |
+ZERO	Z E R O |
+ONE	O N E |
+FIVE	F I V E |
+FIVE	F I V E |
+TWO	T W O |
+SIX	S I X |
+EIGHT	E I G H T |
+FOUR	F O U R |
+ONE	O N E |
+SIX	S I X |
+ONE	O N E |
+FOUR	F O U R |
+ONE	O N E |
+TWO	T W O |
+SIX	S I X |
+EIGHT	E I G H T |
+SEVEN	S E V E N |
+EIGHT	E I G H T |
+EIGHT	E I G H T |
+SEVEN	S E V E N |
+ONE	O N E |
+FOUR	F O U R |
+ONE	O N E |
+TWO	T W O |
+TWO	T W O |
+FOUR	F O U R |
+TWO	T W O |
+SIX	S I X |
+SIX	S I X |
+TWO	T W O |
+SIX	S I X |
+FOUR	F O U R |
+ONE	O N E |
+TWO	T W O |
+FIVE	F I V E |
+TWO	T W O |
+ONE	O N E |
+TWO	T W O |
+EIGHT	E I G H T |
+TWO	T W O |
+FOUR	F O U R |
+TWO	T W O |
+FOUR	F O U R |
+THREE	T H R E E |
+EIGHT	E I G H T |
+THREE	T H R E E |
+TWO	T W O |
+EIGHT	E I G H T |
+TWO	T W O |
+SIX	S I X |
+EIGHT	E I G H T |
+FOUR	F O U R |
+SIX	S I X |
+FIVE	F I V E |
+EIGHT	E I G H T |
+FIVE	F I V E |
+TWO	T W O |
+ONE	O N E |
+OH	O H |
+TWO	T W O |
+SIX	S I X |
+EIGHT	E I G H T |
+SIX	S I X |
+EIGHT	E I G H T |
+THREE	T H R E E |
+FIVE	F I V E |
+ZERO	Z E R O |
+FOUR	F O U R |
+ONE	O N E |
+TWO	T W O |
+SIX	S I X |
+EIGHT	E I G H T |
+THREE	T H R E E |
+ZERO	Z E R O |
+SIX	S I X |
+SIX	S I X |
+FOUR	F O U R |
+ONE	O N E |
+TWO	T W O |
+SIX	S I X |
+EIGHT	E I G H T |
+ONE	O N E |
+ONE	O N E |
+EIGHT	E I G H T |
+FOUR	F O U R |
+TWO	T W O |
+TWO	T W O |
+ONE	O N E |
+TWO	T W O |
+FIVE	F I V E |
+SEVEN	S E V E N |
+OH	O H |
+TWO	T W O |
+SEVEN	S E V E N |
+EIGHT	E I G H T |
+FOUR	F O U R |
+FOUR	F O U R |
+TWO	T W O |
+TWO	T W O |
+TWO	T W O |
+OH	O H |
+EIGHT	E I G H T |
+NINE	N I N E |
+FOUR	F O U R |
+ONE	O N E |
+TWO	T W O |
+FIVE	F I V E |
+TWO	T W O |
+ONE	O N E |
+EIGHT	E I G H T |
+TWO	T W O |
+SIX	S I X |
+OH	O H |
+FOUR	F O U R |
+TWO	T W O |
+TWO	T W O |
+ZERO	Z E R O |
+SEVEN	S E V E N |
+NINE	N I N E |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+ONE	O N E |
+FOUR	F O U R |
+NINE	N I N E |
+FIVE	F I V E |
+FOUR	F O U R |
+THREE	T H R E E |
+OH	O H |
+EIGHT	E I G H T |
+FIVE	F I V E |
+FOUR	F O U R |
+FOUR	F O U R |
+ONE	O N E |
+ONE	O N E |
+SEVEN	S E V E N |
+TWO	T W O |
+FOUR	F O U R |
+SIX	S I X |
+EIGHT	E I G H T |
+ONE	O N E |
+SEVEN	S E V E N |
+SEVEN	S E V E N |
+FIVE	F I V E |
+TWO	T W O |
+NINE	N I N E |
+TWO	T W O |
+TWO	T W O |
+SEVEN	S E V E N |
+TWO	T W O |
+TWO	T W O |
+ZERO	Z E R O |
+FOUR	F O U R |
+ONE	O N E |
+TWO	T W O |
+FIVE	F I V E |
+TWO	T W O |
+ONE	O N E |
+FIVE	F I V E |
+THREE	T H R E E |
+THREE	T H R E E |
+NINE	N I N E |
+SEVEN	S E V E N |
+NINE	N I N E |
+THREE	T H R E E |
+FIVE	F I V E |
+FOUR	F O U R |
+TWO	T W O |
+NINE	N I N E |
+TWO	T W O |
+SIX	S I X |
+EIGHT	E I G H T |
+FIVE	F I V E |
+FIVE	F I V E |
+TWO	T W O |
+FOUR	F O U R |
+FOUR	F O U R |
+ONE	O N E |
+TWO	T W O |
+TWO	T W O |
+SIX	S I X |
+EIGHT	E I G H T |
+FOUR	F O U R |
+FOUR	F O U R |
+SEVEN	S E V E N |
+FOUR	F O U R |
+FOUR	F O U R |
+FIVE	F I V E |
+TWO	T W O |
+EIGHT	E I G H T |
+FIVE	F I V E |
+ONE	O N E |
+EIGHT	E I G H T |
+AREA	A R E A |
+CODE	C O D E |
+FOUR	F O U R |
+ONE	O N E |
+TWO	T W O |
+FOUR	F O U R |
+TWO	T W O |
+TWO	T W O |
+ONE	O N E |
+TWO	T W O |
+TWO	T W O |
+FIVE	F I V E |
+SIX	S I X |
+SIX	S I X |
+FIVE	F I V E |
+NINE	N I N E |
+SIX	S I X |
+SIX	S I X |
+FIVE	F I V E |
+TWO	T W O |
+FOUR	F O U R |
+TWO	T W O |
+TWO	T W O |
+NINE	N I N E |
+ONE	O N E |
+TWO	T W O |
+TWO	T W O |
+SIX	S I X |
+EIGHT	E I G H T |
+FOUR	F O U R |
+SIX	S I X |
+SEVEN	S E V E N |
+EIGHT	E I G H T |
+SIX	S I X |
+EIGHT	E I G H T |
+THREE	T H R E E |
+THREE	T H R E E |
+SEVEN	S E V E N |
+EIGHT	E I G H T |
+ZERO	Z E R O |
+FOUR	F O U R |
+EIGHT	E I G H T |
+SIX	S I X |
+THREE	T H R E E |
+NINE	N I N E |
+FIVE	F I V E |
+OH	O H |
+EIGHT	E I G H T |
+TWO	T W O |
+SIX	S I X |
+EIGHT	E I G H T |
+SIX	S I X |
+EIGHT	E I G H T |
+SEVEN	S E V E N |
+SIX	S I X |
+SIX	S I X |
+ONE	O N E |
+NINE	N I N E |
+EIGHT	E I G H T |
+EIGHT	E I G H T |
+FOUR	F O U R |
+TWO	T W O |
+SEVEN	S E V E N |
+NINE	N I N E |
+TWO	T W O |
+THREE	T H R E E |
+TWO	T W O |
+FOUR	F O U R |
+EIGHT	E I G H T |
+FIVE	F I V E |
+SIX	S I X |
+ONE	O N E |
+FOUR	F O U R |
+NINE	N I N E |
+ZERO	Z E R O |
+FOUR	F O U R |
+EIGHT	E I G H T |
+FOUR	F O U R |
+TWO	T W O |
+NINE	N I N E |
+THREE	T H R E E |
+FIVE	F I V E |
+OH	O H |
+SIX	S I X |
+NINE	N I N E |
+TWO	T W O |
+SIX	S I X |
+TWO	T W O |
+FIVE	F I V E |
+ONE	O N E |
+FIVE	F I V E |
+SIX	S I X |
+FOUR	F O U R |
+MARCH	M A R C H |
+THIRD	T H I R D |
+NINETEEN	N I N E T E E N |
+TWENTY	T W E N T Y |
+EIGHT	E I G H T |
+JUNE	J U N E |
+ELEVENTH	E L E V E N T H |
+NINETEEN	N I N E T E E N |
+SIXTY	S I X T Y |
+SEVEN	S E V E N |
+TWO	T W O |
+FIFTEEN	F I F T E E N |
+SIXTY	S I X T Y |
+TWO	T W O |
+SEPTEMBER	S E P T E M B E R |
+FIFTEENTH	F I F T E E N T H |
+NINETEEN	N I N E T E E N |
+SIXTY	S I X T Y |
+FIVE	F I V E |
+MAY	M A Y |
+TWENTY	T W E N T Y |
+FIRST	F I R S T |
+NINETEEN	N I N E T E E N |
+SIXTY	S I X T Y |
+ELEVEN	E L E V E N |
+NINE	N I N E |
+SIXTY	S I X T Y |
+EIGHT	E I G H T |
+OCTOBER	O C T O B E R |
+FIRST	F I R S T |
+NINETEEN	N I N E T E E N |
+SIXTY	S I X T Y |
+NINE	N I N E |
+FIVE	F I V E |
+TWENTY	T W E N T Y |
+SIX	S I X |
+FORTY	F O R T Y |
+FIVE	F I V E |
+THIRTY	T H I R T Y |
+ONE	O N E |
+J	J |
+A	A |
+N	N |
+U	U |
+A	A |
+R	R |
+Y	Y |
+ONE	O N E |
+NINE	N I N E |
+SEVEN	S E V E N |
+ZERO	Z E R O |
+THREE	T H R E E |
+TWENTY	T W E N T Y |
+SEVEN	S E V E N |
+SIXTY	S I X T Y |
+EIGHT	E I G H T |
+NINE	N I N E |
+TWENTY	T W E N T Y |
+THREE	T H R E E |
+SIXTY	S I X T Y |
+THREE	T H R E E |
+SEVEN	S E V E N |
+FOURTEEN	F O U R T E E N |
+SIXTY	S I X T Y |
+ONE	O N E |
+JANUARY	J A N U A R Y |
+FIFTEENTH	F I F T E E N T H |
+NINETEEN	N I N E T E E N |
+SIXTY	S I X T Y |
+THREE	T H R E E |
+SIX	S I X |
+SEVENTEEN	S E V E N T E E N |
+THIRTY	T H I R T Y |
+SIX	S I X |
+FIVE	F I V E |
+SIXTEEN	S I X T E E N |
+SIXTY	S I X T Y |
+NINE	N I N E |
+DECEMBER	D E C E M B E R |
+EIGHTEENTH	E I G H T E E N T H |
+NINETEEN	N I N E T E E N |
+FORTY	F O R T Y |
+FOUR	F O U R |
+JULY	J U L Y |
+THIRTIETH	T H I R T I E T H |
+NINETEEN	N I N E T E E N |
+SIXTY	S I X T Y |
+FIVE	F I V E |
+JULY	J U L Y |
+TWELFTH	T W E L F T H |
+NINETEEN	N I N E T E E N |
+SIXTY	S I X T Y |
+NINE	N I N E |
+SEPTEMBER	S E P T E M B E R |
+TWENTY	T W E N T Y |
+SEVENTH	S E V E N T H |
+NINETEEN	N I N E T E E N |
+SIXTY	S I X T Y |
+SEVEN	S E V E N |
+TWELVE	T W E L V E |
+NINE	N I N E |
+OF	O F |
+SIXTY	S I X T Y |
+THREE	T H R E E |
+FOURTEEN	F O U R T E E N |
+SIXTY	S I X T Y |
+SEVEN	S E V E N |
+EIGHT	E I G H T |
+FOURTEEN	F O U R T E E N |
+SIXTY	S I X T Y |
+FOUR	F O U R |
+SEVEN	S E V E N |
+MAY	M A Y |
+NINETEEN	N I N E T E E N |
+FORTY	F O R T Y |
+FOUR	F O U R |
+THREE	T H R E E |
+TWELVE	T W E L V E |
+FIFTY	F I F T Y |
+EIGHT	E I G H T |
+AUGUST	A U G U S T |
+SIXTEENTH	S I X T E E N T H |
+NINETEEN	N I N E T E E N |
+SIXTY	S I X T Y |
+FIVE	F I V E |
+SEVEN	S E V E N |
+FIFTEEN	F I F T E E N |
+NINETEEN	N I N E T E E N |
+SEVENTY	S E V E N T Y |
+SIX	S I X |
+SIXTEEN	S I X T E E N |
+SIXTY	S I X T Y |
+FOUR	F O U R |
+SEVEN	S E V E N |
+SIXTY	S I X T Y |
+FOUR	F O U R |
+F	F |
+E	E |
+B	B |
+ONE	O N E |
+EIGHT	E I G H T |
+ONE	O N E |
+NINE	N I N E |
+SIX	S I X |
+FOUR	F O U R |
+TWELVE	T W E L V E |
+FOUR	F O U R |
+SIXTY	S I X T Y |
+SEVEN	S E V E N |
+TEN	T E N |
+THIRTY	T H I R T Y |
+ONE	O N E |
+FIFTY	F I F T Y |
+EIGHT	E I G H T |
+AUGUST	A U G U S T |
+TWENTY	T W E N T Y |
+SECOND	S E C O N D |
+NINETEEN	N I N E T E E N |
+SIXTY	S I X T Y |
+ONE	O N E |
+SEVEN	S E V E N |
+TWENTY	T W E N T Y |
+NINE	N I N E |
+FIFTY	F I F T Y |
+EIGHT	E I G H T |
+JANUARY	J A N U A R Y |
+TWELFTH	T W E L F T H |
+NINETEEN	N I N E T E E N |
+SIXTY	S I X T Y |
+SIX	S I X |
+OH	O H |
+SIX	S I X |
+OH	O H |
+SEVEN	S E V E N |
+SIX	S I X |
+SIX	S I X |
+AUGUST	A U G U S T |
+TWENTY	T W E N T Y |
+SECOND	S E C O N D |
+NINETEEN	N I N E T E E N |
+SIXTY	S I X T Y |
+NINE	N I N E |
+JUNE	J U N E |
+TWENTY	T W E N T Y |
+THIRD	T H I R D |
+NINETEEN	N I N E T E E N |
+SIXTY	S I X T Y |
+NINE	N I N E |
+SEVEN	S E V E N |
+SEVENTEEN	S E V E N T E E N |
+FIFTY	F I F T Y |
+SEVEN	S E V E N |
+FEBRUARY	F E B R U A R Y |
+EIGHTH	E I G H T H |
+NINETEEN	N I N E T E E N |
+FIFTY	F I F T Y |
+TWO	T W O |
+MARCH	M A R C H |
+TWENTY	T W E N T Y |
+FIFTH	F I F T H |
+NINETEEN	N I N E T E E N |
+SIXTY	S I X T Y |
+SEVEN	S E V E N |
+MAY	M A Y |
+NINTH	N I N T H |
+SIXTY	S I X T Y |
+TWO	T W O |
+SEPTEMBER	S E P T E M B E R |
+SIXTH	S I X T H |
+NINETEEN	N I N E T E E N |
+SIXTY	S I X T Y |
+SEVEN	S E V E N |
+TEN	T E N |
+TWELVE	T W E L V E |
+SIXTY	S I X T Y |
+SEVEN	S E V E N |
+TWO	T W O |
+TWENTY	T W E N T Y |
+FOUR	F O U R |
+FORTY	F O R T Y |
+NINE	N I N E |
+EIGHTEEN	E I G H T E E N |
+FEBRUARY	F E B R U A R Y |
+NINETEEN	N I N E T E E N |
+SEVENTY	S E V E N T Y |
+APRIL	A P R I L |
+THIRTIETH	T H I R T I E T H |
+NINETEEN	N I N E T E E N |
+SIXTY	S I X T Y |
+NINE	N I N E |
+AUGUST	A U G U S T |
+TWENTY	T W E N T Y |
+FOURTH	F O U R T H |
+NINETEEN	N I N E T E E N |
+FIFTY	F I F T Y |
+TWO	T W O |
+FOUR	F O U R |
+TWENTY	T W E N T Y |
+EIGHT	E I G H T |
+SEVENTY	S E V E N T Y |
+ONE	O N E |
+TWELVE	T W E L V E |
+NINETEEN	N I N E T E E N |
+SIXTY	S I X T Y |
+NINE	N I N E |
+THREE	T H R E E |
+TWENTY	T W E N T Y |
+EIGHT	E I G H T |
+SIXTY	S I X T Y |
+ONE	O N E |
+OCTOBER	O C T O B E R |
+THIRTIETH	T H I R T I E T H |
+NINETEEN	N I N E T E E N |
+SIXTY	S I X T Y |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+FIVE	F I V E |
+FIVE	F I V E |
+FIVE	F I V E |
+ONE	O N E |
+SEVEN	S E V E N |
+FORTY	F O R T Y |
+SEVEN	S E V E N |
+THREE	T H R E E |
+ELEVEN	E L E V E N |
+SIXTY	S I X T Y |
+SEVEN	S E V E N |
+NINE	N I N E |
+THIRTY	T H I R T Y |
+SIXTY	S I X T Y |
+FIVE	F I V E |
+TWELVE	T W E L V E |
+TWENTY	T W E N T Y |
+FOUR	F O U R |
+SIXTY	S I X T Y |
+EIGHT	E I G H T |
+ONE	O N E |
+THIRTY	T H I R T Y |
+ONE	O N E |
+SIXTY	S I X T Y |
+THREE	T H R E E |
+SIX	S I X |
+TWENTY	T W E N T Y |
+SIX	S I X |
+SIXTY	S I X T Y |
+THREE	T H R E E |
+S	S |
+E	E |
+P	P |
+T	T |
+E	E |
+M	M |
+B	B |
+E	E |
+R	R |
+ONE	O N E |
+TWO	T W O |
+ONE	O N E |
+NINE	N I N E |
+FIVE	F I V E |
+NINE	N I N E |
+SIX	S I X |
+THREE	T H R E E |
+SIXTY	S I X T Y |
+EIGHT	E I G H T |
+ONE	O N E |
+TWO	T W O |
+SEVEN	S E V E N |
+SIX	S I X |
+THREE	T H R E E |
+TEN	T E N |
+TWENTY	T W E N T Y |
+EIGHT	E I G H T |
+SIXTY	S I X T Y |
+NINE	N I N E |
+TWELVE	T W E L V E |
+TEN	T E N |
+SIXTY	S I X T Y |
+NINE	N I N E |
+OCTOBER	O C T O B E R |
+TWENTY	T W E N T Y |
+THIRD	T H I R D |
+NINETEEN	N I N E T E E N |
+SIXTY	S I X T Y |
+SEVEN	S E V E N |
+ELEVEN	E L E V E N |
+SEVENTEEN	S E V E N T E E N |
+FIFTY	F I F T Y |
+ONE	O N E |

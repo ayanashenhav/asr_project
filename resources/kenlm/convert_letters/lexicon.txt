@@ -1,0 +1,4943 @@
+EX	E X |
+EYE	E Y E |
+SIXTY	S I X T Y |
+ONE	O N E |
+GEE	G E E |
+TWO	T W O |
+EIGHTY	E I G H T Y |
+NINE	N I N E |
+YES	Y E S |
+AR	A R |
+EE	E E |
+DOUBLE	D O U B L E |
+YOU	Y O U |
+WHY	W H Y |
+EIGHT	E I G H T |
+FIVE	F I V E |
+SIX	S I X |
+NO	N O |
+ERASE	E R A S E |
+GEE	G E E |
+AYCH	A Y C H |
+EX	E X |
+DOUBLE	D O U B L E |
+YOU	Y O U |
+FIVE	F I V E |
+ZERO	Z E R O |
+FOUR	F O U R |
+EIGHT	E I G H T |
+TWO	T W O |
+START	S T A R T |
+ENTER	E N T E R |
+EIGHT	E I G H T |
+FOUR	F O U R |
+ENTER	E N T E R |
+ZERO	Z E R O |
+TEE	T E E |
+VEE	V E E |
+AY	A Y |
+AYCH	A Y C H |
+FIFTY	F I F T Y |
+TWO	T W O |
+FIFTY	F I F T Y |
+THREE	T H R E E |
+ENTER	E N T E R |
+FORTY	F O R T Y |
+ONE	O N E |
+BEE	B E E |
+VEE	V E E |
+EYE	E Y E |
+CUE	C U E |
+GEE	G E E |
+EIGHTY	E I G H T Y |
+SIX	S I X |
+ENTER	E N T E R |
+SIXTY	S I X T Y |
+TWO	T W O |
+THIRTY	T H I R T Y |
+ONE	O N E |
+PEE	P E E |
+YOU	Y O U |
+EX	E X |
+PEE	P E E |
+EYE	E Y E |
+FIVE	F I V E |
+EFF	E F F |
+WHY	W H Y |
+ZEE	Z E E |
+OH	O H |
+TWO	T W O |
+TWO	T W O |
+TWO	T W O |
+RUBOUT	R U B O U T |
+AYCH	A Y C H |
+AY	A Y |
+EX	E X |
+EX	E X |
+EN	E N |
+SIX	S I X |
+SEVEN	S E V E N |
+NINE	N I N E |
+ONE	O N E |
+EL	E L |
+AR	A R |
+EL	E L |
+WHY	W H Y |
+YOU	Y O U |
+SEVEN	S E V E N |
+THREE	T H R E E |
+RUBOUT	R U B O U T |
+OH	O H |
+KAY	K A Y |
+TEE	T E E |
+EL	E L |
+EE	E E |
+TWO	T W O |
+EIGHT	E I G H T |
+ONE	O N E |
+OH	O H |
+AY	A Y |
+EM	E M |
+JAY	J A Y |
+ONE	O N E |
+FIVE	F I V E |
+THREE	T H R E E |
+RUBOUT	R U B O U T |
+EM	E M |
+EN	E N |
+ZEE	Z E E |
+EL	E L |
+THREE	T H R E E |
+SEVEN	S E V E N |
+SEVEN	S E V E N |
+RUBOUT	R U B O U T |
+JAY	J A Y |
+EL	E L |
+WHY	W H Y |
+ZEE	Z E E |
+TWO	T W O |
+ENTER	E N T E R |
+THIRTY	T H I R T Y |
+FIVE	F I V E |
+RUBOUT	R U B O U T |
+WHY	W H Y |
+WHY	W H Y |
+EFF	E F F |
+EX	E X |
+ZERO	Z E R O |
+HELP	H E L P |
+ENTER	E N T E R |
+EIGHT	E I G H T |
+TWO	T W O |
+FOUR	F O U R |
+TWO	T W O |
+ENTER	E N T E R |
+FIFTY	F I F T Y |
+FOUR	F O U R |
+RUBOUT	R U B O U T |
+OH	O H |
+CUE	C U E |
+EYE	E Y E |
+EM	E M |
+EYE	E Y E |
+THIRTY	T H I R T Y |
+TWO	T W O |
+ENTER	E N T E R |
+FIFTEEN	F I F T E E N |
+START	S T A R T |
+REPEAT	R E P E A T |
+RUBOUT	R U B O U T |
+EYE	E Y E |
+TEE	T E E |
+DEE	D E E |
+KAY	K A Y |
+EM	E M |
+FOUR	F O U R |
+SEVENTY	S E V E N T Y |
+ONE	O N E |
+ENTER	E N T E R |
+SIXTY	S I X T Y |
+HELP	H E L P |
+RUBOUT	R U B O U T |
+DOUBLE	D O U B L E |
+YOU	Y O U |
+EL	E L |
+EFF	E F F |
+EX	E X |
+WHY	W H Y |
+SEVEN	S E V E N |
+OH	O H |
+SIX	S I X |
+NINE	N I N E |
+GO	G O |
+REPEAT	R E P E A T |
+STOP	S T O P |
+RUBOUT	R U B O U T |
+YOU	Y O U |
+TEE	T E E |
+EFF	E F F |
+EFF	E F F |
+EIGHT	E I G H T |
+ERASE	E R A S E |
+DOUBLE	D O U B L E |
+YOU	Y O U |
+EE	E E |
+ESS	E S S |
+EFF	E F F |
+TWENTY	T W E N T Y |
+FOUR	F O U R |
+OH	O H |
+THREE	T H R E E |
+RUBOUT	R U B O U T |
+GEE	G E E |
+YOU	Y O U |
+KAY	K A Y |
+EE	E E |
+VEE	V E E |
+NINE	N I N E |
+JAY	J A Y |
+ZEE	Z E E |
+AY	A Y |
+PEE	P E E |
+SEVENTEEN	S E V E N T E E N |
+ENTER	E N T E R |
+EIGHT	E I G H T |
+THIRTY	T H I R T Y |
+TWO	T W O |
+RUBOUT	R U B O U T |
+AR	A R |
+EE	E E |
+EFF	E F F |
+VEE	V E E |
+ESS	E S S |
+ONE	O N E |
+FIVE	F I V E |
+THREE	T H R E E |
+THREE	T H R E E |
+NO	N O |
+ENTER	E N T E R |
+NINETY	N I N E T Y |
+FOUR	F O U R |
+HELP	H E L P |
+RUBOUT	R U B O U T |
+EFF	E F F |
+BEE	B E E |
+EM	E M |
+JAY	J A Y |
+SEVEN	S E V E N |
+TEN	T E N |
+ENTER	E N T E R |
+SIX	S I X |
+CUE	C U E |
+EE	E E |
+EE	E E |
+AY	A Y |
+SIX	S I X |
+ERASE	E R A S E |
+OH	O H |
+JAY	J A Y |
+TEE	T E E |
+KAY	K A Y |
+ESS	E S S |
+THIRTY	T H I R T Y |
+FIVE	F I V E |
+ENTER	E N T E R |
+NINE	N I N E |
+EIGHTY	E I G H T Y |
+NINE	N I N E |
+ERASE	E R A S E |
+SEE	S E E |
+KAY	K A Y |
+SEE	S E E |
+DOUBLE	D O U B L E |
+YOU	Y O U |
+FOURTEEN	F O U R T E E N |
+EIGHTY	E I G H T Y |
+FIVE	F I V E |
+AYCH	A Y C H |
+AY	A Y |
+AYCH	A Y C H |
+EL	E L |
+EE	E E |
+FOUR	F O U R |
+NINETY	N I N E T Y |
+ONE	O N E |
+START	S T A R T |
+WHY	W H Y |
+DEE	D E E |
+EN	E N |
+EE	E E |
+DEE	D E E |
+FORTY	F O R T Y |
+SEVEN	S E V E N |
+RUBOUT	R U B O U T |
+PEE	P E E |
+OH	O H |
+OH	O H |
+BEE	B E E |
+EIGHT	E I G H T |
+ENTER	E N T E R |
+SIXTY	S I X T Y |
+ERASE	E R A S E |
+CUE	C U E |
+KAY	K A Y |
+EX	E X |
+WHY	W H Y |
+YOU	Y O U |
+ONE	O N E |
+SIXTY	S I X T Y |
+TWO	T W O |
+ENTER	E N T E R |
+THIRTY	T H I R T Y |
+SEVEN	S E V E N |
+RUBOUT	R U B O U T |
+VEE	V E E |
+EE	E E |
+DOUBLE	D O U B L E |
+YOU	Y O U |
+ZEE	Z E E |
+SEVEN	S E V E N |
+SEVENTY	S E V E N T Y |
+TWO	T W O |
+STOP	S T O P |
+EE	E E |
+EM	E M |
+BEE	B E E |
+ZEE	Z E E |
+SIX	S I X |
+EIGHT	E I G H T |
+SIX	S I X |
+JAY	J A Y |
+SEE	S E E |
+AYCH	A Y C H |
+EE	E E |
+CUE	C U E |
+FIFTY	F I F T Y |
+EIGHT	E I G H T |
+THOUSAND	T H O U S A N D |
+NINE	N I N E |
+THIRTY	T H I R T Y |
+NINE	N I N E |
+AYCH	A Y C H |
+PEE	P E E |
+DEE	D E E |
+EFF	E F F |
+TEE	T E E |
+SIXTY	S I X T Y |
+THREE	T H R E E |
+WHY	W H Y |
+EFF	E F F |
+JAY	J A Y |
+KAY	K A Y |
+TWO	T W O |
+EIGHT	E I G H T |
+AY	A Y |
+AY	A Y |
+EYE	E Y E |
+EL	E L |
+ZERO	Z E R O |
+ENTER	E N T E R |
+FORTY	F O R T Y |
+SEVEN	S E V E N |
+FORTY	F O R T Y |
+SEVEN	S E V E N |
+RUBOUT	R U B O U T |
+EL	E L |
+DEE	D E E |
+AR	A R |
+DOUBLE	D O U B L E |
+YOU	Y O U |
+TWENTY	T W E N T Y |
+SIX	S I X |
+ENTER	E N T E R |
+SIXTY	S I X T Y |
+ONE	O N E |
+ENTER	E N T E R |
+FOUR	F O U R |
+FIFTY	F I F T Y |
+SIX	S I X |
+RUBOUT	R U B O U T |
+YOU	Y O U |
+GEE	G E E |
+AY	A Y |
+EM	E M |
+THIRTY	T H I R T Y |
+NINE	N I N E |
+ENTER	E N T E R |
+EIGHT	E I G H T |
+SEVENTY	S E V E N T Y |
+ONE	O N E |
+RUBOUT	R U B O U T |
+SEE	S E E |
+TEE	T E E |
+EL	E L |
+EE	E E |
+SEVENTY	S E V E N T Y |
+SIX	S I X |
+TWELVE	T W E L V E |
+HELP	H E L P |
+START	S T A R T |
+NO	N O |
+ERASE	E R A S E |
+CUE	C U E |
+EE	E E |
+JAY	J A Y |
+CUE	C U E |
+TEE	T E E |
+SEVENTY	S E V E N T Y |
+SEVEN	S E V E N |
+YES	Y E S |
+AY	A Y |
+VEE	V E E |
+EM	E M |
+YOU	Y O U |
+FOUR	F O U R |
+FORTY	F O R T Y |
+TWO	T W O |
+REPEAT	R E P E A T |
+OH	O H |
+EL	E L |
+KAY	K A Y |
+EFF	E F F |
+FIVE	F I V E |
+FORTY	F O R T Y |
+FIVE	F I V E |
+NO	N O |
+HELP	H E L P |
+ERASE	E R A S E |
+VEE	V E E |
+AR	A R |
+EFF	E F F |
+OH	O H |
+FIVE	F I V E |
+ENTER	E N T E R |
+ONE	O N E |
+THIRTY	T H I R T Y |
+ONE	O N E |
+YOU	Y O U |
+ESS	E S S |
+EYE	E Y E |
+CUE	C U E |
+EN	E N |
+SEVENTY	S E V E N T Y |
+ONE	O N E |
+STOP	S T O P |
+RUBOUT	R U B O U T |
+OH	O H |
+AYCH	A Y C H |
+GEE	G E E |
+PEE	P E E |
+DEE	D E E |
+TWO	T W O |
+NINE	N I N E |
+SEVEN	S E V E N |
+SIX	S I X |
+RUBOUT	R U B O U T |
+YOU	Y O U |
+JAY	J A Y |
+EM	E M |
+KAY	K A Y |
+NINE	N I N E |
+NO	N O |
+ERASE	E R A S E |
+EE	E E |
+OH	O H |
+AY	A Y |
+SEE	S E E |
+YOU	Y O U |
+THREE	T H R E E |
+ERASE	E R A S E |
+WHY	W H Y |
+BEE	B E E |
+EE	E E |
+JAY	J A Y |
+CUE	C U E |
+FIVE	F I V E |
+OH	O H |
+SEVEN	S E V E N |
+PEE	P E E |
+TEE	T E E |
+CUE	C U E |
+DEE	D E E |
+CUE	C U E |
+ONE	O N E |
+EYE	E Y E |
+DEE	D E E |
+EM	E M |
+AYCH	A Y C H |
+SEVEN	S E V E N |
+EIGHT	E I G H T |
+FIVE	F I V E |
+ENTER	E N T E R |
+SEVENTY	S E V E N T Y |
+ONE	O N E |
+ENTER	E N T E R |
+FOUR	F O U R |
+TWENTY	T W E N T Y |
+ONE	O N E |
+ENTER	E N T E R |
+ONE	O N E |
+NINETY	N I N E T Y |
+SIX	S I X |
+NO	N O |
+AY	A Y |
+TEE	T E E |
+TEE	T E E |
+GEE	G E E |
+KAY	K A Y |
+EIGHTY	E I G H T Y |
+FOUR	F O U R |
+START	S T A R T |
+STOP	S T O P |
+ENTER	E N T E R |
+EIGHT	E I G H T |
+ONE	O N E |
+NINE	N I N E |
+SIX	S I X |
+START	S T A R T |
+RUBOUT	R U B O U T |
+EFF	E F F |
+WHY	W H Y |
+EN	E N |
+PEE	P E E |
+NINETY	N I N E T Y |
+SEVEN	S E V E N |
+RUBOUT	R U B O U T |
+ZEE	Z E E |
+OH	O H |
+TEE	T E E |
+EFF	E F F |
+TWO	T W O |
+RUBOUT	R U B O U T |
+AYCH	A Y C H |
+EFF	E F F |
+DEE	D E E |
+DOUBLE	D O U B L E |
+YOU	Y O U |
+CUE	C U E |
+SIX	S I X |
+TWO	T W O |
+TWO	T W O |
+RUBOUT	R U B O U T |
+EN	E N |
+BEE	B E E |
+AY	A Y |
+KAY	K A Y |
+NINETY	N I N E T Y |
+SIX	S I X |
+AR	A R |
+GEE	G E E |
+SEE	S E E |
+ESS	E S S |
+SEVEN	S E V E N |
+SIXTY	S I X T Y |
+SEVEN	S E V E N |
+ESS	E S S |
+ZEE	Z E E |
+KAY	K A Y |
+DOUBLE	D O U B L E |
+YOU	Y O U |
+DOUBLE	D O U B L E |
+YOU	Y O U |
+TWO	T W O |
+THIRTY	T H I R T Y |
+SEVEN	S E V E N |
+RUBOUT	R U B O U T |
+ZEE	Z E E |
+GEE	G E E |
+DEE	D E E |
+AR	A R |
+GEE	G E E |
+NINE	N I N E |
+NINE	N I N E |
+FOUR	F O U R |
+SIX	S I X |
+ENTER	E N T E R |
+SIXTY	S I X T Y |
+SIX	S I X |
+EL	E L |
+ZEE	Z E E |
+AR	A R |
+VEE	V E E |
+FIFTY	F I F T Y |
+FIVE	F I V E |
+THIRTY	T H I R T Y |
+FIVE	F I V E |
+ZEE	Z E E |
+SEE	S E E |
+BEE	B E E |
+EE	E E |
+GEE	G E E |
+SEVENTY	S E V E N T Y |
+NINE	N I N E |
+RUBOUT	R U B O U T |
+PEE	P E E |
+EN	E N |
+AY	A Y |
+EM	E M |
+EX	E X |
+SEVENTY	S E V E N T Y |
+TWO	T W O |
+ENTER	E N T E R |
+SEVEN	S E V E N |
+YES	Y E S |
+VEE	V E E |
+EE	E E |
+AR	A R |
+KAY	K A Y |
+EE	E E |
+THIRTY	T H I R T Y |
+FIVE	F I V E |
+THIRTY	T H I R T Y |
+STOP	S T O P |
+GO	G O |
+YES	Y E S |
+ENTER	E N T E R |
+THREE	T H R E E |
+EIGHTY	E I G H T Y |
+SIX	S I X |
+GEE	G E E |
+EL	E L |
+EL	E L |
+KAY	K A Y |
+AYCH	A Y C H |
+ONE	O N E |
+HELP	H E L P |
+HELP	H E L P |
+JAY	J A Y |
+VEE	V E E |
+PEE	P E E |
+EE	E E |
+EIGHT	E I G H T |
+SEVEN	S E V E N |
+ZERO	Z E R O |
+YES	Y E S |
+REPEAT	R E P E A T |
+EFF	E F F |
+EYE	E Y E |
+WHY	W H Y |
+CUE	C U E |
+FIFTY	F I F T Y |
+SIX	S I X |
+ERASE	E R A S E |
+GEE	G E E |
+DOUBLE	D O U B L E |
+YOU	Y O U |
+DEE	D E E |
+KAY	K A Y |
+EFF	E F F |
+SIX	S I X |
+EIGHTY	E I G H T Y |
+EIGHT	E I G H T |
+REPEAT	R E P E A T |
+STOP	S T O P |
+HELP	H E L P |
+REPEAT	R E P E A T |
+NO	N O |
+ENTER	E N T E R |
+SEVEN	S E V E N |
+STOP	S T O P |
+DEE	D E E |
+WHY	W H Y |
+EM	E M |
+AYCH	A Y C H |
+AR	A R |
+SIXTY	S I X T Y |
+ONE	O N E |
+REPEAT	R E P E A T |
+ENTER	E N T E R |
+NINE	N I N E |
+SEVENTY	S E V E N T Y |
+TWO	T W O |
+ENTER	E N T E R |
+FIFTY	F I F T Y |
+SIXTY	S I X T Y |
+THREE	T H R E E |
+REPEAT	R E P E A T |
+EL	E L |
+AR	A R |
+AR	A R |
+KAY	K A Y |
+EYE	E Y E |
+FOUR	F O U R |
+RUBOUT	R U B O U T |
+YOU	Y O U |
+EFF	E F F |
+ZEE	Z E E |
+ZEE	Z E E |
+SIXTY	S I X T Y |
+NINE	N I N E |
+HELP	H E L P |
+EX	E X |
+ZEE	Z E E |
+EYE	E Y E |
+VEE	V E E |
+WHY	W H Y |
+ONE	O N E |
+STOP	S T O P |
+RUBOUT	R U B O U T |
+OH	O H |
+GEE	G E E |
+DEE	D E E |
+EE	E E |
+FOUR	F O U R |
+SEVEN	S E V E N |
+FIVE	F I V E |
+SEVEN	S E V E N |
+YES	Y E S |
+YES	Y E S |
+GO	G O |
+YES	Y E S |
+NO	N O |
+RUBOUT	R U B O U T |
+AYCH	A Y C H |
+DOUBLE	D O U B L E |
+YOU	Y O U |
+OH	O H |
+EN	E N |
+JAY	J A Y |
+FOUR	F O U R |
+THOUSAND	T H O U S A N D |
+SEVEN	S E V E N |
+HUNDRED	H U N D R E D |
+TWENTY	T W E N T Y |
+THREE	T H R E E |
+ENTER	E N T E R |
+FOURTEEN	F O U R T E E N |
+REPEAT	R E P E A T |
+YES	Y E S |
+BEE	B E E |
+AY	A Y |
+EYE	E Y E |
+CUE	C U E |
+DOUBLE	D O U B L E |
+YOU	Y O U |
+EIGHT	E I G H T |
+EYE	E Y E |
+PEE	P E E |
+AY	A Y |
+SEE	S E E |
+EFF	E F F |
+TWO	T W O |
+FIVE	F I V E |
+EIGHT	E I G H T |
+RUBOUT	R U B O U T |
+EYE	E Y E |
+AR	A R |
+DEE	D E E |
+DEE	D E E |
+JAY	J A Y |
+ONE	O N E |
+YES	Y E S |
+ENTER	E N T E R |
+FIFTY	F I F T Y |
+FOUR	F O U R |
+ESS	E S S |
+YOU	Y O U |
+OH	O H |
+YOU	Y O U |
+EIGHTY	E I G H T Y |
+SIX	S I X |
+ERASE	E R A S E |
+ESS	E S S |
+VEE	V E E |
+EN	E N |
+WHY	W H Y |
+TEN	T E N |
+TEN	T E N |
+RUBOUT	R U B O U T |
+SEE	S E E |
+AYCH	A Y C H |
+WHY	W H Y |
+DEE	D E E |
+DEE	D E E |
+OH	O H |
+EX	E X |
+AYCH	A Y C H |
+BEE	B E E |
+AY	A Y |
+SEE	S E E |
+FIVE	F I V E |
+THREE	T H R E E |
+FOUR	F O U R |
+FOUR	F O U R |
+GEE	G E E |
+DOUBLE	D O U B L E |
+YOU	Y O U |
+EN	E N |
+EL	E L |
+EL	E L |
+NINE	N I N E |
+FOUR	F O U R |
+NO	N O |
+RUBOUT	R U B O U T |
+CUE	C U E |
+EN	E N |
+AR	A R |
+AY	A Y |
+JAY	J A Y |
+SEVEN	S E V E N |
+FOUR	F O U R |
+EIGHT	E I G H T |
+CUE	C U E |
+SEE	S E E |
+JAY	J A Y |
+KAY	K A Y |
+EIGHT	E I G H T |
+FIVE	F I V E |
+EIGHT	E I G H T |
+START	S T A R T |
+ENTER	E N T E R |
+TWO	T W O |
+GO	G O |
+RUBOUT	R U B O U T |
+EM	E M |
+DEE	D E E |
+EM	E M |
+TEE	T E E |
+GEE	G E E |
+NINE	N I N E |
+SIX	S I X |
+SEVEN	S E V E N |
+OH	O H |
+ENTER	E N T E R |
+SIX	S I X |
+RUBOUT	R U B O U T |
+EN	E N |
+AY	A Y |
+EFF	E F F |
+KAY	K A Y |
+VEE	V E E |
+THIRTY	T H I R T Y |
+REPEAT	R E P E A T |
+AR	A R |
+AYCH	A Y C H |
+AYCH	A Y C H |
+YOU	Y O U |
+EFF	E F F |
+TWO	T W O |
+STOP	S T O P |
+ENTER	E N T E R |
+NINE	N I N E |
+EIGHT	E I G H T |
+NINE	N I N E |
+REPEAT	R E P E A T |
+EN	E N |
+GEE	G E E |
+EN	E N |
+EN	E N |
+THREE	T H R E E |
+NINE	N I N E |
+NINE	N I N E |
+ENTER	E N T E R |
+FIVE	F I V E |
+ENTER	E N T E R |
+SEVENTY	S E V E N T Y |
+EIGHT	E I G H T |
+KAY	K A Y |
+EL	E L |
+EM	E M |
+YOU	Y O U |
+FIVE	F I V E |
+TWO	T W O |
+SEVEN	S E V E N |
+FOUR	F O U R |
+AYCH	A Y C H |
+BEE	B E E |
+GEE	G E E |
+EL	E L |
+SEVENTY	S E V E N T Y |
+SEVEN	S E V E N |
+VEE	V E E |
+AY	A Y |
+DEE	D E E |
+AR	A R |
+THIRTY	T H I R T Y |
+ONE	O N E |
+OH	O H |
+SEVEN	S E V E N |
+VEE	V E E |
+CUE	C U E |
+DEE	D E E |
+BEE	B E E |
+FORTY	F O R T Y |
+NINE	N I N E |
+HUNDRED	H U N D R E D |
+REPEAT	R E P E A T |
+ENTER	E N T E R |
+SIXTY	S I X T Y |
+NO	N O |
+RUBOUT	R U B O U T |
+YOU	Y O U |
+TEE	T E E |
+DEE	D E E |
+AY	A Y |
+TWO	T W O |
+RUBOUT	R U B O U T |
+EM	E M |
+VEE	V E E |
+OH	O H |
+OH	O H |
+FORTY	F O R T Y |
+SIX	S I X |
+STOP	S T O P |
+ENTER	E N T E R |
+EIGHT	E I G H T |
+ZERO	Z E R O |
+SIX	S I X |
+ERASE	E R A S E |
+EYE	E Y E |
+ESS	E S S |
+EL	E L |
+EFF	E F F |
+THIRTY	T H I R T Y |
+EIGHT	E I G H T |
+ERASE	E R A S E |
+ZEE	Z E E |
+WHY	W H Y |
+GEE	G E E |
+EN	E N |
+PEE	P E E |
+EIGHT	E I G H T |
+HUNDRED	H U N D R E D |
+AND	A N D |
+TWENTY	T W E N T Y |
+THREE	T H R E E |
+AY	A Y |
+EM	E M |
+ESS	E S S |
+JAY	J A Y |
+SEVEN	S E V E N |
+THOUSAND	T H O U S A N D |
+ONE	O N E |
+HUNDRED	H U N D R E D |
+AND	A N D |
+EIGHTY	E I G H T Y |
+SIX	S I X |
+ENTER	E N T E R |
+FIFTY	F I F T Y |
+ONE	O N E |
+DEE	D E E |
+ESS	E S S |
+KAY	K A Y |
+YOU	Y O U |
+FOUR	F O U R |
+FIVE	F I V E |
+OH	O H |
+FIVE	F I V E |
+ENTER	E N T E R |
+SEVEN	S E V E N |
+ENTER	E N T E R |
+FOUR	F O U R |
+RUBOUT	R U B O U T |
+AR	A R |
+ZEE	Z E E |
+AR	A R |
+VEE	V E E |
+ZEE	Z E E |
+NINETY	N I N E T Y |
+EIGHT	E I G H T |
+YES	Y E S |
+EE	E E |
+ZEE	Z E E |
+AY	A Y |
+KAY	K A Y |
+OH	O H |
+EIGHT	E I G H T |
+EM	E M |
+EM	E M |
+VEE	V E E |
+CUE	C U E |
+DEE	D E E |
+ONE	O N E |
+EIGHT	E I G H T |
+SEVEN	S E V E N |
+RUBOUT	R U B O U T |
+TEE	T E E |
+BEE	B E E |
+PEE	P E E |
+BEE	B E E |
+SIX	S I X |
+ENTER	E N T E R |
+TWO	T W O |
+OH	O H |
+FIVE	F I V E |
+YES	Y E S |
+GO	G O |
+STOP	S T O P |
+ENTER	E N T E R |
+SEVEN	S E V E N |
+SEVEN	S E V E N |
+BEE	B E E |
+WHY	W H Y |
+VEE	V E E |
+EM	E M |
+EIGHT	E I G H T |
+FOUR	F O U R |
+ERASE	E R A S E |
+EFF	E F F |
+AYCH	A Y C H |
+BEE	B E E |
+KAY	K A Y |
+ZEE	Z E E |
+SIXTY	S I X T Y |
+NINE	N I N E |
+ENTER	E N T E R |
+TWO	T W O |
+SIX	S I X |
+ENTER	E N T E R |
+NINE	N I N E |
+RUBOUT	R U B O U T |
+GEE	G E E |
+JAY	J A Y |
+AYCH	A Y C H |
+GEE	G E E |
+VEE	V E E |
+SEVEN	S E V E N |
+YES	Y E S |
+EN	E N |
+EN	E N |
+PEE	P E E |
+YOU	Y O U |
+FIVE	F I V E |
+ENTER	E N T E R |
+SEVEN	S E V E N |
+GEE	G E E |
+AY	A Y |
+BEE	B E E |
+AYCH	A Y C H |
+TWO	T W O |
+HELP	H E L P |
+ENTER	E N T E R |
+SIX	S I X |
+ONE	O N E |
+TWO	T W O |
+FIVE	F I V E |
+ENTER	E N T E R |
+TWO	T W O |
+FIVE	F I V E |
+FOUR	F O U R |
+SIX	S I X |
+YES	Y E S |
+YES	Y E S |
+YES	Y E S |
+ENTER	E N T E R |
+TWENTY	T W E N T Y |
+NINE	N I N E |
+ERASE	E R A S E |
+AY	A Y |
+EL	E L |
+AYCH	A Y C H |
+EN	E N |
+SEE	S E E |
+THIRTY	T H I R T Y |
+FIVE	F I V E |
+ERASE	E R A S E |
+VEE	V E E |
+WHY	W H Y |
+DOUBLE	D O U B L E |
+YOU	Y O U |
+EL	E L |
+AR	A R |
+SEVEN	S E V E N |
+ZERO	Z E R O |
+ONE	O N E |
+ONE	O N E |
+ERASE	E R A S E |
+OH	O H |
+TEE	T E E |
+EE	E E |
+BEE	B E E |
+SEVENTY	S E V E N T Y |
+NINE	N I N E |
+HELP	H E L P |
+ENTER	E N T E R |
+EIGHT	E I G H T |
+TWENTY	T W E N T Y |
+SEVEN	S E V E N |
+RUBOUT	R U B O U T |
+AR	A R |
+AR	A R |
+EN	E N |
+AY	A Y |
+AY	A Y |
+NINETY	N I N E T Y |
+FOUR	F O U R |
+AYCH	A Y C H |
+ZEE	Z E E |
+AY	A Y |
+EE	E E |
+THREE	T H R E E |
+SEVEN	S E V E N |
+FIVE	F I V E |
+ONE	O N E |
+ENTER	E N T E R |
+THREE	T H R E E |
+JAY	J A Y |
+AYCH	A Y C H |
+BEE	B E E |
+EX	E X |
+THREE	T H R E E |
+ZERO	Z E R O |
+ENTER	E N T E R |
+TWO	T W O |
+NO	N O |
+RUBOUT	R U B O U T |
+DOUBLE	D O U B L E |
+YOU	Y O U |
+PEE	P E E |
+EFF	E F F |
+JAY	J A Y |
+DEE	D E E |
+TWO	T W O |
+SIX	S I X |
+ENTER	E N T E R |
+SIX	S I X |
+SEVEN	S E V E N |
+ENTER	E N T E R |
+FIFTY	F I F T Y |
+FIVE	F I V E |
+YES	Y E S |
+RUBOUT	R U B O U T |
+VEE	V E E |
+AY	A Y |
+EN	E N |
+BEE	B E E |
+EX	E X |
+NINE	N I N E |
+PEE	P E E |
+OH	O H |
+YOU	Y O U |
+EN	E N |
+BEE	B E E |
+FIVE	F I V E |
+RUBOUT	R U B O U T |
+SEE	S E E |
+WHY	W H Y |
+AR	A R |
+BEE	B E E |
+SEVEN	S E V E N |
+EIGHT	E I G H T |
+REPEAT	R E P E A T |
+OH	O H |
+AY	A Y |
+DOUBLE	D O U B L E |
+YOU	Y O U |
+EFF	E F F |
+FIVE	F I V E |
+NINE	N I N E |
+VEE	V E E |
+KAY	K A Y |
+ZEE	Z E E |
+OH	O H |
+SIXTY	S I X T Y |
+TWO	T W O |
+RUBOUT	R U B O U T |
+DEE	D E E |
+CUE	C U E |
+TEE	T E E |
+DOUBLE	D O U B L E |
+YOU	Y O U |
+EX	E X |
+FIVE	F I V E |
+HUNDRED	H U N D R E D |
+EIGHTY	E I G H T Y |
+SEVEN	S E V E N |
+BEE	B E E |
+JAY	J A Y |
+EX	E X |
+KAY	K A Y |
+TWENTY	T W E N T Y |
+THREE	T H R E E |
+EM	E M |
+EFF	E F F |
+GEE	G E E |
+EYE	E Y E |
+KAY	K A Y |
+TWO	T W O |
+SIXTY	S I X T Y |
+ESS	E S S |
+EFF	E F F |
+CUE	C U E |
+CUE	C U E |
+KAY	K A Y |
+SIX	S I X |
+THOUSAND	T H O U S A N D |
+EIGHT	E I G H T |
+HUNDRED	H U N D R E D |
+AND	A N D |
+EIGHTY	E I G H T Y |
+ONE	O N E |
+AYCH	A Y C H |
+CUE	C U E |
+EFF	E F F |
+EX	E X |
+FOUR	F O U R |
+THOUSAND	T H O U S A N D |
+THREE	T H R E E |
+HUNDRED	H U N D R E D |
+AND	A N D |
+EIGHTY	E I G H T Y |
+SIX	S I X |
+YES	Y E S |
+ERASE	E R A S E |
+JAY	J A Y |
+GEE	G E E |
+CUE	C U E |
+WHY	W H Y |
+EIGHT	E I G H T |
+SIX	S I X |
+ONE	O N E |
+RUBOUT	R U B O U T |
+EN	E N |
+AY	A Y |
+GEE	G E E |
+KAY	K A Y |
+KAY	K A Y |
+THREE	T H R E E |
+THIRTY	T H I R T Y |
+SIX	S I X |
+ERASE	E R A S E |
+EYE	E Y E |
+GEE	G E E |
+EN	E N |
+EM	E M |
+FORTY	F O R T Y |
+THREE	T H R E E |
+SEVENTEEN	S E V E N T E E N |
+RUBOUT	R U B O U T |
+EE	E E |
+YOU	Y O U |
+JAY	J A Y |
+OH	O H |
+NINETY	N I N E T Y |
+FIVE	F I V E |
+KAY	K A Y |
+DOUBLE	D O U B L E |
+YOU	Y O U |
+ZEE	Z E E |
+AY	A Y |
+GEE	G E E |
+TWO	T W O |
+HUNDRED	H U N D R E D |
+AND	A N D |
+SIXTY	S I X T Y |
+SIX	S I X |
+ENTER	E N T E R |
+FORTY	F O R T Y |
+THREE	T H R E E |
+FORTY	F O R T Y |
+FIVE	F I V E |
+ENTER	E N T E R |
+FIVE	F I V E |
+TWO	T W O |
+FOUR	F O U R |
+RUBOUT	R U B O U T |
+JAY	J A Y |
+BEE	B E E |
+EX	E X |
+AR	A R |
+ZEE	Z E E |
+NINE	N I N E |
+TWENTY	T W E N T Y |
+ENTER	E N T E R |
+SIXTY	S I X T Y |
+FOUR	F O U R |
+GO	G O |
+ENTER	E N T E R |
+SIX	S I X |
+OH	O H |
+EIGHT	E I G H T |
+OH	O H |
+RUBOUT	R U B O U T |
+EE	E E |
+ZEE	Z E E |
+YOU	Y O U |
+AY	A Y |
+EYE	E Y E |
+FIFTEEN	F I F T E E N |
+ENTER	E N T E R |
+SIXTY	S I X T Y |
+ONE	O N E |
+RUBOUT	R U B O U T |
+EN	E N |
+ZEE	Z E E |
+EX	E X |
+EL	E L |
+THIRTY	T H I R T Y |
+ONE	O N E |
+GO	G O |
+ENTER	E N T E R |
+SIX	S I X |
+FOUR	F O U R |
+FIVE	F I V E |
+ONE	O N E |
+WHY	W H Y |
+DOUBLE	D O U B L E |
+YOU	Y O U |
+AY	A Y |
+AY	A Y |
+EM	E M |
+TWO	T W O |
+START	S T A R T |
+RUBOUT	R U B O U T |
+EX	E X |
+SEE	S E E |
+ZEE	Z E E |
+TEE	T E E |
+PEE	P E E |
+FOUR	F O U R |
+GEE	G E E |
+SEE	S E E |
+DEE	D E E |
+OH	O H |
+FOUR	F O U R |
+REPEAT	R E P E A T |
+ENTER	E N T E R |
+SEVENTY	S E V E N T Y |
+TWO	T W O |
+ZEE	Z E E |
+EYE	E Y E |
+AR	A R |
+KAY	K A Y |
+SIX	S I X |
+FOUR	F O U R |
+FOUR	F O U R |
+STOP	S T O P |
+ENTER	E N T E R |
+SEVEN	S E V E N |
+TWO	T W O |
+ONE	O N E |
+SIX	S I X |
+ENTER	E N T E R |
+ONE	O N E |
+NINE	N I N E |
+EN	E N |
+AYCH	A Y C H |
+OH	O H |
+TEE	T E E |
+CUE	C U E |
+TWO	T W O |
+EIGHT	E I G H T |
+THREE	T H R E E |
+REPEAT	R E P E A T |
+PEE	P E E |
+TEE	T E E |
+KAY	K A Y |
+EX	E X |
+ZERO	Z E R O |
+VEE	V E E |
+EFF	E F F |
+OH	O H |
+EFF	E F F |
+AYCH	A Y C H |
+NINE	N I N E |
+FOUR	F O U R |
+ENTER	E N T E R |
+SEVEN	S E V E N |
+ERASE	E R A S E |
+BEE	B E E |
+EM	E M |
+EE	E E |
+EE	E E |
+THREE	T H R E E |
+FIVE	F I V E |
+TWO	T W O |
+START	S T A R T |
+ERASE	E R A S E |
+EX	E X |
+BEE	B E E |
+EM	E M |
+EN	E N |
+TEE	T E E |
+FOUR	F O U R |
+ONE	O N E |
+OH	O H |
+NINE	N I N E |
+EFF	E F F |
+KAY	K A Y |
+AY	A Y |
+YOU	Y O U |
+TWO	T W O |
+FOUR	F O U R |
+ERASE	E R A S E |
+EE	E E |
+EX	E X |
+EX	E X |
+ESS	E S S |
+ZERO	Z E R O |
+AY	A Y |
+GEE	G E E |
+EL	E L |
+GEE	G E E |
+AY	A Y |
+SIX	S I X |
+FOUR	F O U R |
+NINE	N I N E |
+AY	A Y |
+GEE	G E E |
+EL	E L |
+GEE	G E E |
+AY	A Y |
+SIX	S I X |
+HUNDRED	H U N D R E D |
+FORTY	F O R T Y |
+NINE	N I N E |
+NO	N O |
+NO	N O |
+ENTER	E N T E R |
+SEVEN	S E V E N |
+OH	O H |
+THREE	T H R E E |
+EIGHT	E I G H T |
+ENTER	E N T E R |
+FIVE	F I V E |
+ZERO	Z E R O |
+ENTER	E N T E R |
+FIVE	F I V E |
+THREE	T H R E E |
+FOUR	F O U R |
+THREE	T H R E E |
+ENTER	E N T E R |
+FOUR	F O U R |
+EX	E X |
+GEE	G E E |
+EYE	E Y E |
+SEE	S E E |
+TWO	T W O |
+ENTER	E N T E R |
+FOUR	F O U R |
+THOUSAND	T H O U S A N D |
+EIGHT	E I G H T |
+HUNDRED	H U N D R E D |
+EIGHTY	E I G H T Y |
+THREE	T H R E E |
+NO	N O |
+EFF	E F F |
+EE	E E |
+GEE	G E E |
+BEE	B E E |
+FORTY	F O R T Y |
+EIGHT	E I G H T |
+REPEAT	R E P E A T |
+OH	O H |
+YOU	Y O U |
+FOUR	F O U R |
+SEVEN	S E V E N |
+TWENTY	T W E N T Y |
+NINE	N I N E |
+NO	N O |
+GEE	G E E |
+EE	E E |
+EE	E E |
+PEE	P E E |
+SEE	S E E |
+SEVEN	S E V E N |
+ONE	O N E |
+OH	O H |
+SEVEN	S E V E N |
+STOP	S T O P |
+ENTER	E N T E R |
+TWO	T W O |
+OH	O H |
+SEVEN	S E V E N |
+RUBOUT	R U B O U T |
+CUE	C U E |
+CUE	C U E |
+CUE	C U E |
+PEE	P E E |
+FORTY	F O R T Y |
+FIVE	F I V E |
+YES	Y E S |
+ERASE	E R A S E |
+VEE	V E E |
+EX	E X |
+ESS	E S S |
+EX	E X |
+TWO	T W O |
+FOUR	F O U R |
+NINE	N I N E |
+NINE	N I N E |
+AR	A R |
+CUE	C U E |
+ZEE	Z E E |
+AYCH	A Y C H |
+FOUR	F O U R |
+RUBOUT	R U B O U T |
+JAY	J A Y |
+YOU	Y O U |
+EYE	E Y E |
+PEE	P E E |
+THREE	T H R E E |
+TWO	T W O |
+EIGHT	E I G H T |
+BEE	B E E |
+SEVEN	S E V E N |
+TWENTY	T W E N T Y |
+FIVE	F I V E |
+STOP	S T O P |
+ENTER	E N T E R |
+EIGHTY	E I G H T Y |
+NINE	N I N E |
+FORTY	F O R T Y |
+THREE	T H R E E |
+RUBOUT	R U B O U T |
+TEE	T E E |
+JAY	J A Y |
+JAY	J A Y |
+SEE	S E E |
+EL	E L |
+TWO	T W O |
+ENTER	E N T E R |
+SIX	S I X |
+ENTER	E N T E R |
+SEVEN	S E V E N |
+THIRTY	T H I R T Y |
+EIGHT	E I G H T |
+RUBOUT	R U B O U T |
+AY	A Y |
+DEE	D E E |
+EE	E E |
+YOU	Y O U |
+WHY	W H Y |
+THREE	T H R E E |
+SIXTY	S I X T Y |
+FOUR	F O U R |
+SEE	S E E |
+ZEE	Z E E |
+DEE	D E E |
+ZEE	Z E E |
+DOUBLE	D O U B L E |
+YOU	Y O U |
+EIGHT	E I G H T |
+ENTER	E N T E R |
+SIX	S I X |
+TWO	T W O |
+FOUR	F O U R |
+RUBOUT	R U B O U T |
+TEE	T E E |
+GEE	G E E |
+JAY	J A Y |
+DOUBLE	D O U B L E |
+YOU	Y O U |
+BEE	B E E |
+SEVENTY	S E V E N T Y |
+NINE	N I N E |
+FIFTY	F I F T Y |
+NINE	N I N E |
+JAY	J A Y |
+FOUR	F O U R |
+THIRTY	T H I R T Y |
+THREE	T H R E E |
+NO	N O |
+ERASE	E R A S E |
+EM	E M |
+WHY	W H Y |
+AY	A Y |
+EM	E M |
+SEVEN	S E V E N |
+RUBOUT	R U B O U T |
+EN	E N |
+EX	E X |
+EFF	E F F |
+EE	E E |
+EIGHT	E I G H T |
+NINE	N I N E |
+SIX	S I X |
+STOP	S T O P |
+ERASE	E R A S E |
+AR	A R |
+BEE	B E E |
+DEE	D E E |
+KAY	K A Y |
+TEE	T E E |
+FIFTY	F I F T Y |
+RUBOUT	R U B O U T |
+EFF	E F F |
+EM	E M |
+CUE	C U E |
+EN	E N |
+AYCH	A Y C H |
+THREE	T H R E E |
+SEVENTY	S E V E N T Y |
+ENTER	E N T E R |
+SEVENTY	S E V E N T Y |
+ONE	O N E |
+START	S T A R T |
+AYCH	A Y C H |
+KAY	K A Y |
+TEE	T E E |
+EE	E E |
+DEE	D E E |
+ONE	O N E |
+SEVENTY	S E V E N T Y |
+AYCH	A Y C H |
+EYE	E Y E |
+EN	E N |
+EYE	E Y E |
+SEE	S E E |
+AYCH	A Y C H |
+AYCH	A Y C H |
+OH	O H |
+DOUBLE	D O U B L E |
+YOU	Y O U |
+EE	E E |
+EL	E L |
+EL	E L |
+SEE	S E E |
+OH	O H |
+EN	E N |
+EN	E N |
+EE	E E |
+EL	E L |
+EL	E L |
+WHY	W H Y |
+ESS	E S S |
+SEE	S E E |
+AY	A Y |
+VEE	V E E |
+EYE	E Y E |
+EN	E N |
+SEE	S E E |
+KAY	K A Y |
+WHY	W H Y |
+EM	E M |
+OH	O H |
+DEE	D E E |
+YOU	Y O U |
+GEE	G E E |
+EN	E N |
+OH	O H |
+EN	E N |
+EE	E E |
+EL	E L |
+ESS	E S S |
+OH	O H |
+EN	E N |
+DEE	D E E |
+AR	A R |
+AY	A Y |
+VEE	V E E |
+KAY	K A Y |
+EYE	E Y E |
+VEE	V E E |
+AY	A Y |
+AR	A R |
+ESS	E S S |
+OH	O H |
+EN	E N |
+EM	E M |
+AY	A Y |
+SEE	S E E |
+AY	A Y |
+EL	E L |
+YOU	Y O U |
+ESS	E S S |
+OH	O H |
+PEE	P E E |
+OH	O H |
+EM	E M |
+EE	E E |
+AR	A R |
+AY	A Y |
+EN	E N |
+TEE	T E E |
+ZEE	Z E E |
+SEE	S E E |
+EE	E E |
+EL	E L |
+EL	E L |
+EYE	E Y E |
+OH	O H |
+DEE	D E E |
+OH	O H |
+DOUBLE	D O U B L E |
+YOU	Y O U |
+EL	E L |
+EYE	E Y E |
+EN	E N |
+GEE	G E E |
+VEE	V E E |
+EE	E E |
+SEE	S E E |
+SEE	S E E |
+AYCH	A Y C H |
+EYE	E Y E |
+PEE	P E E |
+OH	O H |
+EM	E M |
+EE	E E |
+AR	A R |
+AY	A Y |
+EN	E N |
+TEE	T E E |
+ZEE	Z E E |
+EFF	E F F |
+AY	A Y |
+AR	A R |
+AR	A R |
+EE	E E |
+EL	E L |
+EL	E L |
+WHY	W H Y |
+BEE	B E E |
+YOU	Y O U |
+AR	A R |
+KAY	K A Y |
+ESS	E S S |
+EL	E L |
+EE	E E |
+DOUBLE	D O U B L E |
+YOU	Y O U |
+EYE	E Y E |
+ESS	E S S |
+JAY	J A Y |
+EE	E E |
+TEE	T E E |
+TEE	T E E |
+ESS	E S S |
+AY	A Y |
+TEE	T E E |
+TEE	T E E |
+EE	E E |
+AR	A R |
+EFF	E F F |
+EYE	E Y E |
+EE	E E |
+EL	E L |
+DEE	D E E |
+BEE	B E E |
+AR	A R |
+YOU	Y O U |
+EM	E M |
+EYE	E Y E |
+TEE	T E E |
+TEE	T E E |
+DOUBLE	D O U B L E |
+YOU	Y O U |
+EE	E E |
+EYE	E Y E |
+DEE	D E E |
+EE	E E |
+GEE	G E E |
+OH	O H |
+TEE	T E E |
+TEE	T E E |
+EYE	E Y E |
+EE	E E |
+AR	A R |
+EL	E L |
+AY	A Y |
+EM	E M |
+PEE	P E E |
+ESS	E S S |
+OH	O H |
+EN	E N |
+TEE	T E E |
+AY	A Y |
+WHY	W H Y |
+EL	E L |
+OH	O H |
+AR	A R |
+SEE	S E E |
+AY	A Y |
+EL	E L |
+EYE	E Y E |
+GEE	G E E |
+EYE	E Y E |
+YOU	Y O U |
+AR	A R |
+EYE	E Y E |
+ESS	E S S |
+TEE	T E E |
+EE	E E |
+EE	E E |
+AR	A R |
+EE	E E |
+ESS	E S S |
+EN	E N |
+OH	O H |
+DOUBLE	D O U B L E |
+YOU	Y O U |
+SEE	S E E |
+AY	A Y |
+AR	A R |
+AR	A R |
+EE	E E |
+EL	E L |
+EN	E N |
+OH	O H |
+OH	O H |
+EN	E N |
+BEE	B E E |
+YOU	Y O U |
+AR	A R |
+GEE	G E E |
+ESS	E S S |
+TEE	T E E |
+OH	O H |
+DEE	D E E |
+OH	O H |
+EL	E L |
+ESS	E S S |
+KAY	K A Y |
+WHY	W H Y |
+BEE	B E E |
+EL	E L |
+AY	A Y |
+SEE	S E E |
+KAY	K A Y |
+DOUBLE	D O U B L E |
+YOU	Y O U |
+OH	O H |
+OH	O H |
+DEE	D E E |
+TEE	T E E |
+AYCH	A Y C H |
+AY	A Y |
+WHY	W H Y |
+EE	E E |
+AR	A R |
+AY	A Y |
+EL	E L |
+TEE	T E E |
+EM	E M |
+AY	A Y |
+EN	E N |
+EN	E N |
+EL	E L |
+EE	E E |
+YOU	Y O U |
+EL	E L |
+EYE	E Y E |
+EE	E E |
+TEE	T E E |
+TEE	T E E |
+EE	E E |
+AY	A Y |
+EL	E L |
+EL	E L |
+EE	E E |
+VEE	V E E |
+AY	A Y |
+AYCH	A Y C H |
+OH	O H |
+WHY	W H Y |
+AY	A Y |
+ESS	E S S |
+PEE	P E E |
+EN	E N |
+EE	E E |
+ESS	E S S |
+AR	A R |
+OH	O H |
+ESS	E S S |
+EE	E E |
+EN	E N |
+EFF	E F F |
+EE	E E |
+EL	E L |
+DEE	D E E |
+KAY	K A Y |
+EE	E E |
+AY	A Y |
+EN	E N |
+EE	E E |
+ESS	E S S |
+KAY	K A Y |
+EE	E E |
+EE	E E |
+ESS	E S S |
+BEE	B E E |
+EE	E E |
+SEE	S E E |
+AYCH	A Y C H |
+TEE	T E E |
+EE	E E |
+EL	E L |
+EM	E M |
+OH	O H |
+AYCH	A Y C H |
+EN	E N |
+KAY	K A Y |
+EE	E E |
+AR	A R |
+EN	E N |
+EL	E L |
+YOU	Y O U |
+BEE	B E E |
+EYE	E Y E |
+EN	E N |
+ESS	E S S |
+KAY	K A Y |
+EYE	E Y E |
+DOUBLE	D O U B L E |
+YOU	Y O U |
+EYE	E Y E |
+EL	E L |
+EL	E L |
+EYE	E Y E |
+AY	A Y |
+EM	E M |
+ESS	E S S |
+AYCH	A Y C H |
+OH	O H |
+EFF	E F F |
+EFF	E F F |
+AR	A R |
+EYE	E Y E |
+SEE	S E E |
+AYCH	A Y C H |
+TEE	T E E |
+EE	E E |
+AR	A R |
+EM	E M |
+AY	A Y |
+ESS	E S S |
+OH	O H |
+EN	E N |
+EE	E E |
+EFF	E F F |
+AR	A R |
+OH	O H |
+EM	E M |
+EL	E L |
+OH	O H |
+OH	O H |
+EFF	E F F |
+BEE	B E E |
+OH	O H |
+YOU	Y O U |
+AR	A R |
+AR	A R |
+OH	O H |
+DOUBLE	D O U B L E |
+YOU	Y O U |
+BEE	B E E |
+AR	A R |
+EE	E E |
+EN	E N |
+EN	E N |
+AY	A Y |
+EN	E N |
+BEE	B E E |
+AR	A R |
+OH	O H |
+ESS	E S S |
+TEE	T E E |
+SEE	S E E |
+EL	E L |
+OH	O H |
+YOU	Y O U |
+TEE	T E E |
+EYE	E Y E |
+EE	E E |
+AR	A R |
+GEE	G E E |
+AR	A R |
+EE	E E |
+EE	E E |
+EN	E N |
+GEE	G E E |
+EYE	E Y E |
+BEE	B E E |
+BEE	B E E |
+ESS	E S S |
+TEE	T E E |
+EYE	E Y E |
+EM	E M |
+EM	E M |
+EM	E M |
+AY	A Y |
+AYCH	A Y C H |
+OH	O H |
+EN	E N |
+EE	E E |
+WHY	W H Y |
+AR	A R |
+OH	O H |
+ZEE	Z E E |
+EE	E E |
+VEE	V E E |
+EE	E E |
+EL	E L |
+DEE	D E E |
+BEE	B E E |
+AR	A R |
+OH	O H |
+DOUBLE	D O U B L E |
+YOU	Y O U |
+EN	E N |
+VEE	V E E |
+AY	A Y |
+EN	E N |
+DEE	D E E |
+EE	E E |
+AR	A R |
+EL	E L |
+AY	A Y |
+AY	A Y |
+EN	E N |
+EE	E E |
+DOUBLE	D O U B L E |
+YOU	Y O U |
+AY	A Y |
+EL	E L |
+DEE	D E E |
+ESS	E S S |
+EM	E M |
+EYE	E Y E |
+TEE	T E E |
+AYCH	A Y C H |
+JAY	J A Y |
+OH	O H |
+AYCH	A Y C H |
+EN	E N |
+ESS	E S S |
+OH	O H |
+EN	E N |
+DOUBLE	D O U B L E |
+YOU	Y O U |
+AY	A Y |
+AR	A R |
+DEE	D E E |
+AY	A Y |
+EM	E M |
+WHY	W H Y |
+BEE	B E E |
+EE	E E |
+VEE	V E E |
+EE	E E |
+AR	A R |
+EL	E L |
+WHY	W H Y |
+SEE	S E E |
+EYE	E Y E |
+EN	E N |
+DEE	D E E |
+WHY	W H Y |
+JAY	J A Y |
+EE	E E |
+AY	A Y |
+EN	E N |
+EFF	E F F |
+AR	A R |
+AY	A Y |
+EN	E N |
+SEE	S E E |
+EE	E E |
+ESS	E S S |
+EM	E M |
+AY	A Y |
+AR	A R |
+WHY	W H Y |
+JAY	J A Y |
+YOU	Y O U |
+EL	E L |
+EYE	E Y E |
+EE	E E |
+JAY	J A Y |
+EE	E E |
+EN	E N |
+EN	E N |
+EYE	E Y E |
+EFF	E F F |
+EE	E E |
+AR	A R |
+JAY	J A Y |
+EE	E E |
+AY	A Y |
+EN	E N |
+EE	E E |
+TEE	T E E |
+TEE	T E E |
+EE	E E |
+KAY	K A Y |
+AY	A Y |
+AR	A R |
+EL	E L |
+AY	A Y |
+KAY	K A Y |
+AY	A Y |
+AR	A R |
+EE	E E |
+EN	E N |
+EL	E L |
+EYE	E Y E |
+EN	E N |
+DEE	D E E |
+AY	A Y |
+EL	E L |
+EYE	E Y E |
+EN	E N |
+DEE	D E E |
+AY	A Y |
+EM	E M |
+OH	O H |
+EN	E N |
+EYE	E Y E |
+SEE	S E E |
+AY	A Y |
+EM	E M |
+AY	A Y |
+AR	A R |
+WHY	W H Y |
+JAY	J A Y |
+OH	O H |
+EN	E N |
+EYE	E Y E |
+SEE	S E E |
+OH	O H |
+EL	E L |
+EE	E E |
+PEE	P E E |
+AYCH	A Y C H |
+WHY	W H Y |
+EL	E L |
+EL	E L |
+EYE	E Y E |
+ESS	E S S |
+ESS	E S S |
+AYCH	A Y C H |
+EE	E E |
+EYE	E Y E |
+EL	E L |
+AY	A Y |
+TEE	T E E |
+AR	A R |
+AY	A Y |
+SEE	S E E |
+WHY	W H Y |
+TEE	T E E |
+EE	E E |
+AR	A R |
+EYE	E Y E |
+EN	E N |
+AY	A Y |
+DOUBLE	D O U B L E |
+YOU	Y O U |
+AYCH	A Y C H |
+EYE	E Y E |
+TEE	T E E |
+EN	E N |
+EE	E E |
+WHY	W H Y |
+AR	A R |
+OH	O H |
+BEE	B E E |
+EE	E E |
+AR	A R |
+TEE	T E E |
+BEE	B E E |
+AR	A R |
+EYE	E Y E |
+AY	A Y |
+EN	E N |
+SEE	S E E |
+EL	E L |
+AY	A Y |
+AR	A R |
+KAY	K A Y |
+SEE	S E E |
+AYCH	A Y C H |
+AR	A R |
+EYE	E Y E |
+ESS	E S S |
+SEE	S E E |
+AYCH	A Y C H |
+AR	A R |
+EYE	E Y E |
+ESS	E S S |
+TEE	T E E |
+OH	O H |
+PEE	P E E |
+AYCH	A Y C H |
+EE	E E |
+AR	A R |
+SEE	S E E |
+AYCH	A Y C H |
+AY	A Y |
+AR	A R |
+EL	E L |
+EE	E E |
+ESS	E S S |
+DEE	D E E |
+AY	A Y |
+VEE	V E E |
+EYE	E Y E |
+DEE	D E E |
+DEE	D E E |
+OH	O H |
+EN	E N |
+AY	A Y |
+EL	E L |
+DEE	D E E |
+DEE	D E E |
+AY	A Y |
+VEE	V E E |
+EYE	E Y E |
+DEE	D E E |
+DEE	D E E |
+EE	E E |
+AR	A R |
+EE	E E |
+KAY	K A Y |
+DEE	D E E |
+AY	A Y |
+EN	E N |
+EYE	E Y E |
+EE	E E |
+EL	E L |
+EE	E E |
+DEE	D E E |
+DOUBLE	D O U B L E |
+YOU	Y O U |
+EYE	E Y E |
+EN	E N |
+EE	E E |
+AR	A R |
+EYE	E Y E |
+SEE	S E E |
+EE	E E |
+AR	A R |
+EYE	E Y E |
+KAY	K A Y |
+EE	E E |
+AR	A R |
+EYE	E Y E |
+SEE	S E E |
+GEE	G E E |
+EL	E L |
+EE	E E |
+EN	E N |
+EN	E N |
+JAY	J A Y |
+AY	A Y |
+EM	E M |
+EE	E E |
+ESS	E S S |
+JAY	J A Y |
+EE	E E |
+EFF	E F F |
+EFF	E F F |
+JAY	J A Y |
+OH	O H |
+EN	E N |
+AY	A Y |
+TEE	T E E |
+AYCH	A Y C H |
+AY	A Y |
+EN	E N |
+JAY	J A Y |
+OH	O H |
+ESS	E S S |
+EE	E E |
+PEE	P E E |
+AYCH	A Y C H |
+JAY	J A Y |
+OH	O H |
+ESS	E S S |
+EE	E E |
+PEE	P E E |
+AYCH	A Y C H |
+JAY	J A Y |
+AY	A Y |
+EM	E M |
+EE	E E |
+ESS	E S S |
+KAY	K A Y |
+AY	A Y |
+AR	A R |
+EL	E L |
+KAY	K A Y |
+EE	E E |
+EN	E N |
+EM	E M |
+EYE	E Y E |
+SEE	S E E |
+AYCH	A Y C H |
+AY	A Y |
+EE	E E |
+EL	E L |
+EM	E M |
+AY	A Y |
+AR	A R |
+KAY	K A Y |
+EM	E M |
+AY	A Y |
+AR	A R |
+KAY	K A Y |
+EM	E M |
+EYE	E Y E |
+SEE	S E E |
+AYCH	A Y C H |
+AY	A Y |
+EE	E E |
+EL	E L |
+EM	E M |
+AY	A Y |
+TEE	T E E |
+TEE	T E E |
+AYCH	A Y C H |
+EE	E E |
+DOUBLE	D O U B L E |
+YOU	Y O U |
+EN	E N |
+EE	E E |
+EYE	E Y E |
+EL	E L |
+EN	E N |
+AY	A Y |
+TEE	T E E |
+AYCH	A Y C H |
+AY	A Y |
+EN	E N |
+AR	A R |
+OH	O H |
+BEE	B E E |
+EE	E E |
+AR	A R |
+TEE	T E E |
+AR	A R |
+AY	A Y |
+EN	E N |
+DEE	D E E |
+WHY	W H Y |
+AR	A R |
+EYE	E Y E |
+SEE	S E E |
+AYCH	A Y C H |
+AY	A Y |
+AR	A R |
+DEE	D E E |
+AR	A R |
+EYE	E Y E |
+SEE	S E E |
+AYCH	A Y C H |
+AY	A Y |
+AR	A R |
+DEE	D E E |
+ESS	E S S |
+TEE	T E E |
+EE	E E |
+VEE	V E E |
+EE	E E |
+EN	E N |
+ESS	E S S |
+TEE	T E E |
+EE	E E |
+VEE	V E E |
+EE	E E |
+EN	E N |
+ESS	E S S |
+TEE	T E E |
+EE	E E |
+VEE	V E E |
+EE	E E |
+EN	E N |
+ESS	E S S |
+TEE	T E E |
+EE	E E |
+VEE	V E E |
+EE	E E |
+EN	E N |
+ESS	E S S |
+TEE	T E E |
+EE	E E |
+VEE	V E E |
+EE	E E |
+TEE	T E E |
+OH	O H |
+EM	E M |
+TEE	T E E |
+EYE	E Y E |
+EM	E M |
+OH	O H |
+TEE	T E E |
+AYCH	A Y C H |
+WHY	W H Y |
+TEE	T E E |
+AYCH	A Y C H |
+OH	O H |
+EM	E M |
+AY	A Y |
+ESS	E S S |
+TEE	T E E |
+AYCH	A Y C H |
+AY	A Y |
+DEE	D E E |
+DOUBLE	D O U B L E |
+YOU	Y O U |
+AY	A Y |
+WHY	W H Y |
+EN	E N |
+EE	E E |
+FIFTY	F I F T Y |
+ONE	O N E |
+FIFTY	F I F T Y |
+SIX	S I X |
+ONE	O N E |
+ZERO	Z E R O |
+SIX	S I X |
+FIVE	F I V E |
+FIFTY	F I F T Y |
+SIX	S I X |
+THIRTY	T H I R T Y |
+TWO	T W O |
+SEVEN	S E V E N |
+FIFTY	F I F T Y |
+FIVE	F I V E |
+THIRTY	T H I R T Y |
+THREE	T H R E E |
+ONE	O N E |
+TEN	T E N |
+ONE	O N E |
+THOUSAND	T H O U S A N D |
+TWO	T W O |
+TWO	T W O |
+NINE	N I N E |
+THREE	T H R E E |
+THREE	T H R E E |
+FOUR	F O U R |
+EIGHT	E I G H T |
+ZERO	Z E R O |
+FIFTY	F I F T Y |
+ONE	O N E |
+FIFTEEN	F I F T E E N |
+FIVE	F I V E |
+SIX	S I X |
+ONE	O N E |
+FIVE	F I V E |
+SIX	S I X |
+FIVE	F I V E |
+THREE	T H R E E |
+FOUR	F O U R |
+FIFTY	F I F T Y |
+SIX	S I X |
+OH	O H |
+FIVE	F I V E |
+ONE	O N E |
+TWO	T W O |
+FOUR	F O U R |
+ONE	O N E |
+THIRTY	T H I R T Y |
+TWO	T W O |
+THIRTY	T H I R T Y |
+ONE	O N E |
+FOUR	F O U R |
+OH	O H |
+THREE	T H R E E |
+TWENTY	T W E N T Y |
+TWO	T W O |
+TWENTY	T W E N T Y |
+SIX	S I X |
+TWO	T W O |
+TEN	T E N |
+ONE	O N E |
+TEN	T E N |
+FORTY	F O R T Y |
+THREE	T H R E E |
+TWENTY	T W E N T Y |
+THREE	T H R E E |
+THREE	T H R E E |
+OH	O H |
+ONE	O N E |
+SIX	S I X |
+THREE	T H R E E |
+EIGHT	E I G H T |
+FIFTY	F I F T Y |
+EIGHT	E I G H T |
+OH	O H |
+NINE	N I N E |
+AND	A N D |
+AY	A Y |
+HALF	H A L F |
+ONE	O N E |
+FOUR	F O U R |
+EIGHT	E I G H T |
+TWO	T W O |
+THREE	T H R E E |
+THREE	T H R E E |
+OH	O H |
+SIX	S I X |
+ONE	O N E |
+ZERO	Z E R O |
+ZERO	Z E R O |
+SIX	S I X |
+SIXTY	S I X T Y |
+THREE	T H R E E |
+SIXTY	S I X T Y |
+FOUR	F O U R |
+AND	A N D |
+AY	A Y |
+HALF	H A L F |
+FOURTEEN	F O U R T E E N |
+FOURTEEN	F O U R T E E N |
+FIVE	F I V E |
+TEN	T E N |
+THREE	T H R E E |
+SEVENTY	S E V E N T Y |
+ONE	O N E |
+THREE	T H R E E |
+ONE	O N E |
+TWO	T W O |
+FIFTY	F I F T Y |
+SIX	S I X |
+SIXTY	S I X T Y |
+NINE	N I N E |
+FIVE	F I V E |
+SIX	S I X |
+THREE	T H R E E |
+ONE	O N E |
+FIVE	F I V E |
+SIX	S I X |
+FOUR	F O U R |
+ZERO	Z E R O |
+SEVEN	S E V E N |
+THIRTY	T H I R T Y |
+FOUR	F O U R |
+SEVEN	S E V E N |
+TWO	T W O |
+ZERO	Z E R O |
+THIRTY	T H I R T Y |
+ONE	O N E |
+FIVE	F I V E |
+THREE	T H R E E |
+TWO	T W O |
+FIFTY	F I F T Y |
+SEVEN	S E V E N |
+FOURTEEN	F O U R T E E N |
+AY	A Y |
+FIVE	F I V E |
+TWO	T W O |
+SEVEN	S E V E N |
+FIFTY	F I F T Y |
+THREE	T H R E E |
+FORTY	F O R T Y |
+TWO	T W O |
+SIX	S I X |
+THIRTY	T H I R T Y |
+SIX	S I X |
+THREE	T H R E E |
+TWO	T W O |
+THREE	T H R E E |
+THREE	T H R E E |
+FOUR	F O U R |
+FOUR	F O U R |
+ONE	O N E |
+ELEVEN	E L E V E N |
+TEN	T E N |
+SEVENTY	S E V E N T Y |
+ONE	O N E |
+ONE	O N E |
+THOUSAND	T H O U S A N D |
+ONE	O N E |
+TWENTY	T W E N T Y |
+TWO	T W O |
+ONE	O N E |
+TWO	T W O |
+FIVE	F I V E |
+TWO	T W O |
+SIXTY	S I X T Y |
+SEVEN	S E V E N |
+TEN	T E N |
+ONE	O N E |
+OH	O H |
+TWO	T W O |
+FIVE	F I V E |
+ONE	O N E |
+ONE	O N E |
+FIVE	F I V E |
+FIVE	F I V E |
+ONE	O N E |
+NINE	N I N E |
+EIGHT	E I G H T |
+FORTY	F O R T Y |
+ONE	O N E |
+SIX	S I X |
+ZERO	Z E R O |
+ONE	O N E |
+FIVE	F I V E |
+EIGHT	E I G H T |
+FOUR	F O U R |
+SIX	S I X |
+SEVEN	S E V E N |
+FOUR	F O U R |
+OH	O H |
+ONE	O N E |
+EM	E M |
+GEE	G E E |
+EE	E E |
+FOUR	F O U R |
+OH	O H |
+TWO	T W O |
+ONE	O N E |
+HUNDRED	H U N D R E D |
+ONE	O N E |
+FIFTY	F I F T Y |
+EM	E M |
+OH	O H |
+AR	A R |
+EE	E E |
+DOUBLE	D O U B L E |
+YOU	Y O U |
+OH	O H |
+OH	O H |
+DEE	D E E |
+AY	A Y |
+WHY	W H Y |
+EL	E L |
+EE	E E |
+ESS	E S S |
+BEE	B E E |
+OH	O H |
+AR	A R |
+OH	O H |
+EFF	E F F |
+EYE	E Y E |
+EN	E N |
+DEE	D E E |
+EL	E L |
+EE	E E |
+WHY	W H Y |
+DEE	D E E |
+AR	A R |
+EYE	E Y E |
+VEE	V E E |
+EE	E E |
+PEE	P E E |
+AYCH	A Y C H |
+EYE	E Y E |
+EL	E L |
+EL	E L |
+EYE	E Y E |
+PEE	P E E |
+ESS	E S S |
+EM	E M |
+EE	E E |
+EM	E M |
+OH	O H |
+AR	A R |
+WHY	W H Y |
+EL	E L |
+AY	A Y |
+EN	E N |
+EE	E E |
+KAY	K A Y |
+YOU	Y O U |
+EN	E N |
+TEE	T E E |
+ZEE	Z E E |
+ESS	E S S |
+PEE	P E E |
+AR	A R |
+EYE	E Y E |
+EN	E N |
+GEE	G E E |
+AYCH	A Y C H |
+OH	O H |
+YOU	Y O U |
+ESS	E S S |
+EE	E E |
+AY	A Y |
+EL	E L |
+EM	E M |
+OH	O H |
+EN	E N |
+TEE	T E E |
+EM	E M |
+EE	E E |
+AY	A Y |
+DEE	D E E |
+OH	O H |
+DOUBLE	D O U B L E |
+YOU	Y O U |
+GEE	G E E |
+AY	A Y |
+TEE	T E E |
+EE	E E |
+DEE	D E E |
+AR	A R |
+EYE	E Y E |
+VEE	V E E |
+EE	E E |
+EM	E M |
+AY	A Y |
+AR	A R |
+GEE	G E E |
+AY	A Y |
+AR	A R |
+EE	E E |
+TEE	T E E |
+AYCH	A Y C H |
+OH	O H |
+BEE	B E E |
+AY	A Y |
+AR	A R |
+TEE	T E E |
+DEE	D E E |
+AY	A Y |
+EL	E L |
+ZEE	Z E E |
+EE	E E |
+EL	E L |
+EL	E L |
+EE	E E |
+EL	E L |
+EL	E L |
+ESS	E S S |
+DOUBLE	D O U B L E |
+YOU	Y O U |
+OH	O H |
+AR	A R |
+TEE	T E E |
+AYCH	A Y C H |
+EE	E E |
+AY	A Y |
+AR	A R |
+EL	E L |
+EFF	E F F |
+OH	O H |
+AR	A R |
+DEE	D E E |
+TEE	T E E |
+AY	A Y |
+EN	E N |
+GEE	G E E |
+EL	E L |
+EE	E E |
+DOUBLE	D O U B L E |
+YOU	Y O U |
+WHY	W H Y |
+EL	E L |
+DEE	D E E |
+EE	E E |
+AY	A Y |
+AR	A R |
+AY	A Y |
+PEE	P E E |
+AY	A Y |
+AYCH	A Y C H |
+OH	O H |
+EE	E E |
+VEE	V E E |
+AY	A Y |
+EL	E L |
+EE	E E |
+AYCH	A Y C H |
+AY	A Y |
+DOUBLE	D O U B L E |
+YOU	Y O U |
+TEE	T E E |
+AYCH	A Y C H |
+OH	O H |
+AR	A R |
+EN	E N |
+EE	E E |
+OH	O H |
+AR	A R |
+SEE	S E E |
+AYCH	A Y C H |
+AY	A Y |
+AR	A R |
+DEE	D E E |
+PEE	P E E |
+EL	E L |
+AY	A Y |
+SEE	S E E |
+EE	E E |
+EM	E M |
+EYE	E Y E |
+DEE	D E E |
+DOUBLE	D O U B L E |
+YOU	Y O U |
+OH	O H |
+OH	O H |
+DEE	D E E |
+EL	E L |
+YOU	Y O U |
+DEE	D E E |
+DOUBLE	D O U B L E |
+YOU	Y O U |
+EYE	E Y E |
+SEE	S E E |
+KAY	K A Y |
+PEE	P E E |
+AY	A Y |
+AR	A R |
+KAY	K A Y |
+AR	A R |
+OH	O H |
+AY	A Y |
+DEE	D E E |
+GEE	G E E |
+AY	A Y |
+AR	A R |
+EL	E L |
+AY	A Y |
+EN	E N |
+DEE	D E E |
+EL	E L |
+OH	O H |
+EN	E N |
+GEE	G E E |
+VEE	V E E |
+EYE	E Y E |
+EE	E E |
+DOUBLE	D O U B L E |
+YOU	Y O U |
+AYCH	A Y C H |
+AY	A Y |
+ESS	E S S |
+TEE	T E E |
+EYE	E Y E |
+EN	E N |
+GEE	G E E |
+ESS	E S S |
+TEE	T E E |
+AR	A R |
+EE	E E |
+EN	E N |
+TEE	T E E |
+OH	O H |
+EN	E N |
+EFF	E F F |
+OH	O H |
+AR	A R |
+DOUBLE	D O U B L E |
+YOU	Y O U |
+AY	A Y |
+AR	A R |
+DEE	D E E |
+ESS	E S S |
+OH	O H |
+YOU	Y O U |
+TEE	T E E |
+AYCH	A Y C H |
+AYCH	A Y C H |
+EYE	E Y E |
+GEE	G E E |
+AYCH	A Y C H |
+EL	E L |
+AY	A Y |
+EN	E N |
+DEE	D E E |
+SEE	S E E |
+OH	O H |
+EN	E N |
+SEE	S E E |
+OH	O H |
+AR	A R |
+DEE	D E E |
+BEE	B E E |
+OH	O H |
+YOU	Y O U |
+CUE	C U E |
+YOU	Y O U |
+EE	E E |
+TEE	T E E |
+BEE	B E E |
+AR	A R |
+AY	A Y |
+DEE	D E E |
+DEE	D E E |
+OH	O H |
+SEE	S E E |
+KAY	K A Y |
+BEE	B E E |
+EE	E E |
+AY	A Y |
+SEE	S E E |
+OH	O H |
+EN	E N |
+EE	E E |
+AY	A Y |
+ESS	E S S |
+TEE	T E E |
+EE	E E |
+EN	E N |
+DEE	D E E |
+AY	A Y |
+VEE	V E E |
+EE	E E |
+FIVE	F I V E |
+ONE	O N E |
+ONE	O N E |
+FIVE	F I V E |
+EM	E M |
+AY	A Y |
+AR	A R |
+GEE	G E E |
+AY	A Y |
+AR	A R |
+EE	E E |
+TEE	T E E |
+DOUBLE	D O U B L E |
+YOU	Y O U |
+EYE	E Y E |
+EL	E L |
+KAY	K A Y |
+EYE	E Y E |
+EN	E N |
+ESS	E S S |
+AR	A R |
+YOU	Y O U |
+ESS	E S S |
+KAY	K A Y |
+EYE	E Y E |
+EN	E N |
+EE	E E |
+EL	E L |
+GEE	G E E |
+EYE	E Y E |
+EN	E N |
+EE	E E |
+AY	A Y |
+ESS	E S S |
+TEE	T E E |
+EE	E E |
+EN	E N |
+DEE	D E E |
+AY	A Y |
+VEE	V E E |
+EE	E E |
+EN	E N |
+YOU	Y O U |
+EE	E E |
+SEE	S E E |
+EE	E E |
+EN	E N |
+TEE	T E E |
+AR	A R |
+EE	E E |
+AY	A Y |
+VEE	V E E |
+EE	E E |
+EN	E N |
+YOU	Y O U |
+EE	E E |
+EE	E E |
+AY	A Y |
+ESS	E S S |
+TEE	T E E |
+EIGHTY	E I G H T Y |
+FIFTH	F I F T H |
+ESS	E S S |
+TEE	T E E |
+AR	A R |
+EE	E E |
+EE	E E |
+TEE	T E E |
+AY	A Y |
+ESS	E S S |
+BEE	B E E |
+YOU	Y O U |
+AR	A R |
+WHY	W H Y |
+PEE	P E E |
+EL	E L |
+AY	A Y |
+SEE	S E E |
+EE	E E |
+AY	A Y |
+EM	E M |
+PEE	P E E |
+EE	E E |
+AR	A R |
+EE	E E |
+BEE	B E E |
+EE	E E |
+AY	A Y |
+SEE	S E E |
+OH	O H |
+EN	E N |
+SEE	S E E |
+EM	E M |
+YOU	Y O U |
+ESS	E S S |
+YOU	Y O U |
+EM	E M |
+EM	E M |
+EE	E E |
+AR	A R |
+EL	E L |
+EE	E E |
+AY	A Y |
+BEE	B E E |
+EE	E E |
+EE	E E |
+EL	E L |
+EE	E E |
+AR	A R |
+BEE	B E E |
+AR	A R |
+OH	O H |
+AY	A Y |
+DEE	D E E |
+AYCH	A Y C H |
+EE	E E |
+AY	A Y |
+DEE	D E E |
+AR	A R |
+OH	O H |
+AY	A Y |
+DEE	D E E |
+DEE	D E E |
+OH	O H |
+YOU	Y O U |
+GEE	G E E |
+EL	E L |
+AY	A Y |
+ESS	E S S |
+PEE	P E E |
+EYE	E Y E |
+EN	E N |
+EE	E E |
+AYCH	A Y C H |
+YOU	Y O U |
+AR	A R |
+ESS	E S S |
+TEE	T E E |
+EFF	E F F |
+EYE	E Y E |
+EFF	E F F |
+TEE	T E E |
+AYCH	A Y C H |
+AY	A Y |
+VEE	V E E |
+EE	E E |
+EN	E N |
+YOU	Y O U |
+EE	E E |
+OH	O H |
+EL	E L |
+DEE	D E E |
+BEE	B E E |
+AY	A Y |
+AR	A R |
+EN	E N |
+DEE	D E E |
+AR	A R |
+EYE	E Y E |
+VEE	V E E |
+EE	E E |
+EM	E M |
+OH	O H |
+AR	A R |
+EE	E E |
+DOUBLE	D O U B L E |
+YOU	Y O U |
+OH	O H |
+OH	O H |
+DEE	D E E |
+OH	O H |
+AY	A Y |
+KAY	K A Y |
+DEE	D E E |
+AY	A Y |
+EL	E L |
+EE	E E |
+DEE	D E E |
+AR	A R |
+EYE	E Y E |
+VEE	V E E |
+EE	E E |
+EN	E N |
+EE	E E |
+GEE	G E E |
+EL	E L |
+EE	E E |
+WHY	W H Y |
+EFF	E F F |
+EE	E E |
+EN	E N |
+EN	E N |
+EYE	E Y E |
+EM	E M |
+OH	O H |
+AR	A R |
+EE	E E |
+EM	E M |
+AY	A Y |
+AR	A R |
+GEE	G E E |
+AY	A Y |
+AR	A R |
+EE	E E |
+TEE	T E E |
+ESS	E S S |
+EE	E E |
+EM	E M |
+PEE	P E E |
+EL	E L |
+EE	E E |
+EM	E M |
+AY	A Y |
+PEE	P E E |
+EL	E L |
+EE	E E |
+FIVE	F I V E |
+TEE	T E E |
+AYCH	A Y C H |
+AY	A Y |
+VEE	V E E |
+EE	E E |
+EN	E N |
+YOU	Y O U |
+EE	E E |
+BEE	B E E |
+YOU	Y O U |
+AR	A R |
+SEE	S E E |
+AYCH	A Y C H |
+EFF	E F F |
+EE	E E |
+EYE	E Y E |
+EL	E L |
+DEE	D E E |
+AY	A Y |
+VEE	V E E |
+EE	E E |
+PEE	P E E |
+AY	A Y |
+TEE	T E E |
+TEE	T E E |
+EE	E E |
+AR	A R |
+ESS	E S S |
+OH	O H |
+EN	E N |
+ESS	E S S |
+EL	E L |
+EE	E E |
+EE	E E |
+PEE	P E E |
+WHY	W H Y |
+AYCH	A Y C H |
+OH	O H |
+EL	E L |
+EL	E L |
+OH	O H |
+DOUBLE	D O U B L E |
+YOU	Y O U |
+SEE	S E E |
+EE	E E |
+EN	E N |
+TEE	T E E |
+AR	A R |
+EE	E E |
+AY	A Y |
+VEE	V E E |
+EE	E E |
+EM	E M |
+OH	O H |
+AR	A R |
+EE	E E |
+DOUBLE	D O U B L E |
+YOU	Y O U |
+OH	O H |
+OH	O H |
+DEE	D E E |
+ESS	E S S |
+AY	A Y |
+WHY	W H Y |
+BEE	B E E |
+AR	A R |
+OH	O H |
+OH	O H |
+KAY	K A Y |
+AYCH	A Y C H |
+AY	A Y |
+AR	A R |
+BEE	B E E |
+OH	O H |
+AR	A R |
+BEE	B E E |
+YOU	Y O U |
+SEE	S E E |
+KAY	K A Y |
+DOUBLE	D O U B L E |
+YOU	Y O U |
+AYCH	A Y C H |
+EE	E E |
+AY	A Y |
+TEE	T E E |
+PEE	P E E |
+EYE	E Y E |
+TEE	T E E |
+TEE	T E E |
+ESS	E S S |
+BEE	B E E |
+YOU	Y O U |
+AR	A R |
+GEE	G E E |
+AYCH	A Y C H |
+GEE	G E E |
+EYE	E Y E |
+BEE	B E E |
+ESS	E S S |
+OH	O H |
+EN	E N |
+EYE	E Y E |
+AY	A Y |
+PEE	P E E |
+EYE	E Y E |
+TEE	T E E |
+TEE	T E E |
+ESS	E S S |
+BEE	B E E |
+YOU	Y O U |
+AR	A R |
+GEE	G E E |
+AYCH	A Y C H |
+PEE	P E E |
+EYE	E Y E |
+TEE	T E E |
+TEE	T E E |
+ESS	E S S |
+BEE	B E E |
+YOU	Y O U |
+AR	A R |
+GEE	G E E |
+AYCH	A Y C H |
+PEE	P E E |
+EYE	E Y E |
+TEE	T E E |
+TEE	T E E |
+ESS	E S S |
+BEE	B E E |
+YOU	Y O U |
+AR	A R |
+GEE	G E E |
+AYCH	A Y C H |
+EM	E M |
+SEE	S E E |
+KAY	K A Y |
+EE	E E |
+EE	E E |
+ESS	E S S |
+PEE	P E E |
+OH	O H |
+AR	A R |
+TEE	T E E |
+BEE	B E E |
+EE	E E |
+AR	A R |
+KAY	K A Y |
+EE	E E |
+EL	E L |
+EE	E E |
+WHY	W H Y |
+DOUBLE	D O U B L E |
+YOU	Y O U |
+AR	A R |
+EYE	E Y E |
+GEE	G E E |
+AYCH	A Y C H |
+TEE	T E E |
+ESS	E S S |
+VEE	V E E |
+EYE	E Y E |
+EL	E L |
+EL	E L |
+EE	E E |
+PEE	P E E |
+EYE	E Y E |
+TEE	T E E |
+TEE	T E E |
+ESS	E S S |
+BEE	B E E |
+YOU	Y O U |
+AR	A R |
+GEE	G E E |
+AYCH	A Y C H |
+PEE	P E E |
+EYE	E Y E |
+TEE	T E E |
+TEE	T E E |
+ESS	E S S |
+BEE	B E E |
+YOU	Y O U |
+AR	A R |
+GEE	G E E |
+AYCH	A Y C H |
+PEE	P E E |
+EYE	E Y E |
+TEE	T E E |
+TEE	T E E |
+ESS	E S S |
+BEE	B E E |
+YOU	Y O U |
+AR	A R |
+GEE	G E E |
+AYCH	A Y C H |
+PEE	P E E |
+EYE	E Y E |
+TEE	T E E |
+TEE	T E E |
+ESS	E S S |
+BEE	B E E |
+YOU	Y O U |
+AR	A R |
+GEE	G E E |
+AYCH	A Y C H |
+PEE	P E E |
+EYE	E Y E |
+TEE	T E E |
+TEE	T E E |
+ESS	E S S |
+BEE	B E E |
+YOU	Y O U |
+AR	A R |
+GEE	G E E |
+AYCH	A Y C H |
+PEE	P E E |
+EYE	E Y E |
+TEE	T E E |
+TEE	T E E |
+ESS	E S S |
+BEE	B E E |
+YOU	Y O U |
+AR	A R |
+GEE	G E E |
+AYCH	A Y C H |
+BEE	B E E |
+AR	A R |
+OH	O H |
+EN	E N |
+EX	E X |
+VEE	V E E |
+EYE	E Y E |
+EL	E L |
+EL	E L |
+EE	E E |
+PEE	P E E |
+EYE	E Y E |
+TEE	T E E |
+TEE	T E E |
+ESS	E S S |
+BEE	B E E |
+YOU	Y O U |
+AR	A R |
+GEE	G E E |
+AYCH	A Y C H |
+PEE	P E E |
+EYE	E Y E |
+TEE	T E E |
+TEE	T E E |
+ESS	E S S |
+BEE	B E E |
+YOU	Y O U |
+AR	A R |
+GEE	G E E |
+AYCH	A Y C H |
+ESS	E S S |
+DOUBLE	D O U B L E |
+YOU	Y O U |
+EYE	E Y E |
+ESS	E S S |
+ESS	E S S |
+VEE	V E E |
+AY	A Y |
+EL	E L |
+EE	E E |
+DOUBLE	D O U B L E |
+YOU	Y O U |
+AY	A Y |
+TEE	T E E |
+EE	E E |
+AR	A R |
+BEE	B E E |
+YOU	Y O U |
+AR	A R |
+WHY	W H Y |
+PEE	P E E |
+GEE	G E E |
+AYCH	A Y C H |
+DEE	D E E |
+OH	O H |
+DOUBLE	D O U B L E |
+YOU	Y O U |
+EN	E N |
+EYE	E Y E |
+EN	E N |
+GEE	G E E |
+TEE	T E E |
+OH	O H |
+DOUBLE	D O U B L E |
+YOU	Y O U |
+EN	E N |
+PEE	P E E |
+EYE	E Y E |
+TEE	T E E |
+TEE	T E E |
+ESS	E S S |
+BEE	B E E |
+YOU	Y O U |
+AR	A R |
+GEE	G E E |
+AYCH	A Y C H |
+EN	E N |
+EE	E E |
+DOUBLE	D O U B L E |
+YOU	Y O U |
+BEE	B E E |
+YOU	Y O U |
+AR	A R |
+WHY	W H Y |
+PEE	P E E |
+EYE	E Y E |
+TEE	T E E |
+TEE	T E E |
+ESS	E S S |
+BEE	B E E |
+YOU	Y O U |
+AR	A R |
+GEE	G E E |
+AYCH	A Y C H |
+PEE	P E E |
+GEE	G E E |
+AYCH	A Y C H |
+PEE	P E E |
+EYE	E Y E |
+TEE	T E E |
+TEE	T E E |
+ESS	E S S |
+BEE	B E E |
+YOU	Y O U |
+AR	A R |
+GEE	G E E |
+AYCH	A Y C H |
+PEE	P E E |
+EYE	E Y E |
+TEE	T E E |
+TEE	T E E |
+ESS	E S S |
+BEE	B E E |
+YOU	Y O U |
+AR	A R |
+GEE	G E E |
+EYE	E Y E |
+TEE	T E E |
+AYCH	A Y C H |
+AY	A Y |
+SEE	S E E |
+AY	A Y |
+PEE	P E E |
+EYE	E Y E |
+TEE	T E E |
+TEE	T E E |
+ESS	E S S |
+BEE	B E E |
+YOU	Y O U |
+AR	A R |
+GEE	G E E |
+AYCH	A Y C H |
+PEE	P E E |
+EYE	E Y E |
+TEE	T E E |
+TEE	T E E |
+ESS	E S S |
+BEE	B E E |
+YOU	Y O U |
+AR	A R |
+GEE	G E E |
+AYCH	A Y C H |
+PEE	P E E |
+EYE	E Y E |
+TEE	T E E |
+TEE	T E E |
+ESS	E S S |
+BEE	B E E |
+YOU	Y O U |
+AR	A R |
+GEE	G E E |
+AYCH	A Y C H |
+PEE	P E E |
+GEE	G E E |
+AYCH	A Y C H |
+PEE	P E E |
+EYE	E Y E |
+TEE	T E E |
+TEE	T E E |
+ESS	E S S |
+BEE	B E E |
+YOU	Y O U |
+AR	A R |
+GEE	G E E |
+AYCH	A Y C H |
+PEE	P E E |
+EYE	E Y E |
+TEE	T E E |
+TEE	T E E |
+ESS	E S S |
+BEE	B E E |
+YOU	Y O U |
+AR	A R |
+GEE	G E E |
+AYCH	A Y C H |
+PEE	P E E |
+EYE	E Y E |
+TEE	T E E |
+TEE	T E E |
+ESS	E S S |
+BEE	B E E |
+YOU	Y O U |
+AR	A R |
+GEE	G E E |
+AYCH	A Y C H |
+PEE	P E E |
+EYE	E Y E |
+TEE	T E E |
+TEE	T E E |
+ESS	E S S |
+BEE	B E E |
+YOU	Y O U |
+AR	A R |
+GEE	G E E |
+AYCH	A Y C H |
+PEE	P E E |
+EYE	E Y E |
+TEE	T E E |
+TEE	T E E |
+ESS	E S S |
+BEE	B E E |
+YOU	Y O U |
+AR	A R |
+GEE	G E E |
+AYCH	A Y C H |
+EN	E N |
+EE	E E |
+DOUBLE	D O U B L E |
+YOU	Y O U |
+WHY	W H Y |
+OH	O H |
+AR	A R |
+KAY	K A Y |
+OH	O H |
+APOSTROPHE	A P O S T R O P H E |
+AYCH	A Y C H |
+AY	A Y |
+AR	A R |
+AY	A Y |
+PEE	P E E |
+EYE	E Y E |
+TEE	T E E |
+TEE	T E E |
+ESS	E S S |
+BEE	B E E |
+YOU	Y O U |
+AR	A R |
+GEE	G E E |
+AYCH	A Y C H |
+PEE	P E E |
+EYE	E Y E |
+TEE	T E E |
+TEE	T E E |
+ESS	E S S |
+BEE	B E E |
+YOU	Y O U |
+AR	A R |
+GEE	G E E |
+AYCH	A Y C H |
+PEE	P E E |
+EYE	E Y E |
+TEE	T E E |
+TEE	T E E |
+ESS	E S S |
+BEE	B E E |
+YOU	Y O U |
+AR	A R |
+GEE	G E E |
+AYCH	A Y C H |
+PEE	P E E |
+EYE	E Y E |
+TEE	T E E |
+TEE	T E E |
+ESS	E S S |
+BEE	B E E |
+YOU	Y O U |
+AR	A R |
+GEE	G E E |
+AYCH	A Y C H |
+SEE	S E E |
+AR	A R |
+AY	A Y |
+EFF	E F F |
+TEE	T E E |
+OH	O H |
+EN	E N |
+PEE	P E E |
+EYE	E Y E |
+TEE	T E E |
+TEE	T E E |
+ESS	E S S |
+BEE	B E E |
+YOU	Y O U |
+AR	A R |
+GEE	G E E |
+AYCH	A Y C H |
+EM	E M |
+AY	A Y |
+YOU	Y O U |
+EL	E L |
+DEE	D E E |
+EYE	E Y E |
+EN	E N |
+BEE	B E E |
+AR	A R |
+OH	O H |
+OH	O H |
+EM	E M |
+AY	A Y |
+EL	E L |
+EL	E L |
+VEE	V E E |
+EE	E E |
+AR	A R |
+OH	O H |
+EN	E N |
+AY	A Y |
+PEE	P E E |
+EYE	E Y E |
+TEE	T E E |
+TEE	T E E |
+ESS	E S S |
+BEE	B E E |
+YOU	Y O U |
+AR	A R |
+GEE	G E E |
+AYCH	A Y C H |
+PEE	P E E |
+EYE	E Y E |
+TEE	T E E |
+TEE	T E E |
+ESS	E S S |
+BEE	B E E |
+YOU	Y O U |
+AR	A R |
+GEE	G E E |
+AYCH	A Y C H |
+ZEE	Z E E |
+EE	E E |
+EL	E L |
+EYE	E Y E |
+EE	E E |
+EN	E N |
+OH	O H |
+PEE	P E E |
+EL	E L |
+EE	E E |
+PEE	P E E |
+EYE	E Y E |
+TEE	T E E |
+TEE	T E E |
+ESS	E S S |
+BEE	B E E |
+YOU	Y O U |
+AR	A R |
+GEE	G E E |
+AYCH	A Y C H |
+PEE	P E E |
+EYE	E Y E |
+TEE	T E E |
+TEE	T E E |
+ESS	E S S |
+BEE	B E E |
+YOU	Y O U |
+AR	A R |
+GEE	G E E |
+AYCH	A Y C H |
+PEE	P E E |
+EYE	E Y E |
+TEE	T E E |
+TEE	T E E |
+ESS	E S S |
+BEE	B E E |
+YOU	Y O U |
+AR	A R |
+GEE	G E E |
+AYCH	A Y C H |
+PEE	P E E |
+EYE	E Y E |
+TEE	T E E |
+TEE	T E E |
+ESS	E S S |
+BEE	B E E |
+YOU	Y O U |
+AR	A R |
+GEE	G E E |
+AYCH	A Y C H |
+GEE	G E E |
+EL	E L |
+EE	E E |
+EN	E N |
+ESS	E S S |
+AYCH	A Y C H |
+AY	A Y |
+DOUBLE	D O U B L E |
+YOU	Y O U |
+VEE	V E E |
+EE	E E |
+AR	A R |
+OH	O H |
+EN	E N |
+AY	A Y |
+PEE	P E E |
+EYE	E Y E |
+TEE	T E E |
+TEE	T E E |
+ESS	E S S |
+BEE	B E E |
+YOU	Y O U |
+AR	A R |
+GEE	G E E |
+AYCH	A Y C H |
+PEE	P E E |
+EYE	E Y E |
+TEE	T E E |
+TEE	T E E |
+ESS	E S S |
+BEE	B E E |
+YOU	Y O U |
+AR	A R |
+GEE	G E E |
+AYCH	A Y C H |
+SEE	S E E |
+AY	A Y |
+AR	A R |
+EN	E N |
+EE	E E |
+GEE	G E E |
+EYE	E Y E |
+EE	E E |
+DOUBLE	D O U B L E |
+YOU	Y O U |
+AY	A Y |
+AR	A R |
+AR	A R |
+EE	E E |
+EN	E N |
+PEE	P E E |
+EYE	E Y E |
+TEE	T E E |
+TEE	T E E |
+ESS	E S S |
+BEE	B E E |
+YOU	Y O U |
+AR	A R |
+GEE	G E E |
+AYCH	A Y C H |
+BEE	B E E |
+AR	A R |
+AY	A Y |
+DEE	D E E |
+EFF	E F F |
+OH	O H |
+AR	A R |
+DEE	D E E |
+DOUBLE	D O U B L E |
+YOU	Y O U |
+OH	O H |
+OH	O H |
+DEE	D E E |
+ESS	E S S |
+GEE	G E E |
+EYE	E Y E |
+BEE	B E E |
+ESS	E S S |
+OH	O H |
+EN	E N |
+EYE	E Y E |
+AY	A Y |
+ONE	O N E |
+FIVE	F I V E |
+OH	O H |
+FOUR	F O U R |
+FOUR	F O U R |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+ONE	O N E |
+SEVEN	S E V E N |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+TWO	T W O |
+ONE	O N E |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+ONE	O N E |
+SEVEN	S E V E N |
+ONE	O N E |
+FIVE	F I V E |
+ONE	O N E |
+THREE	T H R E E |
+THREE	T H R E E |
+ONE	O N E |
+SEVEN	S E V E N |
+THREE	T H R E E |
+SIX	S I X |
+EIGHT	E I G H T |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+ONE	O N E |
+SEVEN	S E V E N |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+ONE	O N E |
+OH	O H |
+ONE	O N E |
+FIVE	F I V E |
+SIX	S I X |
+SIX	S I X |
+EIGHT	E I G H T |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+ONE	O N E |
+THREE	T H R E E |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+ONE	O N E |
+SEVEN	S E V E N |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+ONE	O N E |
+SEVEN	S E V E N |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+THREE	T H R E E |
+TWO	T W O |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+TWO	T W O |
+SEVEN	S E V E N |
+ONE	O N E |
+OH	O H |
+SEVEN	S E V E N |
+OH	O H |
+EIGHT	E I G H T |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+FOUR	F O U R |
+ONE	O N E |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+THREE	T H R E E |
+NINE	N I N E |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+ONE	O N E |
+EIGHT	E I G H T |
+ONE	O N E |
+FIVE	F I V E |
+ONE	O N E |
+FOUR	F O U R |
+THREE	T H R E E |
+OH	O H |
+SIX	S I X |
+SEVEN	S E V E N |
+OH	O H |
+EIGHT	E I G H T |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+ONE	O N E |
+SEVEN	S E V E N |
+ONE	O N E |
+NINE	N I N E |
+THREE	T H R E E |
+THREE	T H R E E |
+FIVE	F I V E |
+NINE	N I N E |
+FOUR	F O U R |
+OH	O H |
+EIGHT	E I G H T |
+SIX	S I X |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+THREE	T H R E E |
+TWO	T W O |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+OH	O H |
+SIX	S I X |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+TWO	T W O |
+ONE	O N E |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+ONE	O N E |
+SEVEN	S E V E N |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+ONE	O N E |
+SEVEN	S E V E N |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+OH	O H |
+SIX	S I X |
+ONE	O N E |
+FOUR	F O U R |
+EIGHT	E I G H T |
+FIVE	F I V E |
+OH	O H |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+ONE	O N E |
+THREE	T H R E E |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+TWO	T W O |
+ONE	O N E |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+ONE	O N E |
+SEVEN	S E V E N |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+TWO	T W O |
+ONE	O N E |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+ONE	O N E |
+THREE	T H R E E |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+ONE	O N E |
+SEVEN	S E V E N |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+ONE	O N E |
+THREE	T H R E E |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+ZERO	Z E R O |
+SIX	S I X |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+TWO	T W O |
+ONE	O N E |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+ONE	O N E |
+THREE	T H R E E |
+ONE	O N E |
+OH	O H |
+OH	O H |
+TWO	T W O |
+EIGHT	E I G H T |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+THREE	T H R E E |
+EIGHT	E I G H T |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+ZERO	Z E R O |
+SEVEN	S E V E N |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+ONE	O N E |
+SEVEN	S E V E N |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+ONE	O N E |
+THREE	T H R E E |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+THREE	T H R E E |
+TWO	T W O |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+ONE	O N E |
+SEVEN	S E V E N |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+OH	O H |
+FIVE	F I V E |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+ONE	O N E |
+SEVEN	S E V E N |
+TWO	T W O |
+NINE	N I N E |
+SIX	S I X |
+SIX	S I X |
+TWO	T W O |
+ONE	O N E |
+FIVE	F I V E |
+ONE	O N E |
+FOUR	F O U R |
+SEVEN	S E V E N |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+ONE	O N E |
+THREE	T H R E E |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+ONE	O N E |
+THREE	T H R E E |
+ONE	O N E |
+SIX	S I X |
+OH	O H |
+SIX	S I X |
+THREE	T H R E E |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+ONE	O N E |
+SEVEN	S E V E N |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+OH	O H |
+SIX	S I X |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+TWO	T W O |
+ONE	O N E |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+TWO	T W O |
+SIX	S I X |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+ONE	O N E |
+THREE	T H R E E |
+ONE	O N E |
+FIVE	F I V E |
+ONE	O N E |
+ONE	O N E |
+SIX	S I X |
+ONE	O N E |
+FIVE	F I V E |
+ONE	O N E |
+FOUR	F O U R |
+SEVEN	S E V E N |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+THREE	T H R E E |
+TWO	T W O |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+ONE	O N E |
+SEVEN	S E V E N |
+ONE	O N E |
+FIVE	F I V E |
+ONE	O N E |
+OH	O H |
+SIX	S I X |
+FOUR	F O U R |
+FOUR	F O U R |
+FOUR	F O U R |
+EIGHT	E I G H T |
+FOUR	F O U R |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+THREE	T H R E E |
+TWO	T W O |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+ONE	O N E |
+THREE	T H R E E |
+ONE	O N E |
+FIVE	F I V E |
+OH	O H |
+ONE	O N E |
+FIVE	F I V E |
+ONE	O N E |
+FIVE	F I V E |
+OH	O H |
+FOUR	F O U R |
+FOUR	F O U R |
+TWO	T W O |
+SIX	S I X |
+EIGHT	E I G H T |
+FOUR	F O U R |
+FOUR	F O U R |
+ONE	O N E |
+EIGHT	E I G H T |
+FOUR	F O U R |
+FOUR	F O U R |
+THREE	T H R E E |
+SIX	S I X |
+THREE	T H R E E |
+ONE	O N E |
+TWO	T W O |
+SIX	S I X |
+EIGHT	E I G H T |
+SEVEN	S E V E N |
+FIVE	F I V E |
+EIGHT	E I G H T |
+OH	O H |
+EIGHT	E I G H T |
+TWO	T W O |
+SIX	S I X |
+EIGHT	E I G H T |
+THREE	T H R E E |
+EIGHT	E I G H T |
+ZERO	Z E R O |
+TWO	T W O |
+FOUR	F O U R |
+ONE	O N E |
+TWO	T W O |
+FOUR	F O U R |
+TWO	T W O |
+ONE	O N E |
+EIGHT	E I G H T |
+EIGHT	E I G H T |
+NINE	N I N E |
+SIX	S I X |
+SIX	S I X |
+SIX	S I X |
+FOUR	F O U R |
+SEVEN	S E V E N |
+TWO	T W O |
+NINE	N I N E |
+THREE	T H R E E |
+TWO	T W O |
+OH	O H |
+ONE	O N E |
+FOUR	F O U R |
+SIX	S I X |
+FOUR	F O U R |
+SIX	S I X |
+OH	O H |
+EIGHT	E I G H T |
+THREE	T H R E E |
+TWO	T W O |
+FIVE	F I V E |
+TWO	T W O |
+TWO	T W O |
+OH	O H |
+TWO	T W O |
+NINE	N I N E |
+FOUR	F O U R |
+FOUR	F O U R |
+FOUR	F O U R |
+SEVEN	S E V E N |
+EIGHT	E I G H T |
+EIGHT	E I G H T |
+TWO	T W O |
+EIGHT	E I G H T |
+ONE	O N E |
+OH	O H |
+TWO	T W O |
+THREE	T H R E E |
+TWO	T W O |
+SEVEN	S E V E N |
+ONE	O N E |
+SIX	S I X |
+NINE	N I N E |
+FIVE	F I V E |
+TWO	T W O |
+SIX	S I X |
+EIGHT	E I G H T |
+FIVE	F I V E |
+NINE	N I N E |
+FIVE	F I V E |
+TWO	T W O |
+FOUR	F O U R |
+TWO	T W O |
+ONE	O N E |
+OH	O H |
+FOUR	F O U R |
+FIVE	F I V E |
+ONE	O N E |
+FOUR	F O U R |
+TWO	T W O |
+ONE	O N E |
+OH	O H |
+ONE	O N E |
+NINE	N I N E |
+SIX	S I X |
+SIX	S I X |
+SIX	S I X |
+ONE	O N E |
+FIVE	F I V E |
+ZERO	Z E R O |
+SIX	S I X |
+FOUR	F O U R |
+EIGHT	E I G H T |
+EIGHT	E I G H T |
+FOUR	F O U R |
+ONE	O N E |
+ZERO	Z E R O |
+FIVE	F I V E |
+SEVEN	S E V E N |
+NINE	N I N E |
+ONE	O N E |
+FOUR	F O U R |
+THREE	T H R E E |
+THREE	T H R E E |
+SEVEN	S E V E N |
+ONE	O N E |
+EIGHT	E I G H T |
+SIX	S I X |
+NINE	N I N E |
+FOUR	F O U R |
+ONE	O N E |
+TWO	T W O |
+EIGHT	E I G H T |
+THREE	T H R E E |
+ONE	O N E |
+NINE	N I N E |
+FIVE	F I V E |
+ONE	O N E |
+THREE	T H R E E |
+TWO	T W O |
+SIX	S I X |
+EIGHT	E I G H T |
+THREE	T H R E E |
+ZERO	Z E R O |
+TWO	T W O |
+SEVEN	S E V E N |
+TWO	T W O |
+SEVEN	S E V E N |
+ONE	O N E |
+ZERO	Z E R O |
+EIGHT	E I G H T |
+TWO	T W O |
+SIX	S I X |
+SEVEN	S E V E N |
+FOUR	F O U R |
+ONE	O N E |
+OH	O H |
+FIVE	F I V E |
+NINE	N I N E |
+TWO	T W O |
+TWO	T W O |
+OH	O H |
+THREE	T H R E E |
+SEVEN	S E V E N |
+FIVE	F I V E |
+SEVEN	S E V E N |
+EIGHT	E I G H T |
+EIGHT	E I G H T |
+NINE	N I N E |
+NINE	N I N E |
+FOUR	F O U R |
+TWO	T W O |
+TWO	T W O |
+OH	O H |
+EIGHT	E I G H T |
+ONE	O N E |
+SIX	S I X |
+TWO	T W O |
+ONE	O N E |
+FIVE	F I V E |
+FOUR	F O U R |
+FIVE	F I V E |
+EIGHT	E I G H T |
+FIVE	F I V E |
+FOUR	F O U R |
+SIX	S I X |
+NINE	N I N E |
+FIVE	F I V E |
+TWO	T W O |
+ONE	O N E |
+SIXTY	S I X T Y |
+FIFTY	F I F T Y |
+FIVE	F I V E |
+SIX	S I X |
+FOUR	F O U R |
+FIVE	F I V E |
+THREE	T H R E E |
+THREE	T H R E E |
+SIX	S I X |
+FOUR	F O U R |
+THREE	T H R E E |
+SIX	S I X |
+THREE	T H R E E |
+OH	O H |
+NINE	N I N E |
+SIX	S I X |
+TWO	T W O |
+SEVEN	S E V E N |
+THREE	T H R E E |
+ONE	O N E |
+ONE	O N E |
+THREE	T H R E E |
+THREE	T H R E E |
+EIGHT	E I G H T |
+FOUR	F O U R |
+ONE	O N E |
+TWO	T W O |
+FOUR	F O U R |
+TWO	T W O |
+TWO	T W O |
+THREE	T H R E E |
+FIVE	F I V E |
+SEVEN	S E V E N |
+EIGHT	E I G H T |
+FOUR	F O U R |
+TWO	T W O |
+ONE	O N E |
+SIX	S I X |
+TWO	T W O |
+EIGHT	E I G H T |
+THREE	T H R E E |
+THREE	T H R E E |
+SIX	S I X |
+ONE	O N E |
+ZERO	Z E R O |
+ONE	O N E |
+FIVE	F I V E |
+FIVE	F I V E |
+TWO	T W O |
+SIX	S I X |
+EIGHT	E I G H T |
+FOUR	F O U R |
+ONE	O N E |
+SIX	S I X |
+ONE	O N E |
+FOUR	F O U R |
+ONE	O N E |
+TWO	T W O |
+SIX	S I X |
+EIGHT	E I G H T |
+SEVEN	S E V E N |
+EIGHT	E I G H T |
+EIGHT	E I G H T |
+SEVEN	S E V E N |
+ONE	O N E |
+FOUR	F O U R |
+ONE	O N E |
+TWO	T W O |
+TWO	T W O |
+FOUR	F O U R |
+TWO	T W O |
+SIX	S I X |
+SIX	S I X |
+TWO	T W O |
+SIX	S I X |
+FOUR	F O U R |
+ONE	O N E |
+TWO	T W O |
+FIVE	F I V E |
+TWO	T W O |
+ONE	O N E |
+TWO	T W O |
+EIGHT	E I G H T |
+TWO	T W O |
+FOUR	F O U R |
+TWO	T W O |
+FOUR	F O U R |
+THREE	T H R E E |
+EIGHT	E I G H T |
+THREE	T H R E E |
+TWO	T W O |
+EIGHT	E I G H T |
+TWO	T W O |
+SIX	S I X |
+EIGHT	E I G H T |
+FOUR	F O U R |
+SIX	S I X |
+FIVE	F I V E |
+EIGHT	E I G H T |
+FIVE	F I V E |
+TWO	T W O |
+ONE	O N E |
+OH	O H |
+TWO	T W O |
+SIX	S I X |
+EIGHT	E I G H T |
+SIX	S I X |
+EIGHT	E I G H T |
+THREE	T H R E E |
+FIVE	F I V E |
+ZERO	Z E R O |
+FOUR	F O U R |
+ONE	O N E |
+TWO	T W O |
+SIX	S I X |
+EIGHT	E I G H T |
+THREE	T H R E E |
+ZERO	Z E R O |
+SIX	S I X |
+SIX	S I X |
+FOUR	F O U R |
+ONE	O N E |
+TWO	T W O |
+SIX	S I X |
+EIGHT	E I G H T |
+ONE	O N E |
+ONE	O N E |
+EIGHT	E I G H T |
+FOUR	F O U R |
+TWO	T W O |
+TWO	T W O |
+ONE	O N E |
+TWO	T W O |
+FIVE	F I V E |
+SEVEN	S E V E N |
+OH	O H |
+TWO	T W O |
+SEVEN	S E V E N |
+EIGHT	E I G H T |
+FOUR	F O U R |
+FOUR	F O U R |
+TWO	T W O |
+TWO	T W O |
+TWO	T W O |
+OH	O H |
+EIGHT	E I G H T |
+NINE	N I N E |
+FOUR	F O U R |
+ONE	O N E |
+TWO	T W O |
+FIVE	F I V E |
+TWO	T W O |
+ONE	O N E |
+EIGHT	E I G H T |
+TWO	T W O |
+SIX	S I X |
+OH	O H |
+FOUR	F O U R |
+TWO	T W O |
+TWO	T W O |
+ZERO	Z E R O |
+SEVEN	S E V E N |
+NINE	N I N E |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+ONE	O N E |
+FOUR	F O U R |
+NINE	N I N E |
+FIVE	F I V E |
+FOUR	F O U R |
+THREE	T H R E E |
+OH	O H |
+EIGHT	E I G H T |
+FIVE	F I V E |
+FOUR	F O U R |
+FOUR	F O U R |
+ONE	O N E |
+ONE	O N E |
+SEVEN	S E V E N |
+TWO	T W O |
+FOUR	F O U R |
+SIX	S I X |
+EIGHT	E I G H T |
+ONE	O N E |
+SEVEN	S E V E N |
+SEVEN	S E V E N |
+FIVE	F I V E |
+TWO	T W O |
+NINE	N I N E |
+TWO	T W O |
+TWO	T W O |
+SEVEN	S E V E N |
+TWO	T W O |
+TWO	T W O |
+ZERO	Z E R O |
+FOUR	F O U R |
+ONE	O N E |
+TWO	T W O |
+FIVE	F I V E |
+TWO	T W O |
+ONE	O N E |
+FIVE	F I V E |
+THREE	T H R E E |
+THREE	T H R E E |
+NINE	N I N E |
+SEVEN	S E V E N |
+NINE	N I N E |
+THREE	T H R E E |
+FIVE	F I V E |
+FOUR	F O U R |
+TWO	T W O |
+NINE	N I N E |
+TWO	T W O |
+SIX	S I X |
+EIGHT	E I G H T |
+FIVE	F I V E |
+FIVE	F I V E |
+TWO	T W O |
+FOUR	F O U R |
+FOUR	F O U R |
+ONE	O N E |
+TWO	T W O |
+TWO	T W O |
+SIX	S I X |
+EIGHT	E I G H T |
+FOUR	F O U R |
+FOUR	F O U R |
+SEVEN	S E V E N |
+FOUR	F O U R |
+FOUR	F O U R |
+FIVE	F I V E |
+TWO	T W O |
+EIGHT	E I G H T |
+FIVE	F I V E |
+ONE	O N E |
+EIGHT	E I G H T |
+AREA	A R E A |
+CODE	C O D E |
+FOUR	F O U R |
+ONE	O N E |
+TWO	T W O |
+FOUR	F O U R |
+TWO	T W O |
+TWO	T W O |
+ONE	O N E |
+TWO	T W O |
+TWO	T W O |
+FIVE	F I V E |
+SIX	S I X |
+SIX	S I X |
+FIVE	F I V E |
+NINE	N I N E |
+SIX	S I X |
+SIX	S I X |
+FIVE	F I V E |
+TWO	T W O |
+FOUR	F O U R |
+TWO	T W O |
+TWO	T W O |
+NINE	N I N E |
+ONE	O N E |
+TWO	T W O |
+TWO	T W O |
+SIX	S I X |
+EIGHT	E I G H T |
+FOUR	F O U R |
+SIX	S I X |
+SEVEN	S E V E N |
+EIGHT	E I G H T |
+SIX	S I X |
+EIGHT	E I G H T |
+THREE	T H R E E |
+THREE	T H R E E |
+SEVEN	S E V E N |
+EIGHT	E I G H T |
+ZERO	Z E R O |
+FOUR	F O U R |
+EIGHT	E I G H T |
+SIX	S I X |
+THREE	T H R E E |
+NINE	N I N E |
+FIVE	F I V E |
+OH	O H |
+EIGHT	E I G H T |
+TWO	T W O |
+SIX	S I X |
+EIGHT	E I G H T |
+SIX	S I X |
+EIGHT	E I G H T |
+SEVEN	S E V E N |
+SIX	S I X |
+SIX	S I X |
+ONE	O N E |
+NINE	N I N E |
+EIGHT	E I G H T |
+EIGHT	E I G H T |
+FOUR	F O U R |
+TWO	T W O |
+SEVEN	S E V E N |
+NINE	N I N E |
+TWO	T W O |
+THREE	T H R E E |
+TWO	T W O |
+FOUR	F O U R |
+EIGHT	E I G H T |
+FIVE	F I V E |
+SIX	S I X |
+ONE	O N E |
+FOUR	F O U R |
+NINE	N I N E |
+ZERO	Z E R O |
+FOUR	F O U R |
+EIGHT	E I G H T |
+FOUR	F O U R |
+TWO	T W O |
+NINE	N I N E |
+THREE	T H R E E |
+FIVE	F I V E |
+OH	O H |
+SIX	S I X |
+NINE	N I N E |
+TWO	T W O |
+SIX	S I X |
+TWO	T W O |
+FIVE	F I V E |
+ONE	O N E |
+FIVE	F I V E |
+SIX	S I X |
+FOUR	F O U R |
+MARCH	M A R C H |
+THIRD	T H I R D |
+NINETEEN	N I N E T E E N |
+TWENTY	T W E N T Y |
+EIGHT	E I G H T |
+JUNE	J U N E |
+ELEVENTH	E L E V E N T H |
+NINETEEN	N I N E T E E N |
+SIXTY	S I X T Y |
+SEVEN	S E V E N |
+TWO	T W O |
+FIFTEEN	F I F T E E N |
+SIXTY	S I X T Y |
+TWO	T W O |
+SEPTEMBER	S E P T E M B E R |
+FIFTEENTH	F I F T E E N T H |
+NINETEEN	N I N E T E E N |
+SIXTY	S I X T Y |
+FIVE	F I V E |
+MAY	M A Y |
+TWENTY	T W E N T Y |
+FIRST	F I R S T |
+NINETEEN	N I N E T E E N |
+SIXTY	S I X T Y |
+ELEVEN	E L E V E N |
+NINE	N I N E |
+SIXTY	S I X T Y |
+EIGHT	E I G H T |
+OCTOBER	O C T O B E R |
+FIRST	F I R S T |
+NINETEEN	N I N E T E E N |
+SIXTY	S I X T Y |
+NINE	N I N E |
+FIVE	F I V E |
+TWENTY	T W E N T Y |
+SIX	S I X |
+FORTY	F O R T Y |
+FIVE	F I V E |
+THIRTY	T H I R T Y |
+ONE	O N E |
+JAY	J A Y |
+AY	A Y |
+EN	E N |
+YOU	Y O U |
+AY	A Y |
+AR	A R |
+WHY	W H Y |
+ONE	O N E |
+NINE	N I N E |
+SEVEN	S E V E N |
+ZERO	Z E R O |
+THREE	T H R E E |
+TWENTY	T W E N T Y |
+SEVEN	S E V E N |
+SIXTY	S I X T Y |
+EIGHT	E I G H T |
+NINE	N I N E |
+TWENTY	T W E N T Y |
+THREE	T H R E E |
+SIXTY	S I X T Y |
+THREE	T H R E E |
+SEVEN	S E V E N |
+FOURTEEN	F O U R T E E N |
+SIXTY	S I X T Y |
+ONE	O N E |
+JANUARY	J A N U A R Y |
+FIFTEENTH	F I F T E E N T H |
+NINETEEN	N I N E T E E N |
+SIXTY	S I X T Y |
+THREE	T H R E E |
+SIX	S I X |
+SEVENTEEN	S E V E N T E E N |
+THIRTY	T H I R T Y |
+SIX	S I X |
+FIVE	F I V E |
+SIXTEEN	S I X T E E N |
+SIXTY	S I X T Y |
+NINE	N I N E |
+DECEMBER	D E C E M B E R |
+EIGHTEENTH	E I G H T E E N T H |
+NINETEEN	N I N E T E E N |
+FORTY	F O R T Y |
+FOUR	F O U R |
+JULY	J U L Y |
+THIRTIETH	T H I R T I E T H |
+NINETEEN	N I N E T E E N |
+SIXTY	S I X T Y |
+FIVE	F I V E |
+JULY	J U L Y |
+TWELFTH	T W E L F T H |
+NINETEEN	N I N E T E E N |
+SIXTY	S I X T Y |
+NINE	N I N E |
+SEPTEMBER	S E P T E M B E R |
+TWENTY	T W E N T Y |
+SEVENTH	S E V E N T H |
+NINETEEN	N I N E T E E N |
+SIXTY	S I X T Y |
+SEVEN	S E V E N |
+TWELVE	T W E L V E |
+NINE	N I N E |
+OF	O F |
+SIXTY	S I X T Y |
+THREE	T H R E E |
+FOURTEEN	F O U R T E E N |
+SIXTY	S I X T Y |
+SEVEN	S E V E N |
+EIGHT	E I G H T |
+FOURTEEN	F O U R T E E N |
+SIXTY	S I X T Y |
+FOUR	F O U R |
+SEVEN	S E V E N |
+MAY	M A Y |
+NINETEEN	N I N E T E E N |
+FORTY	F O R T Y |
+FOUR	F O U R |
+THREE	T H R E E |
+TWELVE	T W E L V E |
+FIFTY	F I F T Y |
+EIGHT	E I G H T |
+AUGUST	A U G U S T |
+SIXTEENTH	S I X T E E N T H |
+NINETEEN	N I N E T E E N |
+SIXTY	S I X T Y |
+FIVE	F I V E |
+SEVEN	S E V E N |
+FIFTEEN	F I F T E E N |
+NINETEEN	N I N E T E E N |
+SEVENTY	S E V E N T Y |
+SIX	S I X |
+SIXTEEN	S I X T E E N |
+SIXTY	S I X T Y |
+FOUR	F O U R |
+SEVEN	S E V E N |
+SIXTY	S I X T Y |
+FOUR	F O U R |
+EFF	E F F |
+EE	E E |
+BEE	B E E |
+ONE	O N E |
+EIGHT	E I G H T |
+ONE	O N E |
+NINE	N I N E |
+SIX	S I X |
+FOUR	F O U R |
+TWELVE	T W E L V E |
+FOUR	F O U R |
+SIXTY	S I X T Y |
+SEVEN	S E V E N |
+TEN	T E N |
+THIRTY	T H I R T Y |
+ONE	O N E |
+FIFTY	F I F T Y |
+EIGHT	E I G H T |
+AUGUST	A U G U S T |
+TWENTY	T W E N T Y |
+SECOND	S E C O N D |
+NINETEEN	N I N E T E E N |
+SIXTY	S I X T Y |
+ONE	O N E |
+SEVEN	S E V E N |
+TWENTY	T W E N T Y |
+NINE	N I N E |
+FIFTY	F I F T Y |
+EIGHT	E I G H T |
+JANUARY	J A N U A R Y |
+TWELFTH	T W E L F T H |
+NINETEEN	N I N E T E E N |
+SIXTY	S I X T Y |
+SIX	S I X |
+OH	O H |
+SIX	S I X |
+OH	O H |
+SEVEN	S E V E N |
+SIX	S I X |
+SIX	S I X |
+AUGUST	A U G U S T |
+TWENTY	T W E N T Y |
+SECOND	S E C O N D |
+NINETEEN	N I N E T E E N |
+SIXTY	S I X T Y |
+NINE	N I N E |
+JUNE	J U N E |
+TWENTY	T W E N T Y |
+THIRD	T H I R D |
+NINETEEN	N I N E T E E N |
+SIXTY	S I X T Y |
+NINE	N I N E |
+SEVEN	S E V E N |
+SEVENTEEN	S E V E N T E E N |
+FIFTY	F I F T Y |
+SEVEN	S E V E N |
+FEBRUARY	F E B R U A R Y |
+EIGHTH	E I G H T H |
+NINETEEN	N I N E T E E N |
+FIFTY	F I F T Y |
+TWO	T W O |
+MARCH	M A R C H |
+TWENTY	T W E N T Y |
+FIFTH	F I F T H |
+NINETEEN	N I N E T E E N |
+SIXTY	S I X T Y |
+SEVEN	S E V E N |
+MAY	M A Y |
+NINTH	N I N T H |
+SIXTY	S I X T Y |
+TWO	T W O |
+SEPTEMBER	S E P T E M B E R |
+SIXTH	S I X T H |
+NINETEEN	N I N E T E E N |
+SIXTY	S I X T Y |
+SEVEN	S E V E N |
+TEN	T E N |
+TWELVE	T W E L V E |
+SIXTY	S I X T Y |
+SEVEN	S E V E N |
+TWO	T W O |
+TWENTY	T W E N T Y |
+FOUR	F O U R |
+FORTY	F O R T Y |
+NINE	N I N E |
+EIGHTEEN	E I G H T E E N |
+FEBRUARY	F E B R U A R Y |
+NINETEEN	N I N E T E E N |
+SEVENTY	S E V E N T Y |
+APRIL	A P R I L |
+THIRTIETH	T H I R T I E T H |
+NINETEEN	N I N E T E E N |
+SIXTY	S I X T Y |
+NINE	N I N E |
+AUGUST	A U G U S T |
+TWENTY	T W E N T Y |
+FOURTH	F O U R T H |
+NINETEEN	N I N E T E E N |
+FIFTY	F I F T Y |
+TWO	T W O |
+FOUR	F O U R |
+TWENTY	T W E N T Y |
+EIGHT	E I G H T |
+SEVENTY	S E V E N T Y |
+ONE	O N E |
+TWELVE	T W E L V E |
+NINETEEN	N I N E T E E N |
+SIXTY	S I X T Y |
+NINE	N I N E |
+THREE	T H R E E |
+TWENTY	T W E N T Y |
+EIGHT	E I G H T |
+SIXTY	S I X T Y |
+ONE	O N E |
+OCTOBER	O C T O B E R |
+THIRTIETH	T H I R T I E T H |
+NINETEEN	N I N E T E E N |
+SIXTY	S I X T Y |
+ONE	O N E |
+FIVE	F I V E |
+TWO	T W O |
+FIVE	F I V E |
+FIVE	F I V E |
+FIVE	F I V E |
+ONE	O N E |
+SEVEN	S E V E N |
+FORTY	F O R T Y |
+SEVEN	S E V E N |
+THREE	T H R E E |
+ELEVEN	E L E V E N |
+SIXTY	S I X T Y |
+SEVEN	S E V E N |
+NINE	N I N E |
+THIRTY	T H I R T Y |
+SIXTY	S I X T Y |
+FIVE	F I V E |
+TWELVE	T W E L V E |
+TWENTY	T W E N T Y |
+FOUR	F O U R |
+SIXTY	S I X T Y |
+EIGHT	E I G H T |
+ONE	O N E |
+THIRTY	T H I R T Y |
+ONE	O N E |
+SIXTY	S I X T Y |
+THREE	T H R E E |
+SIX	S I X |
+TWENTY	T W E N T Y |
+SIX	S I X |
+SIXTY	S I X T Y |
+THREE	T H R E E |
+ESS	E S S |
+EE	E E |
+PEE	P E E |
+TEE	T E E |
+EE	E E |
+EM	E M |
+BEE	B E E |
+EE	E E |
+AR	A R |
+ONE	O N E |
+TWO	T W O |
+ONE	O N E |
+NINE	N I N E |
+FIVE	F I V E |
+NINE	N I N E |
+SIX	S I X |
+THREE	T H R E E |
+SIXTY	S I X T Y |
+EIGHT	E I G H T |
+ONE	O N E |
+TWO	T W O |
+SEVEN	S E V E N |
+SIX	S I X |
+THREE	T H R E E |
+TEN	T E N |
+TWENTY	T W E N T Y |
+EIGHT	E I G H T |
+SIXTY	S I X T Y |
+NINE	N I N E |
+TWELVE	T W E L V E |
+TEN	T E N |
+SIXTY	S I X T Y |
+NINE	N I N E |
+OCTOBER	O C T O B E R |
+TWENTY	T W E N T Y |
+THIRD	T H I R D |
+NINETEEN	N I N E T E E N |
+SIXTY	S I X T Y |
+SEVEN	S E V E N |
+ELEVEN	E L E V E N |
+SEVENTEEN	S E V E N T E E N |
+FIFTY	F I F T Y |
+ONE	O N E |
