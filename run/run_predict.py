@@ -14,12 +14,18 @@ def asr_predict(ckpt_dir):
     OmegaConf.update(config, "data.dataloader.validation_batch_size", 200)
     data_module = ASRDataModule(config)
     data_module.setup("predict")
+    print('validation')
     for batch in data_module.val_dataloader():
         break
     batch['input'] = batch['input'].to(model.device)
     batch['input_lengths'] = batch['input_lengths'].to(model.device)
-    print(model.validation_step(batch, 0))
-
+    model.test_step(batch, 0)
+    print('test')
+    for batch in data_module.val_dataloader():
+        break
+    batch['input'] = batch['input'].to(model.device)
+    batch['input_lengths'] = batch['input_lengths'].to(model.device)
+    model.test_step(batch, 0)
 
 
 

@@ -104,3 +104,30 @@ class ASRModelLightening(BaseModel, pl.LightningModule):
         self.log('val/wer', batch_wer)
 
         return loss
+
+    def test_step(self, batch, batch_idx):
+        model_out = self.model.inference(batch)
+        log_probs = torch.log_softmax(model_out['preds'], dim=2)
+        loss = self.loss(log_probs=log_probs, input_lengths=model_out['preds_len'],
+                         targets=batch['target'], target_lengths=batch['target_lengths'])
+        # model_out_for_loss = {k: v for k, v in model_out.items() if k in self.loss.get_inputs_from_model_names()}
+        # data_for_loss = {k: v for k, v in batch.items() if k in self.loss.get_inputs_from_data_names()}
+        # loss_dict = self.loss(model_out_for_loss, data_for_loss)
+
+        pred_labels = torch.argmax(log_probs, dim=2)
+        timed_preds = [self.tokenizer.labels_to_text(label) for label in pred_labels.T]
+        text_preds = [self.tokenizer.labels_to_text_to_eval(self.tokenizer.collapse_labels(label)) for label in pred_labels.T]
+        raw_text_preds = [self.tokenizer.labels_to_text(self.tokenizer.collapse_labels(label)) for label in
+                      pred_labels.T]
+        gt_texts = self.tokenizer.from_targets_to_texts(batch['target'], batch['target_lengths'])
+        batch_wer = wer(gt_texts, text_preds)
+        beamsearch_input = (log_probs.permute([1,0,2]).detach().cpu().contiguous(),
+                                                    model_out['preds_len'].detach().cpu())
+        beamsearch_preds = self.beamsearch_decoder(*beamsearch_input)
+        beamsearch_preds = [self.tokenizer.post_process(" ".join(p[0].words)) for p in beamsearch_preds]
+        beam_wer = wer(gt_texts, beamsearch_preds)
+        print(f'test/wer_beamsearch: {beam_wer}')
+        print(f'test/wer: {batch_wer}')
+        print(f'test/loss: {loss}')
+
+        return loss, batch_wer, beam_wer, beamsearch_input
