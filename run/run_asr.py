@@ -17,6 +17,7 @@ def asr_pipe(config: DictConfig):
     # wandb.login(key = '599e3f8046b44d0d6d7fe5168ad43a34d81a9b20')
     logger = WandbLogger(name='asr_project', save_dir=config.model_dir, entity='huji_ayanas')
     logger.experiment.config.update(OmegaConf.to_container(config, resolve=True))
+    config.save(f"{logger.save_dir}/hydra_config.yaml")
 
     checkpoint_callback = ModelCheckpoint(monitor='val/wer',
                                           save_top_k=1, every_n_epochs=1)
