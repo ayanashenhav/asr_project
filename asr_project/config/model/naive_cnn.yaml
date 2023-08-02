@@ -4,4 +4,6 @@ architecture:
   hidden_channels: 100
   out_channels: ${tokenizer.n_tokens}
   kernel_size: 5
+  num_res_blocks: null
   num_conv_blocks: 7
+  p: 0.0
