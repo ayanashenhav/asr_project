@@ -29,7 +29,7 @@ def asr_predict(ckpt_dir):
 
         res = model.test_step(batch, 0)
         import pandas as pd
-        pd.read_pickle(res, 'res.pkl')
+        pd.to_pickle(res, 'res.pkl')
         # print('test')
         # for batch in data_module.val_dataloader():
         #     break
