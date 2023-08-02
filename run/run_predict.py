@@ -26,7 +26,10 @@ def asr_predict(ckpt_dir):
 
         batch['input'] = batch['input'].to(model.device)
         batch['input_lengths'] = batch['input_lengths'].to(model.device)
-        model.test_step(batch, 0)
+
+        res = model.test_step(batch, 0)
+        import pandas as pd
+        pd.read_pickle(res, 'res.pkl')
         # print('test')
         # for batch in data_module.val_dataloader():
         #     break
@@ -37,6 +40,6 @@ def asr_predict(ckpt_dir):
 
 if __name__ == '__main__':
     base_path = os.path.dirname(os.path.dirname(__file__))
-    for ckpt in ['phonemes_all']: # ['naive', 'convert', 'phonemes']:
+    for ckpt in ['phonemes']:
         print(ckpt)
         asr_predict(f'{base_path}/ckpt/{ckpt}')

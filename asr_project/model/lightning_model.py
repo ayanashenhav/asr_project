@@ -130,4 +130,4 @@ class ASRModelLightening(BaseModel, pl.LightningModule):
         print(f'test/wer: {batch_wer}')
         print(f'test/loss: {loss}')
 
-        return loss, batch_wer, beam_wer, beamsearch_input
+        return gt_texts, beamsearch_input
