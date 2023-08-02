@@ -18,16 +18,15 @@ class ASRModelLightening(BaseModel, pl.LightningModule):
         self.loss = hydra.utils.instantiate(config.loss)
         self.tokenizer = TextTokenizer(config.tokenizer)
         self.beamsearch_decoder = None
-        self.init_beamsearch(config)
+        self.init_beamsearch(config.tokenizer)
 
     def init_beamsearch(self, config):
         from torchaudio.models.decoder import ctc_decoder
         import os
         base_path = os.path.dirname(os.path.dirname(os.path.dirname(__file__)))
-        lm_name = "naive"
-        self.beamsearch_decoder = ctc_decoder(lexicon=f"{base_path}/resources/kenlm/{lm_name}/lexicon.txt",
-                                              tokens=f"{base_path}/resources/kenlm/{lm_name}/tokens.txt",
-                                              lm=f"{base_path}/resources/kenlm/{lm_name}/kenlm_5.bin",)
+        self.beamsearch_decoder = ctc_decoder(lexicon=f"{base_path}/resources/kenlm/{config.lm_dir}/lexicon.txt",
+                                              tokens=f"{base_path}/resources/kenlm/{config.lm_dir}/tokens.txt",
+                                              lm=f"{base_path}/resources/kenlm/{config.lm_dir}/{config.lm_file}.bin",)
 
 
     # def get_input_names(self) -> List[str]:

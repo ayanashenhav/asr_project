@@ -3,3 +3,5 @@ n_tokens: 41
 letter_name_handling: pass
 processing: phonemizer
 g2p_fname: phonemes_lexicon.csv
+lm_dir: phonemes
+lm_file: kenlm_5.bin
