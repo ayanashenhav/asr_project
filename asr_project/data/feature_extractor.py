@@ -12,7 +12,7 @@ class FeatureExtractor:
             self.compute_deltas = torchaudio.transforms.ComputeDeltas()
 
     def __call__(self, raw_wav):
-        mfcc_res = self.mfcc(raw_wav)
+        mfcc_res = self.mfcc(raw_wav)[1:,:]
         if self.compute_deltas:
             delta_one = self.compute_deltas(mfcc_res)
             delta_two = self.compute_deltas(delta_one)
