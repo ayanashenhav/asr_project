@@ -20,7 +20,7 @@ def asr_predict(ckpt_dir):
     for model_path in os.listdir(ckpt_dir):
         if not model_path.endswith('.ckpt'):
             continue
-        print(model_path
+        print(model_path)
         model_path = os.path.join(ckpt_dir, model_path)
         model = ASRModelLightening.load_from_checkpoint(model_path, config=config)
 
