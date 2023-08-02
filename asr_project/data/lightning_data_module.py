@@ -21,8 +21,9 @@ class ASRDataModule(pl.LightningDataModule):
         if stage == "test":
             pass
         if stage == "predict":
-            self.trainset = ASRDataSet(self.config, mode='train')
+            self.trainset = ASRDataSet(self.config, mode='validation')
             self.validset = ASRDataSet(self.config, mode='validation')
+            self.testset = ASRDataSet(self.config, mode='test')
 
         self.print_logs()
 
