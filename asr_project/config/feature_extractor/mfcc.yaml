@@ -6,5 +6,5 @@ cls:
   melkwargs:
     n_fft: 1000
     n_mels: 128
-n_features: 36
+n_features: 39
 name: MFCC
