@@ -7,3 +7,4 @@ defaults:
   - loss: ctc
   - data: an4
   - /feature_extractor@feature_extractor: mfcc
+  - /tokenizer@tokenizer: convert

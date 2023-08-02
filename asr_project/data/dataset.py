@@ -27,7 +27,7 @@ class ASRDataSet(Dataset):
         samples = self.read_samples()
         self.samples = samples
 
-        self.tokenizer = TextTokenizer(self.config.tokenizer)
+        self.tokenizer = TextTokenizer(config.tokenizer)
         self.feature_extractor = hydra.utils.instantiate(config.feature_extractor.cls)
         self.output_per_sec = self.feature_extractor(torch.rand(self.feature_extractor.sample_rate)).shape[1]
         if self.config['prepare_data_on_init']:
@@ -76,7 +76,8 @@ class ASRDataSet(Dataset):
 
             if np.random.rand() < 0.2:
                 sample['input'] = torch.cat([sample['input'],
-                                             torch.zeros(np.random.randint(0, self.output_per_sec//2), sample['input'].shape[1])])
+                                             torch.zeros(np.random.randint(0, self.output_per_sec//2),
+                                                         sample['input'].shape[1])])
         return sample
 
     def print_logs(self, level: int = 0) -> None:
