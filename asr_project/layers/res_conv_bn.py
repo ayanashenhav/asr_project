@@ -43,8 +43,8 @@ class Conv1dBN(nn.Module):
     def forward(self, x):
         o = self.conv1d(x)
         o = self.pad(o)
-        o = nn.functional.relu(o)
         o = self.norm(o)
+        o = nn.functional.relu(o)
         if self.p:
             o = self.dropout(o)
         return o
