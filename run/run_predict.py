@@ -11,7 +11,7 @@ def asr_predict(ckpt_dir):
     config = OmegaConf.load(os.path.join(ckpt_dir, 'config.yaml'))
     model_path = os.path.join(ckpt_dir, 'best.ckpt')
     model = ASRModelLightening.load_from_checkpoint(model_path, config=config)
-    config.put("data.dataloader.validation_batch_size", 200)
+    OmegaConf.update(config, "data.dataloader.validation_batch_size", 200)
     data_module = ASRDataModule(config.data)
     data_module.setup("predict")
     for batch in data_module.val_dataloader():
