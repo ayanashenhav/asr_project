@@ -90,7 +90,7 @@ class ASRModelLightening(BaseModel, pl.LightningModule):
         gt_texts = self.tokenizer.from_targets_to_texts(batch['target'], batch['target_lengths'])
         batch_wer = wer(gt_texts, text_preds)
         if self.current_epoch > 0 and (self.current_epoch % 50 == 0):
-            beamsearch_preds = self.beamsearch_decoder(log_probs.permute([1,0,2]).contiguous(),
+            beamsearch_preds = self.beamsearch_decoder(log_probs.permute([1,0,2]).detach().cpu().contiguous(),
                                                         model_out['preds_len'])
             beamsearch_preds = [self.tokenizer.post_process(" ".join(p[0].words)) for p in beamsearch_preds]
 
