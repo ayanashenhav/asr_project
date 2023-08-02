@@ -15,7 +15,7 @@ class ASRDataModule(pl.LightningDataModule):
         # Assign train/val datasets for use in dataloaders
         if stage == "fit":
             self.trainset = ASRDataSet(self.config, mode='train')
-            self.validset = ASRDataSet(self.config, mode='validation')
+            self.validset = ASRDataSet(self.config, mode='test')
 
         # Assign test dataset for use in dataloader(s)
         if stage == "test":
