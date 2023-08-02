@@ -17,7 +17,7 @@ def asr_predict(ckpt_dir):
     for batch in data_module.val_dataloader():
         break
     batch['input'] = batch['input'].to(model.device)
-    batch['input_length'] = batch['input_length'].to(model.device)
+    batch['input_lengths'] = batch['input_lengths'].to(model.device)
     print(model.validation_step(batch, 0))
 
 
