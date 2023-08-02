@@ -26,7 +26,7 @@ class ASRModelLightening(BaseModel, pl.LightningModule):
         base_path = os.path.dirname(os.path.dirname(os.path.dirname(__file__)))
         self.beamsearch_decoder = ctc_decoder(lexicon=f"{base_path}/resources/kenlm/{config.lm_dir}/lexicon.txt",
                                               tokens=f"{base_path}/resources/kenlm/{config.lm_dir}/tokens.txt",
-                                              lm=f"{base_path}/resources/kenlm/{config.lm_dir}/{config.lm_file}",)
+                                              lm=f"{base_path}/resources/kenlm/{config.lm_dir}/{config.lm_file} ",)
 
 
     # def get_input_names(self) -> List[str]:

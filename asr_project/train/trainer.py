@@ -20,8 +20,8 @@ def main_train(full_path):
     # TODO: Change to W&B
     logger = TensorBoardLogger(save_dir=os.path.join(full_path, 'tb_logs'), name='logs/')
 
-    checkpoint_callback = ModelCheckpoint(monitor='val/loss', dirpath=full_path, save_last=True,
-                                          save_top_k=-1, every_n_epochs=1)
+    checkpoint_callback = ModelCheckpoint(monitor='val/wer', dirpath=full_path,
+                                          save_top_k=-1, every_n_epochs=100)
 
     trainer = pl.Trainer(default_root_dir=full_path,
                          logger=logger,
