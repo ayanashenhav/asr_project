@@ -19,8 +19,8 @@ def asr_pipe(config: DictConfig):
     logger.experiment.config.update(OmegaConf.to_container(config, resolve=True))
     OmegaConf.save(config, f"{logger.save_dir}/hydra_config.yaml")
 
-    checkpoint_callback = ModelCheckpoint(monitor='val/wer',
-                                          save_top_k=1, every_n_epochs=1)
+    checkpoint_callback = ModelCheckpoint(monitor='val/wer', save_last=True,
+                                          save_top_k=10, every_n_epochs=1)
     callbacks = [ModelSummary(max_depth=3), checkpoint_callback]
     trainer = Trainer(logger=logger,
                       callbacks=callbacks,
