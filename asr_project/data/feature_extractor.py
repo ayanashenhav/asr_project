@@ -1,5 +1,6 @@
 import torchaudio
 import torch
+import librosa
 
 class FeatureExtractor:
     def __init__(self, sample_rate, n_mfcc, melkwargs, compute_deltas):
