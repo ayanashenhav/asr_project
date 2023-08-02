@@ -24,10 +24,10 @@ class ASRModelLightening(BaseModel, pl.LightningModule):
         from torchaudio.models.decoder import ctc_decoder
         import os
         base_path = os.path.dirname(os.path.dirname(os.path.dirname(__file__)))
-        lm_name = "convert_letters"
+        lm_name = "naive"
         self.beamsearch_decoder = ctc_decoder(lexicon=f"{base_path}/resources/kenlm/{lm_name}/lexicon.txt",
                                               tokens=f"{base_path}/resources/kenlm/{lm_name}/tokens.txt",
-                                              lm=f"{base_path}/resources/kenlm/{lm_name}/kenlm.bin",)
+                                              lm=f"{base_path}/resources/kenlm/{lm_name}/kenlm_5.bin",)
 
 
     # def get_input_names(self) -> List[str]:
