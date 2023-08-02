@@ -17,6 +17,18 @@ class ASRModelLightening(BaseModel, pl.LightningModule):
         self.model = ModelsFactory(config.model)
         self.loss = hydra.utils.instantiate(config.loss)
         self.tokenizer = TextTokenizer(config.tokenizer)
+        self.beamsearch_decoder = None
+        self.init_beamsearch(config)
+
+    def init_beamsearch(self, config):
+        from torchaudio.models.decoder import ctc_decoder
+        import os
+        base_path = os.path.dirname(os.path.dirname(os.path.dirname(__file__)))
+        lm_name = "convert_letters"
+        self.beamsearch_decoder = ctc_decoder(lexicon=f"{base_path}/resources/kenlm/{lm_name}/lexicon.txt",
+                                              tokens=f"{base_path}/resources/kenlm/{lm_name}/tokens.txt",
+                                              lm=f"{base_path}/resources/kenlm/{lm_name}/kenlm.bin",)
+
 
     # def get_input_names(self) -> List[str]:
     #     return self.model.get_input_names()
@@ -77,11 +89,17 @@ class ASRModelLightening(BaseModel, pl.LightningModule):
                       pred_labels.T]
         gt_texts = self.tokenizer.from_targets_to_texts(batch['target'], batch['target_lengths'])
         batch_wer = wer(gt_texts, text_preds)
-        if self.current_epoch > 0 and (self.current_epoch % 50 == 0):
+        if self.current_epoch > 0 and (self.current_epoch % 2 == 0):
+            beamsearch_preds = self.beamsearch_decoder(log_probs.permute([1,0,2]).contiguous(),
+                                                        model_out['preds_len'])
+            beamsearch_preds = [self.tokenizer.post_process(" ".join(p[0].words)) for p in beamsearch_preds]
+
             self.logger.log_text(key=f"Preds_{self.current_epoch}_epoch_{batch_wer}_wer",
-                                 columns=['GT text', 'Pred text', 'Pred text (raw)', 'Timed Argmax text'],
-                                 data=[(g, t, r, timed) for g, t, r, timed in
-                                       zip(gt_texts, text_preds, raw_text_preds, timed_preds)])
+                                 columns=['GT text', 'Pred text', 'Pred text (raw)', 'Beamsearch Pred Text',
+                                          'Timed Argmax text'],
+                                 data=[(g, t, r, b, timed) for g, t, r, b, timed in
+                                       zip(gt_texts, text_preds, raw_text_preds, beamsearch_preds, timed_preds)])
+            self.log('val/wer_beamsearch', wer(gt_texts, beamsearch_preds))
         # self.log_dict({'val/loss': loss, 'val/wer': batch_wer})
         self.log('val/loss', loss, prog_bar=True)
         self.log('val/wer', batch_wer)
