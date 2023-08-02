@@ -16,7 +16,7 @@ def asr_predict(ckpt_dir):
     data_module.setup("predict")
     for batch in data_module.val_dataloader():
         print(batch.keys())
-        print(batch['inputs'].shape)
+        print(batch['input'].shape)
 
 
 
