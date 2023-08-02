@@ -31,4 +31,5 @@ def asr_predict(ckpt_dir):
 
 if __name__ == '__main__':
     base_path = os.path.dirname(os.path.dirname(__file__))
-    asr_predict(f'{base_path}/ckpt/phonemes')
+    for ckpt in ['naive', 'convert', 'phonemes']:
+        asr_predict(f'{base_path}/ckpt/{ckpt}')

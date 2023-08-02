@@ -3,4 +3,4 @@ n_tokens: 28
 letter_name_handling: pass
 processing: pass
 lm_dir: naive
-lm_file: kenlm.bin
+lm_file: kenlm_5.bin
